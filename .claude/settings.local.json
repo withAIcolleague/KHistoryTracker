@@ -6,7 +6,12 @@
       "WebFetch(domain:db.history.go.kr)",
       "Bash(python -m http.server:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: KHistoryTracker v1.0\n\n- Interactive Korean history map application\n- Timeline slider \\(BC 2333 - 2026\\)\n- Year input feature for quick navigation\n- Theme filters \\(politics, economy, society, culture, war, people\\)\n- 32 years, 43 historical events\n- Minimal design with clean UI\n- Leaflet.js + ESRI satellite imagery\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
