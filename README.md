@@ -3,6 +3,13 @@
 > 한반도 역사를 지도로 추적하는 인터랙티브 웹 애플리케이션
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://k-history-tracker-9afu.vercel.app/)
+
+## 🌐 라이브 데모
+
+**👉 [https://k-history-tracker-9afu.vercel.app/](https://k-history-tracker-9afu.vercel.app/)**
+
+지금 바로 웹에서 체험해보세요!
 
 ## 🗺️ 프로젝트 소개
 

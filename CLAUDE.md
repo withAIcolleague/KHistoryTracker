@@ -2,6 +2,8 @@
 
 한반도 지도 기반 역사 추적 애플리케이션
 
+**🌐 Live Demo**: [https://k-history-tracker-9afu.vercel.app/](https://k-history-tracker-9afu.vercel.app/)
+
 ## 프로젝트 개요
 
 고조선 건국(BC 2333)부터 현재(2026)까지 한반도의 역사를 인터랙티브한 지도로 시각화하는 웹 애플리케이션입니다.
