@@ -1,0 +1,31 @@
+### 한반도 지도 기반 역사 추적자
+
+- 지도 정보는 한반도를 포함하여 만주, 연해주, 일본, 중국 동북부까지 포함한다.
+- 고조선 건국부터 현재까지 스크롤 방식으로 연도를 이동하면서 역사를 추적한다.
+- 테마를 선택하면 해당 테마에 대한 역사를 추적한다.
+- 테마는 다음과 같다.
+    - 정치
+    - 경제
+    - 사회
+    - 문화
+    - 전쟁
+    - 인물
+    - 유물
+- 스크롤 기준 default값은 연도이며 눈금은 기원전 2,333년부터 2026년까지 총 4,359개임. 월을 선택하면 해당 월을 중간으로 하고 전체 기간을 4,359개월로 나눈 눈금으로 표시함. 일을 선택하면 해당 일을 중간으로 하고 전체 기간을 4,359일로 나눈 눈금으로 표시함.
+- 연도별 위치를 통해 수도의 이동, 전쟁의 이동, 인물의 이동 등을 시각적으로 추적할 수 있다.
+- 연도를 선택하면 해당 연도의 역사를 추적한다.
+- 테마를 선택하면 해당 테마에 대한 역사를 추적한다.
+- 연도와 테마를 함께 선택하면 해당 연도의 해당 테마에 대한 역사를 추적한다.
+
+- 참고링크
+  - https://contents.history.go.kr/front/nh/main.do
+  - https://contents.history.go.kr/front/km/main.do
+  - https://contents.history.go.kr/front/hm/main.do
+  - https://db.history.go.kr/diachronic/level.do?itemId=tcct&types=o
+  - https://db.history.go.kr/diachronic/level.do?itemId=sa
+  - https://encykorea.aks.ac.kr/
+  - https://kyuhgis.snu.ac.kr/
+  - https://hgis.history.go.kr/pro_g1/gis/gisPage.do
+  - https://kyudb.snu.ac.kr/main.do?mid=GZD
+  - https://kyudb.snu.ac.kr/book/list.do
+  - https://kyudb.snu.ac.kr/main.do

@@ -1,0 +1,390 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
+    background: #f5f5f5;
+    min-height: 100vh;
+    padding: 0;
+    color: #1a1a1a;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    background: white;
+    overflow: hidden;
+    height: 100vh;
+    border: 1px solid #e0e0e0;
+}
+
+/* 메인 레이아웃: 왼쪽 패널 + 오른쪽 지도 */
+.main-layout {
+    display: flex;
+    height: 100%;
+    overflow: hidden;
+}
+
+/* 왼쪽 패널 */
+.left-panel {
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    background: #fafafa;
+    border-right: 1px solid #e0e0e0;
+    overflow-y: auto;
+    flex-shrink: 0;
+}
+
+/* 헤더 (왼쪽 패널 내부) */
+header {
+    background: #1a1a1a;
+    color: white;
+    padding: 32px 24px;
+    flex-shrink: 0;
+    border-bottom: 1px solid #333;
+}
+
+header h1 {
+    font-size: 1.4em;
+    margin-bottom: 8px;
+    line-height: 1.2;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+.subtitle {
+    font-size: 0.85em;
+    opacity: 0.7;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.left-panel h3 {
+    color: #1a1a1a;
+    font-size: 0.75em;
+    margin-bottom: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+/* 테마 선택 */
+.controls {
+    padding: 24px;
+    border-bottom: 1px solid #e0e0e0;
+    background: white;
+}
+
+.theme-selector {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.theme-btn {
+    padding: 8px 14px;
+    border: 1px solid #d0d0d0;
+    background: white;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.15s;
+    font-weight: 500;
+    font-size: 0.8em;
+    color: #4a4a4a;
+}
+
+.theme-btn:hover {
+    background: #f5f5f5;
+    border-color: #1a1a1a;
+}
+
+.theme-btn.active {
+    background: #1a1a1a;
+    color: white;
+    border-color: #1a1a1a;
+}
+
+/* 타임라인 */
+.timeline-panel {
+    padding: 24px;
+    border-bottom: 1px solid #e0e0e0;
+    background: white;
+}
+
+.timeline-unit-selector {
+    display: none; /* 월/일 기능 임시 비활성화 */
+}
+
+.timeline-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 16px;
+}
+
+.current-year {
+    font-size: 1.4em;
+    font-weight: 600;
+    color: #1a1a1a;
+    letter-spacing: -0.01em;
+}
+
+.event-count {
+    font-size: 0.8em;
+    color: #666;
+    font-weight: 500;
+}
+
+.year-input-container {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+#yearInput {
+    flex: 1;
+    padding: 10px 12px;
+    border: 1px solid #d0d0d0;
+    background: white;
+    font-size: 0.9em;
+    font-family: inherit;
+    color: #1a1a1a;
+    transition: border-color 0.15s;
+}
+
+#yearInput:focus {
+    outline: none;
+    border-color: #1a1a1a;
+}
+
+#yearInput::placeholder {
+    color: #999;
+}
+
+#yearGoBtn {
+    padding: 10px 20px;
+    border: 1px solid #1a1a1a;
+    background: #1a1a1a;
+    color: white;
+    font-size: 0.85em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+#yearGoBtn:hover {
+    background: white;
+    color: #1a1a1a;
+}
+
+#yearGoBtn:active {
+    transform: scale(0.98);
+}
+
+.timeline-container {
+    position: relative;
+}
+
+#yearSlider {
+    width: 100%;
+    height: 2px;
+    outline: none;
+    -webkit-appearance: none;
+    background: #d0d0d0;
+    cursor: pointer;
+}
+
+#yearSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border-radius: 0;
+    background: #1a1a1a;
+    border: none;
+    cursor: pointer;
+}
+
+#yearSlider::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    border-radius: 0;
+    background: #1a1a1a;
+    border: none;
+    cursor: pointer;
+}
+
+.timeline-labels {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12px;
+    font-size: 0.75em;
+    color: #999;
+    font-weight: 500;
+}
+
+/* 이벤트 목록 */
+.event-list {
+    padding: 24px;
+    flex: 1;
+    overflow-y: auto;
+}
+
+#eventContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.no-events {
+    text-align: center;
+    padding: 60px 20px;
+    color: #999;
+    font-size: 0.85em;
+}
+
+.event-card {
+    background: white;
+    padding: 16px;
+    border: 1px solid #e0e0e0;
+    border-radius: 0;
+    transition: all 0.15s;
+    cursor: pointer;
+}
+
+.event-card:hover {
+    background: #fafafa;
+    border-color: #1a1a1a;
+}
+
+.event-theme {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 0;
+    font-size: 0.7em;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.theme-정치 { background: #f0f0f0; color: #1a1a1a; }
+.theme-경제 { background: #f0f0f0; color: #1a1a1a; }
+.theme-사회 { background: #f0f0f0; color: #1a1a1a; }
+.theme-문화 { background: #f0f0f0; color: #1a1a1a; }
+.theme-전쟁 { background: #1a1a1a; color: white; }
+.theme-인물 { background: #f0f0f0; color: #1a1a1a; }
+
+.event-title {
+    font-size: 1em;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #1a1a1a;
+    line-height: 1.4;
+}
+
+.event-description {
+    color: #666;
+    line-height: 1.6;
+    font-size: 0.85em;
+}
+
+/* 오른쪽 패널: 지도 */
+.right-panel {
+    flex: 1;
+    position: relative;
+    background: #fafafa;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+/* Leaflet 팝업 */
+.leaflet-popup-content-wrapper {
+    border-radius: 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.popup-content {
+    min-width: 200px;
+}
+
+.popup-date {
+    font-size: 0.75em;
+    color: #999;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 500;
+}
+
+.popup-content h4 {
+    margin: 0 0 8px 0;
+    color: #1a1a1a;
+    font-size: 1em;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.popup-content p {
+    margin: 4px 0;
+    color: #666;
+    font-size: 0.85em;
+    line-height: 1.5;
+}
+
+.popup-content p strong {
+    color: #1a1a1a;
+}
+
+/* 스크롤바 스타일링 */
+.left-panel::-webkit-scrollbar,
+.event-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+.left-panel::-webkit-scrollbar-track,
+.event-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.left-panel::-webkit-scrollbar-thumb,
+.event-list::-webkit-scrollbar-thumb {
+    background: #d0d0d0;
+    border-radius: 0;
+}
+
+.left-panel::-webkit-scrollbar-thumb:hover,
+.event-list::-webkit-scrollbar-thumb:hover {
+    background: #b0b0b0;
+}
+
+/* 반응형 */
+@media (max-width: 1024px) {
+    .left-panel {
+        width: 340px;
+    }
+}
+
+@media (max-width: 768px) {
+    .main-layout {
+        flex-direction: column;
+    }
+
+    .left-panel {
+        width: 100%;
+        max-height: 50vh;
+    }
+
+    .right-panel {
+        height: 50vh;
+    }
+}
