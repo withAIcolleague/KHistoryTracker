@@ -78,22 +78,25 @@ function updateBoundaries(year) {
             .find(p => year >= p.start && year <= p.end);
         if (!period) return;
 
-        const polygon = L.polygon(period.polygon, {
-            color: state.color,
-            weight: 3,
-            opacity: 0.9,
-            fillColor: state.color,
-            fillOpacity: 0.12,
-            dashArray: '10, 6',
-            interactive: true
-        }).addTo(map);
+        const polygonArrays = period.polygons ? period.polygons : [period.polygon];
+        polygonArrays.forEach(coords => {
+            const polygon = L.polygon(coords, {
+                color: state.color,
+                weight: 3,
+                opacity: 0.9,
+                fillColor: state.color,
+                fillOpacity: 0.12,
+                dashArray: '10, 6',
+                interactive: true
+            }).addTo(map);
 
-        polygon.bindTooltip(
-            `<span style="font-weight:600;color:${state.color}">${period.label}</span><br><span style="font-size:0.85em;color:#999">경계는 추정치입니다</span>`,
-            { sticky: true, opacity: 0.9 }
-        );
+            polygon.bindTooltip(
+                `<span style="font-weight:600;color:${state.color}">${period.label}</span><br><span style="font-size:0.85em;color:#999">경계는 추정치입니다</span>`,
+                { sticky: true, opacity: 0.9 }
+            );
 
-        boundaryLayers.push(polygon);
+            boundaryLayers.push(polygon);
+        });
     });
 }
 
