@@ -1,0 +1,695 @@
+[
+    {
+        "year": 342,
+        "events": [
+            {
+                "id": "goguryeo-0342-former-yan-invasion",
+                "period": "삼국 시대",
+                "state": "고구려",
+                "ruler": "고국원왕",
+                "theme": "전쟁",
+                "title": "전연의 고구려 침입",
+                "description": "전연이 고구려를 침입하여 국내성을 함락하고 왕실에 큰 피해를 주었다.",
+                "location": {
+                    "lat": 41.16,
+                    "lng": 126.19
+                },
+                "route": [
+                    {
+                        "name": "전연 방면",
+                        "lat": 41.8,
+                        "lng": 123.4,
+                        "modernName": "중국 요녕성 조양(朝陽) 일대"
+                    },
+                    {
+                        "name": "국내성",
+                        "lat": 41.16,
+                        "lng": 126.19,
+                        "modernName": "중국 길림성 집안(集安)시"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 346,
+        "events": [
+            {
+                "id": "baekje-0346-goguryeo-pressure",
+                "period": "삼국 시대",
+                "state": "백제",
+                "ruler": "근초고왕",
+                "theme": "정치",
+                "title": "백제의 전성기 기반 형성",
+                "description": "근초고왕 대에 백제가 마한 세력을 통합하고 대외 진출 기반을 강화하였다.",
+                "location": {
+                    "lat": 37.53,
+                    "lng": 127.12
+                },
+                "locations": [
+                    {
+                        "name": "한성",
+                        "lat": 37.53,
+                        "lng": 127.12,
+                        "modernName": "서울 송파구 (풍납토성)"
+                    },
+                    {
+                        "name": "마한 남부",
+                        "lat": 35.0,
+                        "lng": 126.8,
+                        "modernName": "전라도 일대"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 369,
+        "events": [
+            {
+                "id": "baekje-0369-pyeongyang-campaign",
+                "period": "삼국 시대",
+                "state": "백제",
+                "ruler": "근초고왕",
+                "theme": "전쟁",
+                "title": "백제의 고구려 공격",
+                "description": "백제가 고구려를 공격하며 한강 유역을 기반으로 북진 정책을 전개하였다.",
+                "location": {
+                    "lat": 38.7,
+                    "lng": 127.0
+                },
+                "route": [
+                    {
+                        "name": "한성",
+                        "lat": 37.53,
+                        "lng": 127.12,
+                        "modernName": "서울 송파구 (풍납토성)"
+                    },
+                    {
+                        "name": "고구려 남방 접경",
+                        "lat": 38.7,
+                        "lng": 127.0,
+                        "modernName": "경기·강원 북부 일대"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 371,
+        "events": [
+            {
+                "id": "baekje-0371-gogukwon-death",
+                "period": "삼국 시대",
+                "state": "백제",
+                "ruler": "근초고왕",
+                "theme": "전쟁",
+                "title": "평양성 전투와 고국원왕 전사",
+                "description": "백제가 평양성을 공격하여 고구려 고국원왕이 전사하였다.",
+                "location": {
+                    "lat": 39.03,
+                    "lng": 125.75
+                },
+                "route": [
+                    {
+                        "name": "한성",
+                        "lat": 37.53,
+                        "lng": 127.12,
+                        "modernName": "서울 송파구 (풍납토성)"
+                    },
+                    {
+                        "name": "평양성",
+                        "lat": 39.03,
+                        "lng": 125.75,
+                        "modernName": "북한 평양시"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 372,
+        "events": [
+            {
+                "id": "goguryeo-0372-yullyeong",
+                "period": "삼국 시대",
+                "state": "고구려",
+                "ruler": "소수림왕",
+                "theme": "정치",
+                "title": "고구려 율령 반포",
+                "description": "소수림왕이 율령을 반포하여 중앙 집권 체제를 정비하였다.",
+                "location": {
+                    "lat": 41.16,
+                    "lng": 126.19
+                },
+                "locations": [
+                    {
+                        "name": "국내성",
+                        "lat": 41.16,
+                        "lng": 126.19,
+                        "modernName": "중국 길림성 집안(集安)시"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 384,
+        "events": [
+            {
+                "id": "baekje-0384-buddhism-acceptance",
+                "period": "삼국 시대",
+                "state": "백제",
+                "ruler": "침류왕",
+                "theme": "문화",
+                "title": "백제 불교 수용",
+                "description": "동진의 승려 마라난타가 들어와 백제에서 불교가 수용되었다.",
+                "location": {
+                    "lat": 37.53,
+                    "lng": 127.12
+                },
+                "locations": [
+                    {
+                        "name": "동진",
+                        "lat": 32.06,
+                        "lng": 118.79,
+                        "modernName": "중국 강소성 난징(南京)"
+                    },
+                    {
+                        "name": "한성",
+                        "lat": 37.53,
+                        "lng": 127.12,
+                        "modernName": "서울 송파구 (풍납토성)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 391,
+        "events": [
+            {
+                "id": "goguryeo-0391-gwanggaeto-accession",
+                "period": "삼국 시대",
+                "state": "고구려",
+                "ruler": "광개토대왕",
+                "theme": "정치",
+                "title": "광개토대왕 즉위",
+                "description": "광개토대왕이 즉위하여 고구려의 대외 팽창과 전성기를 이끌었다.",
+                "location": {
+                    "lat": 41.16,
+                    "lng": 126.19
+                },
+                "locations": [
+                    {
+                        "name": "국내성",
+                        "lat": 41.16,
+                        "lng": 126.19,
+                        "modernName": "중국 길림성 집안(集安)시"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 400,
+        "events": [
+            {
+                "id": "goguryeo-0400-silla-relief",
+                "period": "삼국 시대",
+                "state": "고구려",
+                "ruler": "광개토대왕",
+                "theme": "전쟁",
+                "title": "고구려의 신라 구원",
+                "description": "고구려가 왜와 백제의 압박을 받던 신라를 군사적으로 지원하였다.",
+                "location": {
+                    "lat": 35.84,
+                    "lng": 129.21
+                },
+                "route": [
+                    {
+                        "name": "고구려",
+                        "lat": 41.16,
+                        "lng": 126.19,
+                        "modernName": "중국 길림성 집안 일대 (수도)"
+                    },
+                    {
+                        "name": "신라(경주)",
+                        "lat": 35.84,
+                        "lng": 129.21,
+                        "modernName": "경북 경주시"
+                    }
+                ],
+                "locations": [
+                    {
+                        "name": "백제",
+                        "lat": 37.53,
+                        "lng": 127.12,
+                        "modernName": "서울 송파구 (한성 백제)"
+                    },
+                    {
+                        "name": "왜",
+                        "lat": 34.69,
+                        "lng": 135.50,
+                        "modernName": "일본 오사카 일대"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 427,
+        "events": [
+            {
+                "id": "goguryeo-0427-pyeongyang-transfer",
+                "period": "삼국 시대",
+                "state": "고구려",
+                "ruler": "장수왕",
+                "theme": "정치",
+                "title": "고구려 평양 천도",
+                "description": "장수왕이 수도를 국내성에서 평양으로 옮겨 남진 정책을 강화하였다.",
+                "location": {
+                    "lat": 39.03,
+                    "lng": 125.75
+                },
+                "route": [
+                    {
+                        "name": "국내성",
+                        "lat": 41.16,
+                        "lng": 126.19,
+                        "modernName": "중국 길림성 집안(集安)시"
+                    },
+                    {
+                        "name": "평양",
+                        "lat": 39.03,
+                        "lng": 125.75,
+                        "modernName": "북한 평양시"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 475,
+        "events": [
+            {
+                "id": "baekje-0475-hanseong-fall",
+                "period": "삼국 시대",
+                "state": "백제",
+                "ruler": "개로왕",
+                "theme": "전쟁",
+                "title": "고구려의 한성 함락",
+                "description": "장수왕의 공격으로 백제 한성이 함락되고 개로왕이 전사하였다.",
+                "location": {
+                    "lat": 37.53,
+                    "lng": 127.12
+                },
+                "route": [
+                    {
+                        "name": "평양",
+                        "lat": 39.03,
+                        "lng": 125.75,
+                        "modernName": "북한 평양시"
+                    },
+                    {
+                        "name": "한성",
+                        "lat": 37.53,
+                        "lng": 127.12,
+                        "modernName": "서울 송파구 (풍납토성)"
+                    }
+                ]
+            },
+            {
+                "id": "baekje-0475-ungjin-transfer",
+                "period": "삼국 시대",
+                "state": "백제",
+                "ruler": "문주왕",
+                "theme": "정치",
+                "title": "백제 웅진 천도",
+                "description": "한성 함락 이후 백제가 웅진으로 천도하였다.",
+                "location": {
+                    "lat": 36.46,
+                    "lng": 127.12
+                },
+                "route": [
+                    {
+                        "name": "한성",
+                        "lat": 37.53,
+                        "lng": 127.12,
+                        "modernName": "서울 송파구 (풍납토성)"
+                    },
+                    {
+                        "name": "웅진",
+                        "lat": 36.46,
+                        "lng": 127.12,
+                        "modernName": "충남 공주시"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 494,
+        "events": [
+            {
+                "id": "buyeo-0494-collapse",
+                "period": "삼국 시대",
+                "state": "부여",
+                "theme": "정치",
+                "title": "부여의 멸망",
+                "description": "부여가 북방 세력의 압박 속에서 쇠퇴하여 역사 무대에서 사라졌다.",
+                "location": {
+                    "lat": 44.55,
+                    "lng": 124.85
+                }
+            }
+        ]
+    },
+    {
+        "year": 512,
+        "events": [
+            {
+                "id": "silla-0512-usan-conquest",
+                "period": "삼국 시대",
+                "state": "신라",
+                "ruler": "지증왕",
+                "theme": "정치",
+                "title": "우산국 정복",
+                "description": "이사부가 우산국을 복속시켜 신라의 해상 지배력을 넓혔다.",
+                "location": {
+                    "lat": 37.5,
+                    "lng": 130.9
+                },
+                "route": [
+                    {
+                        "name": "신라",
+                        "lat": 35.84,
+                        "lng": 129.21,
+                        "modernName": "경북 경주시"
+                    },
+                    {
+                        "name": "우산국",
+                        "lat": 37.5,
+                        "lng": 130.9,
+                        "modernName": "경북 울릉도"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 520,
+        "events": [
+            {
+                "id": "silla-0520-yullyeong",
+                "period": "삼국 시대",
+                "state": "신라",
+                "ruler": "법흥왕",
+                "theme": "정치",
+                "title": "신라 율령 반포",
+                "description": "법흥왕이 율령을 반포하여 중앙 집권 국가 체제를 강화하였다.",
+                "location": {
+                    "lat": 35.84,
+                    "lng": 129.21
+                }
+            }
+        ]
+    },
+    {
+        "year": 527,
+        "events": [
+            {
+                "id": "silla-0527-buddhism-official",
+                "period": "삼국 시대",
+                "state": "신라",
+                "ruler": "법흥왕",
+                "theme": "문화",
+                "title": "신라 불교 공인",
+                "description": "이차돈의 순교를 계기로 신라에서 불교가 공인되었다.",
+                "location": {
+                    "lat": 35.84,
+                    "lng": 129.21
+                }
+            }
+        ]
+    },
+    {
+        "year": 538,
+        "events": [
+            {
+                "id": "baekje-0538-sabi-transfer",
+                "period": "삼국 시대",
+                "state": "백제",
+                "ruler": "성왕",
+                "theme": "정치",
+                "title": "백제 사비 천도",
+                "description": "성왕이 수도를 웅진에서 사비로 옮기고 국호를 남부여로 선포하였다.",
+                "location": {
+                    "lat": 36.27,
+                    "lng": 126.91
+                },
+                "route": [
+                    {
+                        "name": "웅진",
+                        "lat": 36.46,
+                        "lng": 127.12,
+                        "modernName": "충남 공주시"
+                    },
+                    {
+                        "name": "사비",
+                        "lat": 36.27,
+                        "lng": 126.91,
+                        "modernName": "충남 부여군"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 551,
+        "events": [
+            {
+                "id": "silla-baekje-0551-hanriver-recovery",
+                "period": "삼국 시대",
+                "state": "신라",
+                "ruler": "진흥왕",
+                "theme": "전쟁",
+                "title": "나제 동맹의 한강 유역 회복",
+                "description": "신라와 백제가 연합하여 고구려로부터 한강 유역을 되찾았다.",
+                "location": {
+                    "lat": 37.53,
+                    "lng": 127.12
+                },
+                "locations": [
+                    {
+                        "name": "한강 유역",
+                        "lat": 37.53,
+                        "lng": 127.12,
+                        "modernName": "서울·경기 한강 일대"
+                    },
+                    {
+                        "name": "신라",
+                        "lat": 35.84,
+                        "lng": 129.21,
+                        "modernName": "경북 경주시"
+                    },
+                    {
+                        "name": "백제",
+                        "lat": 36.27,
+                        "lng": 126.91,
+                        "modernName": "서울 송파구 (한성 백제)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 553,
+        "events": [
+            {
+                "id": "silla-0553-hanriver-occupation",
+                "period": "삼국 시대",
+                "state": "신라",
+                "ruler": "진흥왕",
+                "theme": "전쟁",
+                "title": "신라의 한강 유역 독점",
+                "description": "신라가 백제를 배신하고 한강 유역을 차지하여 대외 교통의 주도권을 확보하였다.",
+                "location": {
+                    "lat": 37.53,
+                    "lng": 127.12
+                },
+                "route": [
+                    {
+                        "name": "신라",
+                        "lat": 35.84,
+                        "lng": 129.21,
+                        "modernName": "경북 경주시"
+                    },
+                    {
+                        "name": "한강 유역",
+                        "lat": 37.53,
+                        "lng": 127.12,
+                        "modernName": "서울·경기 한강 일대"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 562,
+        "events": [
+            {
+                "id": "silla-0562-daegaya-annexation",
+                "period": "삼국 시대",
+                "state": "신라",
+                "ruler": "진흥왕",
+                "theme": "전쟁",
+                "title": "대가야 병합",
+                "description": "신라가 대가야를 병합하여 가야 세력을 완전히 흡수하였다.",
+                "location": {
+                    "lat": 35.73,
+                    "lng": 128.26
+                },
+                "route": [
+                    {
+                        "name": "신라",
+                        "lat": 35.84,
+                        "lng": 129.21,
+                        "modernName": "경북 경주시"
+                    },
+                    {
+                        "name": "대가야",
+                        "lat": 35.73,
+                        "lng": 128.26,
+                        "modernName": "경북 고령군"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 612,
+        "events": [
+            {
+                "id": "goguryeo-0612-salsu-battle",
+                "period": "삼국 시대",
+                "state": "고구려",
+                "ruler": "영양왕",
+                "theme": "전쟁",
+                "title": "살수대첩",
+                "description": "을지문덕이 살수에서 수나라 대군을 크게 물리쳤다.",
+                "location": {
+                    "lat": 39.7,
+                    "lng": 125.9
+                },
+                "route": [
+                    {
+                        "name": "수나라 방면",
+                        "lat": 40.8,
+                        "lng": 124.4,
+                        "modernName": "중국 요녕성 요하 서쪽"
+                    },
+                    {
+                        "name": "살수",
+                        "lat": 39.7,
+                        "lng": 125.9,
+                        "modernName": "북한 평안남도 청천강"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 660,
+        "events": [
+            {
+                "id": "baekje-0660-fall",
+                "period": "삼국 시대",
+                "state": "백제",
+                "theme": "전쟁",
+                "title": "백제 멸망",
+                "description": "나당 연합군의 공격으로 백제가 멸망하였다.",
+                "location": {
+                    "lat": 36.27,
+                    "lng": 126.91
+                },
+                "locations": [
+                    {
+                        "name": "사비",
+                        "lat": 36.27,
+                        "lng": 126.91,
+                        "modernName": "충남 부여군"
+                    },
+                    {
+                        "name": "황산벌",
+                        "lat": 36.19,
+                        "lng": 127.1,
+                        "modernName": "충남 논산시 연산면"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 668,
+        "events": [
+            {
+                "id": "goguryeo-0668-fall",
+                "period": "삼국 시대",
+                "state": "고구려",
+                "theme": "전쟁",
+                "title": "고구려 멸망",
+                "description": "나당 연합군의 공격으로 고구려가 멸망하였다.",
+                "location": {
+                    "lat": 39.03,
+                    "lng": 125.75
+                },
+                "locations": [
+                    {
+                        "name": "평양성",
+                        "lat": 39.03,
+                        "lng": 125.75,
+                        "modernName": "북한 평양시"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 676,
+        "events": [
+            {
+                "id": "silla-0676-unification",
+                "period": "삼국 시대",
+                "state": "신라",
+                "theme": "전쟁",
+                "title": "삼국 통일",
+                "description": "신라가 당 세력을 몰아내고 한반도 남부의 통일 질서를 확립하였다.",
+                "location": {
+                    "lat": 35.84,
+                    "lng": 129.21
+                },
+                "locations": [
+                    {
+                        "name": "경주",
+                        "lat": 35.84,
+                        "lng": 129.21,
+                        "modernName": "경북 경주시"
+                    },
+                    {
+                        "name": "매소성",
+                        "lat": 38.10,
+                        "lng": 127.15,
+                        "modernName": "경기 연천군 청산면"
+                    },
+                    {
+                        "name": "기벌포",
+                        "lat": 36.01,
+                        "lng": 126.71,
+                        "modernName": "충남 서천군 금강 하구"
+                    }
+                ]
+            }
+        ]
+    }
+]

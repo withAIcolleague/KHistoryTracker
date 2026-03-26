@@ -19,6 +19,7 @@
                 <div class="controls">
                     <h3>테마 선택</h3>
                     <div class="theme-selector">
+                        <button id="boundaryToggleBtn" class="theme-btn boundary-toggle active" onclick="toggleBoundaries()">경계 ON</button>
                         <button class="theme-btn active" data-theme="all">전체</button>
                         <button class="theme-btn" data-theme="정치">정치</button>
                         <button class="theme-btn" data-theme="경제">경제</button>
@@ -32,10 +33,15 @@
                 <div class="timeline-panel">
                     <h3>타임라인</h3>
 
-                    <div class="timeline-unit-selector">
-                        <button class="unit-btn active" data-unit="year">연</button>
-                        <button class="unit-btn" data-unit="month">월</button>
-                        <button class="unit-btn" data-unit="day">일</button>
+                    <!-- 시대 탭 -->
+                    <div class="period-tabs">
+                        <button class="period-tab active" data-period="all">전체</button>
+                        <button class="period-tab" data-period="ancient">고조선</button>
+                        <button class="period-tab" data-period="three">삼국</button>
+                        <button class="period-tab" data-period="north-south">남북국</button>
+                        <button class="period-tab" data-period="goryeo">고려</button>
+                        <button class="period-tab" data-period="joseon">조선</button>
+                        <button class="period-tab" data-period="modern">근현대</button>
                     </div>
 
                     <div class="timeline-top">
@@ -51,11 +57,17 @@
                     </div>
 
                     <div class="timeline-container">
-                        <input type="range" id="yearSlider" min="-2333" max="2026" value="-2333" step="1">
+                        <!-- ◀ ▶ 이전/다음 사건 버튼 + 슬라이더 -->
+                        <div class="slider-row">
+                            <button class="nav-btn" id="prevEventBtn" title="이전 사건">◀</button>
+                            <input type="range" id="yearSlider" min="-2333" max="2026" value="-2333" step="1">
+                            <button class="nav-btn" id="nextEventBtn" title="다음 사건">▶</button>
+                        </div>
                         <div class="timeline-labels">
                             <span>BC 2333</span>
-                            <span>0</span>
-                            <span>1000</span>
+                            <span>BC 1246</span>
+                            <span>BC 2333</span>
+                            <span>793</span>
                             <span>2026</span>
                         </div>
                     </div>
