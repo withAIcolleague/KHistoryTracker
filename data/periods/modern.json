@@ -1,1051 +1,1110 @@
 [
-    {
-        "year": 1910,
-        "events": [
-            {
-                "id": "colonial-1910-governor-general-installed",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "정치",
-                "title": "조선총독부 통치 시작",
-                "description": "국권 피탈 이후 일본은 조선총독부를 통해 식민 통치를 본격화하였다.",
-                "location": {
-                    "name": "한성",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                }
-            }
+  {
+    "year": 1910,
+    "events": [
+      {
+        "id": "colonial-1910-governor-general-installed",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "정치",
+        "title": "조선총독부 통치 시작",
+        "description": "국권 피탈 이후 일본은 조선총독부를 통해 식민 통치를 본격화하였다.",
+        "location": {
+          "name": "한성",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        }
+      }
+    ]
+  },
+  {
+    "year": 1912,
+    "events": [
+      {
+        "id": "colonial-1912-land-survey",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "경제",
+        "title": "토지 조사 사업 본격화",
+        "description": "일제가 토지 조사 사업을 실시하여 식민지 토지 지배와 수탈 기반을 강화하였다.",
+        "location": {
+          "name": "조선 전역",
+          "mordernName": "한반도 전역",
+          "lat": 36.5,
+          "lng": 127.8
+        },
+        "locations": [
+          {
+            "name": "경성",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "경성 (위치 추정)"
+          },
+          {
+            "name": "평양",
+            "mordernName": "평양시",
+            "lat": 39.03,
+            "lng": 125.75,
+            "modernName": "북한 평양시"
+          },
+          {
+            "name": "전라도 농촌 지역",
+            "mordernName": "전라북도·전라남도 일대",
+            "lat": 35.1,
+            "lng": 126.9,
+            "modernName": "전라도 농촌 지역 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1912,
-        "events": [
-            {
-                "id": "colonial-1912-land-survey",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "경제",
-                "title": "토지 조사 사업 본격화",
-                "description": "일제가 토지 조사 사업을 실시하여 식민지 토지 지배와 수탈 기반을 강화하였다.",
-                "location": {
-                    "name": "조선 전역",
-                    "mordernName": "한반도 전역",
-                    "lat": 36.5,
-                    "lng": 127.8
-                },
-                "locations": [
-                    {
-                        "name": "경성",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "평양",
-                        "mordernName": "평양시",
-                        "lat": 39.03,
-                        "lng": 125.75
-                    },
-                    {
-                        "name": "전라도 농촌 지역",
-                        "mordernName": "전라북도·전라남도 일대",
-                        "lat": 35.1,
-                        "lng": 126.9
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1914,
+    "events": [
+      {
+        "id": "colonial-1914-administrative-reorganization",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "정치",
+        "title": "식민지 행정구역 개편",
+        "description": "일제가 식민 통치 효율화를 위해 행정구역을 재편하였다.",
+        "location": {
+          "name": "조선 전역",
+          "mordernName": "한반도 전역",
+          "lat": 36.5,
+          "lng": 127.8
+        }
+      }
+    ]
+  },
+  {
+    "year": 1919,
+    "events": [
+      {
+        "id": "colonial-1919-march-first-movement",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "사회",
+        "title": "3.1 운동",
+        "description": "전국적으로 독립 만세 운동이 일어나 식민 통치에 저항하였다.",
+        "location": {
+          "name": "경성",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        },
+        "locations": [
+          {
+            "name": "탑골공원",
+            "mordernName": "서울특별시 종로구 탑골공원",
+            "lat": 37.57,
+            "lng": 126.99,
+            "modernName": "탑골공원 (위치 추정)"
+          },
+          {
+            "name": "평양",
+            "mordernName": "평양시",
+            "lat": 39.03,
+            "lng": 125.75,
+            "modernName": "북한 평양시"
+          },
+          {
+            "name": "진남포",
+            "mordernName": "남포시",
+            "lat": 38.73,
+            "lng": 125.4,
+            "modernName": "남포특별시 (북한)"
+          },
+          {
+            "name": "전주",
+            "mordernName": "전주시",
+            "lat": 35.82,
+            "lng": 127.11,
+            "modernName": "전북 전주시"
+          }
+        ],
+        "date": "1919년 3월 1일"
+      },
+      {
+        "id": "colonial-1919-provisional-government",
+        "period": "일제강점기",
+        "state": "대한민국 임시정부",
+        "theme": "정치",
+        "title": "대한민국 임시정부 수립",
+        "description": "해외 독립운동 세력이 상하이에 대한민국 임시정부를 수립하였다.",
+        "location": {
+          "name": "상하이",
+          "mordernName": "중국 상하이시",
+          "lat": 31.23,
+          "lng": 121.47
+        },
+        "route": [
+          {
+            "name": "경성 독립운동권",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "경성 독립운동권 (위치 추정)"
+          },
+          {
+            "name": "상하이",
+            "mordernName": "중국 상하이시",
+            "lat": 31.23,
+            "lng": 121.47,
+            "modernName": "상하이 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1914,
-        "events": [
-            {
-                "id": "colonial-1914-administrative-reorganization",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "정치",
-                "title": "식민지 행정구역 개편",
-                "description": "일제가 식민 통치 효율화를 위해 행정구역을 재편하였다.",
-                "location": {
-                    "name": "조선 전역",
-                    "mordernName": "한반도 전역",
-                    "lat": 36.5,
-                    "lng": 127.8
-                }
-            }
+      }
+    ]
+  },
+  {
+    "year": 1920,
+    "events": [
+      {
+        "id": "colonial-1920-bongodong-battle",
+        "period": "일제강점기",
+        "state": "독립군",
+        "theme": "전쟁",
+        "title": "봉오동 전투",
+        "description": "홍범도 등이 이끄는 독립군이 봉오동에서 일본군을 크게 격파하였다.",
+        "location": {
+          "name": "봉오동",
+          "mordernName": "중국 지린성 옌볜 조선족자치주 훈춘시 권역",
+          "lat": 42.55,
+          "lng": 130.35
+        },
+        "locations": [
+          {
+            "name": "봉오동",
+            "mordernName": "중국 지린성 옌볜 조선족자치주 훈춘시 권역",
+            "lat": 42.55,
+            "lng": 130.35,
+            "modernName": "봉오동 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1919,
-        "events": [
-            {
-                "id": "colonial-1919-march-first-movement",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "사회",
-                "title": "3.1 운동",
-                "description": "전국적으로 독립 만세 운동이 일어나 식민 통치에 저항하였다.",
-                "location": {
-                    "name": "경성",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                },
-                "locations": [
-                    {
-                        "name": "탑골공원",
-                        "mordernName": "서울특별시 종로구 탑골공원",
-                        "lat": 37.57,
-                        "lng": 126.99
-                    },
-                    {
-                        "name": "평양",
-                        "mordernName": "평양시",
-                        "lat": 39.03,
-                        "lng": 125.75
-                    },
-                    {
-                        "name": "진남포",
-                        "mordernName": "남포시",
-                        "lat": 38.73,
-                        "lng": 125.40
-                    },
-                    {
-                        "name": "전주",
-                        "mordernName": "전주시",
-                        "lat": 35.82,
-                        "lng": 127.11
-                    }
-                ],
-                "date": "1919년 3월 1일"
-            },
-            {
-                "id": "colonial-1919-provisional-government",
-                "period": "일제강점기",
-                "state": "대한민국 임시정부",
-                "theme": "정치",
-                "title": "대한민국 임시정부 수립",
-                "description": "해외 독립운동 세력이 상하이에 대한민국 임시정부를 수립하였다.",
-                "location": {
-                    "name": "상하이",
-                    "mordernName": "중국 상하이시",
-                    "lat": 31.23,
-                    "lng": 121.47
-                },
-                "route": [
-                    {
-                        "name": "경성 독립운동권",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "상하이",
-                        "mordernName": "중국 상하이시",
-                        "lat": 31.23,
-                        "lng": 121.47
-                    }
-                ]
-            }
+      },
+      {
+        "id": "colonial-1920-cheongsanri-battle",
+        "period": "일제강점기",
+        "state": "독립군",
+        "theme": "전쟁",
+        "title": "청산리 대첩",
+        "description": "김좌진 등이 이끄는 독립군이 청산리 일대에서 일본군과 싸워 큰 승리를 거두었다.",
+        "location": {
+          "name": "청산리",
+          "mordernName": "중국 지린성 옌볜 조선족자치주 허룽시 권역",
+          "lat": 42.53,
+          "lng": 129.01
+        },
+        "locations": [
+          {
+            "name": "청산리",
+            "mordernName": "중국 지린성 옌볜 조선족자치주 허룽시 권역",
+            "lat": 42.53,
+            "lng": 129.01,
+            "modernName": "청산리 (위치 추정)"
+          },
+          {
+            "name": "간도",
+            "mordernName": "중국 지린성 옌볜 조선족자치주 일대",
+            "lat": 42.88,
+            "lng": 129.51,
+            "modernName": "중국 지린성 연변 일대"
+          }
         ]
-    },
-    {
-        "year": 1920,
-        "events": [
-            {
-                "id": "colonial-1920-bongodong-battle",
-                "period": "일제강점기",
-                "state": "독립군",
-                "theme": "전쟁",
-                "title": "봉오동 전투",
-                "description": "홍범도 등이 이끄는 독립군이 봉오동에서 일본군을 크게 격파하였다.",
-                "location": {
-                    "name": "봉오동",
-                    "mordernName": "중국 지린성 옌볜 조선족자치주 훈춘시 권역",
-                    "lat": 42.55,
-                    "lng": 130.35
-                },
-                "locations": [
-                    {
-                        "name": "봉오동",
-                        "mordernName": "중국 지린성 옌볜 조선족자치주 훈춘시 권역",
-                        "lat": 42.55,
-                        "lng": 130.35
-                    }
-                ]
-            },
-            {
-                "id": "colonial-1920-cheongsanri-battle",
-                "period": "일제강점기",
-                "state": "독립군",
-                "theme": "전쟁",
-                "title": "청산리 대첩",
-                "description": "김좌진 등이 이끄는 독립군이 청산리 일대에서 일본군과 싸워 큰 승리를 거두었다.",
-                "location": {
-                    "name": "청산리",
-                    "mordernName": "중국 지린성 옌볜 조선족자치주 허룽시 권역",
-                    "lat": 42.53,
-                    "lng": 129.01
-                },
-                "locations": [
-                    {
-                        "name": "청산리",
-                        "mordernName": "중국 지린성 옌볜 조선족자치주 허룽시 권역",
-                        "lat": 42.53,
-                        "lng": 129.01
-                    },
-                    {
-                        "name": "간도",
-                        "mordernName": "중국 지린성 옌볜 조선족자치주 일대",
-                        "lat": 42.88,
-                        "lng": 129.51
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1921,
+    "events": [
+      {
+        "id": "colonial-1921-free-city-incident",
+        "period": "일제강점기",
+        "state": "독립군",
+        "theme": "전쟁",
+        "title": "자유시 참변",
+        "description": "러시아 자유시에서 독립군 부대가 큰 피해를 입으며 독립군 재편의 계기가 되었다.",
+        "location": {
+          "name": "자유시",
+          "mordernName": "러시아 아무르주 스보보드니",
+          "lat": 51.38,
+          "lng": 128.13
+        },
+        "route": [
+          {
+            "name": "간도",
+            "mordernName": "중국 지린성 옌볜 조선족자치주 일대",
+            "lat": 42.88,
+            "lng": 129.51,
+            "modernName": "중국 지린성 연변 일대"
+          },
+          {
+            "name": "자유시",
+            "mordernName": "러시아 아무르주 스보보드니",
+            "lat": 51.38,
+            "lng": 128.13,
+            "modernName": "자유시 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1921,
-        "events": [
-            {
-                "id": "colonial-1921-free-city-incident",
-                "period": "일제강점기",
-                "state": "독립군",
-                "theme": "전쟁",
-                "title": "자유시 참변",
-                "description": "러시아 자유시에서 독립군 부대가 큰 피해를 입으며 독립군 재편의 계기가 되었다.",
-                "location": {
-                    "name": "자유시",
-                    "mordernName": "러시아 아무르주 스보보드니",
-                    "lat": 51.38,
-                    "lng": 128.13
-                },
-                "route": [
-                    {
-                        "name": "간도",
-                        "mordernName": "중국 지린성 옌볜 조선족자치주 일대",
-                        "lat": 42.88,
-                        "lng": 129.51
-                    },
-                    {
-                        "name": "자유시",
-                        "mordernName": "러시아 아무르주 스보보드니",
-                        "lat": 51.38,
-                        "lng": 128.13
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1926,
+    "events": [
+      {
+        "id": "colonial-1926-june-tenth-movement",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "사회",
+        "title": "6.10 만세운동",
+        "description": "순종 인산일을 계기로 학생 중심의 항일 만세 운동이 전개되었다.",
+        "location": {
+          "name": "경성",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        }
+      }
+    ]
+  },
+  {
+    "year": 1927,
+    "events": [
+      {
+        "id": "colonial-1927-singanhoe",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "사회",
+        "title": "신간회 창립",
+        "description": "민족주의와 사회주의 계열이 연합한 항일 민족 협동 전선인 신간회가 창립되었다.",
+        "location": {
+          "name": "경성",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        }
+      }
+    ]
+  },
+  {
+    "year": 1929,
+    "events": [
+      {
+        "id": "colonial-1929-gwangju-student-movement",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "사회",
+        "title": "광주학생항일운동",
+        "description": "광주 지역 학생들의 항일 시위가 전국 학생 운동으로 확산되었다.",
+        "location": {
+          "name": "광주",
+          "mordernName": "광주광역시",
+          "lat": 35.16,
+          "lng": 126.85
+        },
+        "locations": [
+          {
+            "name": "광주",
+            "mordernName": "광주광역시",
+            "lat": 35.16,
+            "lng": 126.85,
+            "modernName": "광주광역시"
+          },
+          {
+            "name": "경성",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "경성 (위치 추정)"
+          },
+          {
+            "name": "평양",
+            "mordernName": "평양시",
+            "lat": 39.03,
+            "lng": 125.75,
+            "modernName": "북한 평양시"
+          }
         ]
-    },
-    {
-        "year": 1926,
-        "events": [
-            {
-                "id": "colonial-1926-june-tenth-movement",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "사회",
-                "title": "6.10 만세운동",
-                "description": "순종 인산일을 계기로 학생 중심의 항일 만세 운동이 전개되었다.",
-                "location": {
-                    "name": "경성",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                }
-            }
+      }
+    ]
+  },
+  {
+    "year": 1931,
+    "events": [
+      {
+        "id": "colonial-1931-manchurian-incident-impact",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "전쟁",
+        "title": "만주사변과 독립운동 환경 변화",
+        "description": "일본의 만주사변 이후 만주 지역의 독립운동 환경이 크게 변화하였다.",
+        "location": {
+          "name": "만주",
+          "mordernName": "중국 동북부 일대",
+          "lat": 43.5,
+          "lng": 125.3
+        },
+        "locations": [
+          {
+            "name": "간도",
+            "mordernName": "중국 지린성 옌볜 조선족자치주 일대",
+            "lat": 42.88,
+            "lng": 129.51,
+            "modernName": "중국 지린성 연변 일대"
+          },
+          {
+            "name": "봉천",
+            "mordernName": "중국 랴오닝성 선양시",
+            "lat": 41.8,
+            "lng": 123.43,
+            "modernName": "중국 랴오닝성 선양"
+          },
+          {
+            "name": "하얼빈",
+            "mordernName": "중국 헤이룽장성 하얼빈시",
+            "lat": 45.75,
+            "lng": 126.63,
+            "modernName": "중국 헤이룽장성 하얼빈"
+          }
         ]
-    },
-    {
-        "year": 1927,
-        "events": [
-            {
-                "id": "colonial-1927-singanhoe",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "사회",
-                "title": "신간회 창립",
-                "description": "민족주의와 사회주의 계열이 연합한 항일 민족 협동 전선인 신간회가 창립되었다.",
-                "location": {
-                    "name": "경성",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                }
-            }
+      }
+    ]
+  },
+  {
+    "year": 1932,
+    "events": [
+      {
+        "id": "colonial-1932-yun-bong-gil",
+        "period": "일제강점기",
+        "state": "대한민국 임시정부",
+        "theme": "인물",
+        "title": "윤봉길의 상하이 의거",
+        "description": "윤봉길이 상하이 훙커우 공원에서 의거를 일으켜 중국 측의 한국 독립운동 지원을 이끌어냈다.",
+        "location": {
+          "name": "상하이 훙커우 공원",
+          "mordernName": "중국 상하이시 훙커우구 루쉰공원 일대",
+          "lat": 31.28,
+          "lng": 121.49
+        },
+        "route": [
+          {
+            "name": "상하이",
+            "mordernName": "중국 상하이시",
+            "lat": 31.23,
+            "lng": 121.47,
+            "modernName": "상하이 (위치 추정)"
+          },
+          {
+            "name": "훙커우 공원",
+            "mordernName": "중국 상하이시 훙커우구 루쉰공원 일대",
+            "lat": 31.28,
+            "lng": 121.49,
+            "modernName": "훙커우 공원 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1929,
-        "events": [
-            {
-                "id": "colonial-1929-gwangju-student-movement",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "사회",
-                "title": "광주학생항일운동",
-                "description": "광주 지역 학생들의 항일 시위가 전국 학생 운동으로 확산되었다.",
-                "location": {
-                    "name": "광주",
-                    "mordernName": "광주광역시",
-                    "lat": 35.16,
-                    "lng": 126.85
-                },
-                "locations": [
-                    {
-                        "name": "광주",
-                        "mordernName": "광주광역시",
-                        "lat": 35.16,
-                        "lng": 126.85
-                    },
-                    {
-                        "name": "경성",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "평양",
-                        "mordernName": "평양시",
-                        "lat": 39.03,
-                        "lng": 125.75
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1935,
+    "events": [
+      {
+        "id": "colonial-1935-national-revolutionary-links",
+        "period": "일제강점기",
+        "state": "대한민국 임시정부",
+        "theme": "정치",
+        "title": "중국 관내 독립운동 기반 확대",
+        "description": "임시정부와 독립운동 세력이 중국 관내 여러 지역에서 활동 기반을 넓혀 갔다.",
+        "location": {
+          "name": "상하이",
+          "mordernName": "중국 상하이시",
+          "lat": 31.23,
+          "lng": 121.47
+        },
+        "locations": [
+          {
+            "name": "상하이",
+            "mordernName": "중국 상하이시",
+            "lat": 31.23,
+            "lng": 121.47,
+            "modernName": "상하이 (위치 추정)"
+          },
+          {
+            "name": "난징",
+            "mordernName": "중국 장쑤성 난징시",
+            "lat": 32.06,
+            "lng": 118.79,
+            "modernName": "난징 (위치 추정)"
+          },
+          {
+            "name": "항저우",
+            "mordernName": "중국 저장성 항저우시",
+            "lat": 30.27,
+            "lng": 120.15,
+            "modernName": "항저우 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1931,
-        "events": [
-            {
-                "id": "colonial-1931-manchurian-incident-impact",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "전쟁",
-                "title": "만주사변과 독립운동 환경 변화",
-                "description": "일본의 만주사변 이후 만주 지역의 독립운동 환경이 크게 변화하였다.",
-                "location": {
-                    "name": "만주",
-                    "mordernName": "중국 동북부 일대",
-                    "lat": 43.5,
-                    "lng": 125.3
-                },
-                "locations": [
-                    {
-                        "name": "간도",
-                        "mordernName": "중국 지린성 옌볜 조선족자치주 일대",
-                        "lat": 42.88,
-                        "lng": 129.51
-                    },
-                    {
-                        "name": "봉천",
-                        "mordernName": "중국 랴오닝성 선양시",
-                        "lat": 41.80,
-                        "lng": 123.43
-                    },
-                    {
-                        "name": "하얼빈",
-                        "mordernName": "중국 헤이룽장성 하얼빈시",
-                        "lat": 45.75,
-                        "lng": 126.63
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1937,
+    "events": [
+      {
+        "id": "colonial-1937-sino-japanese-war-impact",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "전쟁",
+        "title": "중일전쟁과 식민 통치 강화",
+        "description": "중일전쟁 이후 일제는 조선에서 전시 동원 체제를 본격화하였다.",
+        "location": {
+          "name": "경성",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        },
+        "locations": [
+          {
+            "name": "경성",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "경성 (위치 추정)"
+          },
+          {
+            "name": "평양",
+            "mordernName": "평양시",
+            "lat": 39.03,
+            "lng": 125.75,
+            "modernName": "북한 평양시"
+          },
+          {
+            "name": "부산",
+            "mordernName": "부산광역시",
+            "lat": 35.18,
+            "lng": 129.07,
+            "modernName": "부산광역시"
+          }
         ]
-    },
-    {
-        "year": 1932,
-        "events": [
-            {
-                "id": "colonial-1932-yun-bong-gil",
-                "period": "일제강점기",
-                "state": "대한민국 임시정부",
-                "theme": "인물",
-                "title": "윤봉길의 상하이 의거",
-                "description": "윤봉길이 상하이 훙커우 공원에서 의거를 일으켜 중국 측의 한국 독립운동 지원을 이끌어냈다.",
-                "location": {
-                    "name": "상하이 훙커우 공원",
-                    "mordernName": "중국 상하이시 훙커우구 루쉰공원 일대",
-                    "lat": 31.28,
-                    "lng": 121.49
-                },
-                "route": [
-                    {
-                        "name": "상하이",
-                        "mordernName": "중국 상하이시",
-                        "lat": 31.23,
-                        "lng": 121.47
-                    },
-                    {
-                        "name": "훙커우 공원",
-                        "mordernName": "중국 상하이시 훙커우구 루쉰공원 일대",
-                        "lat": 31.28,
-                        "lng": 121.49
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1938,
+    "events": [
+      {
+        "id": "colonial-1938-national-general-mobilization",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "사회",
+        "title": "국가총동원법과 인적·물적 동원 확대",
+        "description": "일제가 국가총동원법을 바탕으로 조선인에 대한 전시 동원을 크게 확대하였다.",
+        "location": {
+          "name": "조선 전역",
+          "mordernName": "한반도 전역",
+          "lat": 36.5,
+          "lng": 127.8
+        }
+      }
+    ]
+  },
+  {
+    "year": 1939,
+    "events": [
+      {
+        "id": "colonial-1939-changssi-gae-myeong",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "사회",
+        "title": "창씨개명 강요",
+        "description": "일제가 조선인에게 일본식 성명 사용을 강요하며 민족 말살 정책을 강화하였다.",
+        "location": {
+          "name": "조선 전역",
+          "mordernName": "한반도 전역",
+          "lat": 36.5,
+          "lng": 127.8
+        }
+      }
+    ]
+  },
+  {
+    "year": 1940,
+    "events": [
+      {
+        "id": "colonial-1940-korean-liberation-army",
+        "period": "일제강점기",
+        "state": "대한민국 임시정부",
+        "theme": "전쟁",
+        "title": "한국광복군 창설",
+        "description": "대한민국 임시정부가 충칭에서 한국광복군을 창설하였다.",
+        "location": {
+          "name": "충칭",
+          "mordernName": "중국 충칭시",
+          "lat": 29.56,
+          "lng": 106.55
+        },
+        "locations": [
+          {
+            "name": "충칭",
+            "mordernName": "중국 충칭시",
+            "lat": 29.56,
+            "lng": 106.55,
+            "modernName": "충칭 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1935,
-        "events": [
-            {
-                "id": "colonial-1935-national-revolutionary-links",
-                "period": "일제강점기",
-                "state": "대한민국 임시정부",
-                "theme": "정치",
-                "title": "중국 관내 독립운동 기반 확대",
-                "description": "임시정부와 독립운동 세력이 중국 관내 여러 지역에서 활동 기반을 넓혀 갔다.",
-                "location": {
-                    "name": "상하이",
-                    "mordernName": "중국 상하이시",
-                    "lat": 31.23,
-                    "lng": 121.47
-                },
-                "locations": [
-                    {
-                        "name": "상하이",
-                        "mordernName": "중국 상하이시",
-                        "lat": 31.23,
-                        "lng": 121.47
-                    },
-                    {
-                        "name": "난징",
-                        "mordernName": "중국 장쑤성 난징시",
-                        "lat": 32.06,
-                        "lng": 118.79
-                    },
-                    {
-                        "name": "항저우",
-                        "mordernName": "중국 저장성 항저우시",
-                        "lat": 30.27,
-                        "lng": 120.15
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1942,
+    "events": [
+      {
+        "id": "colonial-1942-forced-labor-expansion",
+        "period": "일제강점기",
+        "state": "일제강점기",
+        "theme": "사회",
+        "title": "강제 동원 확대",
+        "description": "전쟁 장기화 속에서 조선인에 대한 노동력·병력 동원이 더욱 확대되었다.",
+        "location": {
+          "name": "조선 전역",
+          "mordernName": "한반도 전역",
+          "lat": 36.5,
+          "lng": 127.8
+        },
+        "locations": [
+          {
+            "name": "경성",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "경성 (위치 추정)"
+          },
+          {
+            "name": "함흥",
+            "mordernName": "함흥시",
+            "lat": 39.91,
+            "lng": 127.54,
+            "modernName": "함경남도 함흥시 (북한)"
+          },
+          {
+            "name": "군산",
+            "mordernName": "전라북도 군산시",
+            "lat": 35.98,
+            "lng": 126.71,
+            "modernName": "전북 군산시"
+          }
         ]
-    },
-    {
-        "year": 1937,
-        "events": [
-            {
-                "id": "colonial-1937-sino-japanese-war-impact",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "전쟁",
-                "title": "중일전쟁과 식민 통치 강화",
-                "description": "중일전쟁 이후 일제는 조선에서 전시 동원 체제를 본격화하였다.",
-                "location": {
-                    "name": "경성",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                },
-                "locations": [
-                    {
-                        "name": "경성",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "평양",
-                        "mordernName": "평양시",
-                        "lat": 39.03,
-                        "lng": 125.75
-                    },
-                    {
-                        "name": "부산",
-                        "mordernName": "부산광역시",
-                        "lat": 35.18,
-                        "lng": 129.07
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1943,
+    "events": [
+      {
+        "id": "colonial-1943-imjeong-allied-cooperation",
+        "period": "일제강점기",
+        "state": "대한민국 임시정부",
+        "theme": "정치",
+        "title": "임시정부의 대연합국 협력 강화",
+        "description": "임시정부와 광복군이 연합국과 협력하며 대일 항전 구상을 구체화하였다.",
+        "location": {
+          "name": "충칭",
+          "mordernName": "중국 충칭시",
+          "lat": 29.56,
+          "lng": 106.55
+        },
+        "locations": [
+          {
+            "name": "충칭",
+            "mordernName": "중국 충칭시",
+            "lat": 29.56,
+            "lng": 106.55,
+            "modernName": "충칭 (위치 추정)"
+          },
+          {
+            "name": "시안",
+            "mordernName": "중국 산시성 시안시",
+            "lat": 34.34,
+            "lng": 108.94,
+            "modernName": "시안 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1938,
-        "events": [
-            {
-                "id": "colonial-1938-national-general-mobilization",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "사회",
-                "title": "국가총동원법과 인적·물적 동원 확대",
-                "description": "일제가 국가총동원법을 바탕으로 조선인에 대한 전시 동원을 크게 확대하였다.",
-                "location": {
-                    "name": "조선 전역",
-                    "mordernName": "한반도 전역",
-                    "lat": 36.5,
-                    "lng": 127.8
-                }
-            }
+      }
+    ]
+  },
+  {
+    "year": 1945,
+    "events": [
+      {
+        "id": "colonial-1945-liberation",
+        "period": "일제강점기",
+        "state": "조선",
+        "theme": "정치",
+        "title": "광복",
+        "description": "일본의 패망으로 조선이 광복을 맞이하였다.",
+        "location": {
+          "name": "경성",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        },
+        "date": "1945년 8월 15일"
+      },
+      {
+        "id": "colonial-1945-38th-parallel-division",
+        "period": "일제강점기",
+        "state": "조선",
+        "theme": "정치",
+        "title": "38선 분할 점령",
+        "description": "광복 직후 한반도가 북위 38도를 기준으로 분할 점령되었다.",
+        "location": {
+          "name": "삼팔선",
+          "mordernName": "한반도 중부 분단선 권역",
+          "lat": 38.0,
+          "lng": 127.0
+        },
+        "locations": [
+          {
+            "name": "경성",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "경성 (위치 추정)"
+          },
+          {
+            "name": "평양",
+            "mordernName": "평양시",
+            "lat": 39.03,
+            "lng": 125.75,
+            "modernName": "북한 평양시"
+          },
+          {
+            "name": "삼팔선",
+            "mordernName": "한반도 중부 분단선 권역",
+            "lat": 38.0,
+            "lng": 127.0,
+            "modernName": "삼팔선 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1939,
-        "events": [
-            {
-                "id": "colonial-1939-changssi-gae-myeong",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "사회",
-                "title": "창씨개명 강요",
-                "description": "일제가 조선인에게 일본식 성명 사용을 강요하며 민족 말살 정책을 강화하였다.",
-                "location": {
-                    "name": "조선 전역",
-                    "mordernName": "한반도 전역",
-                    "lat": 36.5,
-                    "lng": 127.8
-                }
-            }
+      }
+    ]
+  },
+  {
+    "year": 1965,
+    "events": [
+      {
+        "id": "modern-1965-korea-japan-normalization",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "정치",
+        "title": "한일 국교 정상화",
+        "description": "대한민국과 일본이 국교를 정상화하였다.",
+        "location": {
+          "name": "서울",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        },
+        "locations": [
+          {
+            "name": "서울",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "서울특별시"
+          },
+          {
+            "name": "도쿄",
+            "mordernName": "일본 도쿄도",
+            "lat": 35.68,
+            "lng": 139.69,
+            "modernName": "도쿄 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1940,
-        "events": [
-            {
-                "id": "colonial-1940-korean-liberation-army",
-                "period": "일제강점기",
-                "state": "대한민국 임시정부",
-                "theme": "전쟁",
-                "title": "한국광복군 창설",
-                "description": "대한민국 임시정부가 충칭에서 한국광복군을 창설하였다.",
-                "location": {
-                    "name": "충칭",
-                    "mordernName": "중국 충칭시",
-                    "lat": 29.56,
-                    "lng": 106.55
-                },
-                "locations": [
-                    {
-                        "name": "충칭",
-                        "mordernName": "중국 충칭시",
-                        "lat": 29.56,
-                        "lng": 106.55
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1970,
+    "events": [
+      {
+        "id": "modern-1970-saemaeul-context",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "경제",
+        "title": "산업화와 지역 개발 가속",
+        "description": "경제 개발 정책과 지역 개발 사업이 전국적으로 확산되며 산업화가 가속되었다.",
+        "location": {
+          "name": "대한민국 전역",
+          "mordernName": "대한민국 전역",
+          "lat": 36.5,
+          "lng": 127.8
+        },
+        "locations": [
+          {
+            "name": "서울",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "서울특별시"
+          },
+          {
+            "name": "울산",
+            "mordernName": "울산광역시",
+            "lat": 35.54,
+            "lng": 129.31,
+            "modernName": "울산광역시"
+          },
+          {
+            "name": "포항",
+            "mordernName": "경상북도 포항시",
+            "lat": 36.02,
+            "lng": 129.34,
+            "modernName": "포항 (위치 추정)"
+          },
+          {
+            "name": "구미",
+            "mordernName": "경상북도 구미시",
+            "lat": 36.12,
+            "lng": 128.34,
+            "modernName": "구미 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1942,
-        "events": [
-            {
-                "id": "colonial-1942-forced-labor-expansion",
-                "period": "일제강점기",
-                "state": "일제강점기",
-                "theme": "사회",
-                "title": "강제 동원 확대",
-                "description": "전쟁 장기화 속에서 조선인에 대한 노동력·병력 동원이 더욱 확대되었다.",
-                "location": {
-                    "name": "조선 전역",
-                    "mordernName": "한반도 전역",
-                    "lat": 36.5,
-                    "lng": 127.8
-                },
-                "locations": [
-                    {
-                        "name": "경성",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "함흥",
-                        "mordernName": "함흥시",
-                        "lat": 39.91,
-                        "lng": 127.54
-                    },
-                    {
-                        "name": "군산",
-                        "mordernName": "전라북도 군산시",
-                        "lat": 35.98,
-                        "lng": 126.71
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1979,
+    "events": [
+      {
+        "id": "modern-1979-buma-democratic-protests",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "사회",
+        "title": "부마민주항쟁",
+        "description": "부산과 마산을 중심으로 유신체제에 반대하는 민주화 시위가 전개되었다.",
+        "location": {
+          "name": "부산·마산",
+          "mordernName": "부산광역시·경상남도 창원시 마산권",
+          "lat": 35.19,
+          "lng": 128.82
+        },
+        "locations": [
+          {
+            "name": "부산",
+            "mordernName": "부산광역시",
+            "lat": 35.18,
+            "lng": 129.07,
+            "modernName": "부산광역시"
+          },
+          {
+            "name": "마산",
+            "mordernName": "경상남도 창원시 마산합포구·마산회원구",
+            "lat": 35.2,
+            "lng": 128.57,
+            "modernName": "경남 창원시 마산"
+          }
         ]
-    },
-    {
-        "year": 1943,
-        "events": [
-            {
-                "id": "colonial-1943-imjeong-allied-cooperation",
-                "period": "일제강점기",
-                "state": "대한민국 임시정부",
-                "theme": "정치",
-                "title": "임시정부의 대연합국 협력 강화",
-                "description": "임시정부와 광복군이 연합국과 협력하며 대일 항전 구상을 구체화하였다.",
-                "location": {
-                    "name": "충칭",
-                    "mordernName": "중국 충칭시",
-                    "lat": 29.56,
-                    "lng": 106.55
-                },
-                "locations": [
-                    {
-                        "name": "충칭",
-                        "mordernName": "중국 충칭시",
-                        "lat": 29.56,
-                        "lng": 106.55
-                    },
-                    {
-                        "name": "시안",
-                        "mordernName": "중국 산시성 시안시",
-                        "lat": 34.34,
-                        "lng": 108.94
-                    }
-                ]
-            }
+      },
+      {
+        "id": "modern-1979-october-twenty-six",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "정치",
+        "title": "10.26 사건",
+        "description": "박정희 대통령이 피격되며 유신체제가 중대한 전환점을 맞았다.",
+        "location": {
+          "name": "서울",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        }
+      }
+    ]
+  },
+  {
+    "year": 1980,
+    "events": [
+      {
+        "id": "modern-1980-seoul-spring",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "사회",
+        "title": "서울의 봄",
+        "description": "박정희 사망 이후 민주화를 요구하는 정치·사회적 움직임이 확대되었다.",
+        "location": {
+          "name": "서울",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        }
+      }
+    ]
+  },
+  {
+    "year": 1987,
+    "events": [
+      {
+        "id": "modern-1987-june-twenty-nine-declaration",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "정치",
+        "title": "6.29 선언",
+        "description": "직선제 개헌 수용을 포함한 민주화 조치가 발표되었다.",
+        "location": {
+          "name": "서울",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        }
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "events": [
+      {
+        "id": "modern-1991-basic-agreement-north-south",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "정치",
+        "title": "남북기본합의서 채택",
+        "description": "남북이 화해와 불가침, 교류 협력에 관한 기본합의서를 채택하였다.",
+        "location": {
+          "name": "서울·평양",
+          "mordernName": "서울특별시·평양시",
+          "lat": 38.3,
+          "lng": 126.36
+        },
+        "locations": [
+          {
+            "name": "서울",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "서울특별시"
+          },
+          {
+            "name": "평양",
+            "mordernName": "평양시",
+            "lat": 39.03,
+            "lng": 125.75,
+            "modernName": "북한 평양시"
+          }
         ]
-    },
-    {
-        "year": 1945,
-        "events": [
-            {
-                "id": "colonial-1945-liberation",
-                "period": "일제강점기",
-                "state": "조선",
-                "theme": "정치",
-                "title": "광복",
-                "description": "일본의 패망으로 조선이 광복을 맞이하였다.",
-                "location": {
-                    "name": "경성",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                },
-                "date": "1945년 8월 15일"
-            },
-            {
-                "id": "colonial-1945-38th-parallel-division",
-                "period": "일제강점기",
-                "state": "조선",
-                "theme": "정치",
-                "title": "38선 분할 점령",
-                "description": "광복 직후 한반도가 북위 38도를 기준으로 분할 점령되었다.",
-                "location": {
-                    "name": "삼팔선",
-                    "mordernName": "한반도 중부 분단선 권역",
-                    "lat": 38.00,
-                    "lng": 127.00
-                },
-                "locations": [
-                    {
-                        "name": "경성",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "평양",
-                        "mordernName": "평양시",
-                        "lat": 39.03,
-                        "lng": 125.75
-                    },
-                    {
-                        "name": "삼팔선",
-                        "mordernName": "한반도 중부 분단선 권역",
-                        "lat": 38.00,
-                        "lng": 127.00
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "events": [
+      {
+        "id": "modern-1997-imf-crisis",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "경제",
+        "title": "외환위기",
+        "description": "대한민국이 외환위기를 겪으며 IMF 구제금융 체제로 들어갔다.",
+        "location": {
+          "name": "서울",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        }
+      }
+    ]
+  },
+  {
+    "year": 2000,
+    "events": [
+      {
+        "id": "modern-2000-first-inter-korean-summit",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "정치",
+        "title": "1차 남북정상회담",
+        "description": "평양에서 첫 남북정상회담이 열렸다.",
+        "location": {
+          "name": "평양",
+          "mordernName": "평양시",
+          "lat": 39.03,
+          "lng": 125.75
+        },
+        "route": [
+          {
+            "name": "서울",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "서울특별시"
+          },
+          {
+            "name": "평양",
+            "mordernName": "평양시",
+            "lat": 39.03,
+            "lng": 125.75,
+            "modernName": "북한 평양시"
+          }
         ]
-    },
-    {
-        "year": 1965,
-        "events": [
-            {
-                "id": "modern-1965-korea-japan-normalization",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "정치",
-                "title": "한일 국교 정상화",
-                "description": "대한민국과 일본이 국교를 정상화하였다.",
-                "location": {
-                    "name": "서울",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                },
-                "locations": [
-                    {
-                        "name": "서울",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "도쿄",
-                        "mordernName": "일본 도쿄도",
-                        "lat": 35.68,
-                        "lng": 139.69
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "events": [
+      {
+        "id": "modern-2002-world-cup",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "사회",
+        "title": "한일 월드컵 개최",
+        "description": "대한민국과 일본이 공동으로 월드컵을 개최하였다.",
+        "location": {
+          "name": "서울",
+          "mordernName": "서울특별시",
+          "lat": 37.57,
+          "lng": 126.98
+        },
+        "locations": [
+          {
+            "name": "서울",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "서울특별시"
+          },
+          {
+            "name": "부산",
+            "mordernName": "부산광역시",
+            "lat": 35.18,
+            "lng": 129.07,
+            "modernName": "부산광역시"
+          },
+          {
+            "name": "대구",
+            "mordernName": "대구광역시",
+            "lat": 35.87,
+            "lng": 128.6,
+            "modernName": "대구광역시"
+          },
+          {
+            "name": "광주",
+            "mordernName": "광주광역시",
+            "lat": 35.16,
+            "lng": 126.85,
+            "modernName": "광주광역시"
+          }
         ]
-    },
-    {
-        "year": 1970,
-        "events": [
-            {
-                "id": "modern-1970-saemaeul-context",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "경제",
-                "title": "산업화와 지역 개발 가속",
-                "description": "경제 개발 정책과 지역 개발 사업이 전국적으로 확산되며 산업화가 가속되었다.",
-                "location": {
-                    "name": "대한민국 전역",
-                    "mordernName": "대한민국 전역",
-                    "lat": 36.5,
-                    "lng": 127.8
-                },
-                "locations": [
-                    {
-                        "name": "서울",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "울산",
-                        "mordernName": "울산광역시",
-                        "lat": 35.54,
-                        "lng": 129.31
-                    },
-                    {
-                        "name": "포항",
-                        "mordernName": "경상북도 포항시",
-                        "lat": 36.02,
-                        "lng": 129.34
-                    },
-                    {
-                        "name": "구미",
-                        "mordernName": "경상북도 구미시",
-                        "lat": 36.12,
-                        "lng": 128.34
-                    }
-                ]
-            }
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "events": [
+      {
+        "id": "modern-2007-second-inter-korean-summit",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "정치",
+        "title": "2차 남북정상회담",
+        "description": "평양에서 두 번째 남북정상회담이 열렸다.",
+        "location": {
+          "name": "평양",
+          "mordernName": "평양시",
+          "lat": 39.03,
+          "lng": 125.75
+        },
+        "route": [
+          {
+            "name": "서울",
+            "mordernName": "서울특별시",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "서울특별시"
+          },
+          {
+            "name": "평양",
+            "mordernName": "평양시",
+            "lat": 39.03,
+            "lng": 125.75,
+            "modernName": "북한 평양시"
+          }
         ]
-    },
-    {
-        "year": 1979,
-        "events": [
-            {
-                "id": "modern-1979-buma-democratic-protests",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "사회",
-                "title": "부마민주항쟁",
-                "description": "부산과 마산을 중심으로 유신체제에 반대하는 민주화 시위가 전개되었다.",
-                "location": {
-                    "name": "부산·마산",
-                    "mordernName": "부산광역시·경상남도 창원시 마산권",
-                    "lat": 35.19,
-                    "lng": 128.82
-                },
-                "locations": [
-                    {
-                        "name": "부산",
-                        "mordernName": "부산광역시",
-                        "lat": 35.18,
-                        "lng": 129.07
-                    },
-                    {
-                        "name": "마산",
-                        "mordernName": "경상남도 창원시 마산합포구·마산회원구",
-                        "lat": 35.20,
-                        "lng": 128.57
-                    }
-                ]
-            },
-            {
-                "id": "modern-1979-october-twenty-six",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "정치",
-                "title": "10.26 사건",
-                "description": "박정희 대통령이 피격되며 유신체제가 중대한 전환점을 맞았다.",
-                "location": {
-                    "name": "서울",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                }
-            }
+      }
+    ]
+  },
+  {
+    "year": 2016,
+    "events": [
+      {
+        "id": "modern-2016-candlelight-protests",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "사회",
+        "title": "촛불집회",
+        "description": "대규모 시민 집회가 이어지며 정치 개혁 요구가 전국적으로 확산되었다.",
+        "location": {
+          "name": "광화문",
+          "mordernName": "서울특별시 종로구 광화문광장 일대",
+          "lat": 37.57,
+          "lng": 126.98
+        },
+        "locations": [
+          {
+            "name": "광화문",
+            "mordernName": "서울특별시 종로구 광화문광장 일대",
+            "lat": 37.57,
+            "lng": 126.98,
+            "modernName": "광화문 (위치 추정)"
+          },
+          {
+            "name": "부산",
+            "mordernName": "부산광역시",
+            "lat": 35.18,
+            "lng": 129.07,
+            "modernName": "부산광역시"
+          },
+          {
+            "name": "광주",
+            "mordernName": "광주광역시",
+            "lat": 35.16,
+            "lng": 126.85,
+            "modernName": "광주광역시"
+          }
         ]
-    },
-    {
-        "year": 1980,
-        "events": [
-            {
-                "id": "modern-1980-seoul-spring",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "사회",
-                "title": "서울의 봄",
-                "description": "박정희 사망 이후 민주화를 요구하는 정치·사회적 움직임이 확대되었다.",
-                "location": {
-                    "name": "서울",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                }
-            }
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "events": [
+      {
+        "id": "modern-2018-panmunjeom-summit",
+        "period": "현대",
+        "state": "대한민국",
+        "theme": "정치",
+        "title": "판문점 남북정상회담",
+        "description": "판문점에서 남북 정상회담이 열려 한반도 평화 체제 논의가 진전되었다.",
+        "location": {
+          "name": "판문점",
+          "mordernName": "경기도 파주시 접경 권역",
+          "lat": 37.95,
+          "lng": 126.67
+        },
+        "locations": [
+          {
+            "name": "판문점",
+            "mordernName": "경기도 파주시 접경 권역",
+            "lat": 37.95,
+            "lng": 126.67,
+            "modernName": "판문점 (위치 추정)"
+          }
         ]
-    },
-    {
-        "year": 1987,
-        "events": [
-            {
-                "id": "modern-1987-june-twenty-nine-declaration",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "정치",
-                "title": "6.29 선언",
-                "description": "직선제 개헌 수용을 포함한 민주화 조치가 발표되었다.",
-                "location": {
-                    "name": "서울",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                }
-            }
-        ]
-    },
-    {
-        "year": 1991,
-        "events": [
-            {
-                "id": "modern-1991-basic-agreement-north-south",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "정치",
-                "title": "남북기본합의서 채택",
-                "description": "남북이 화해와 불가침, 교류 협력에 관한 기본합의서를 채택하였다.",
-                "location": {
-                    "name": "서울·평양",
-                    "mordernName": "서울특별시·평양시",
-                    "lat": 38.30,
-                    "lng": 126.36
-                },
-                "locations": [
-                    {
-                        "name": "서울",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "평양",
-                        "mordernName": "평양시",
-                        "lat": 39.03,
-                        "lng": 125.75
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "year": 1997,
-        "events": [
-            {
-                "id": "modern-1997-imf-crisis",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "경제",
-                "title": "외환위기",
-                "description": "대한민국이 외환위기를 겪으며 IMF 구제금융 체제로 들어갔다.",
-                "location": {
-                    "name": "서울",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                }
-            }
-        ]
-    },
-    {
-        "year": 2000,
-        "events": [
-            {
-                "id": "modern-2000-first-inter-korean-summit",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "정치",
-                "title": "1차 남북정상회담",
-                "description": "평양에서 첫 남북정상회담이 열렸다.",
-                "location": {
-                    "name": "평양",
-                    "mordernName": "평양시",
-                    "lat": 39.03,
-                    "lng": 125.75
-                },
-                "route": [
-                    {
-                        "name": "서울",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "평양",
-                        "mordernName": "평양시",
-                        "lat": 39.03,
-                        "lng": 125.75
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "year": 2002,
-        "events": [
-            {
-                "id": "modern-2002-world-cup",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "사회",
-                "title": "한일 월드컵 개최",
-                "description": "대한민국과 일본이 공동으로 월드컵을 개최하였다.",
-                "location": {
-                    "name": "서울",
-                    "mordernName": "서울특별시",
-                    "lat": 37.57,
-                    "lng": 126.98
-                },
-                "locations": [
-                    {
-                        "name": "서울",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "부산",
-                        "mordernName": "부산광역시",
-                        "lat": 35.18,
-                        "lng": 129.07
-                    },
-                    {
-                        "name": "대구",
-                        "mordernName": "대구광역시",
-                        "lat": 35.87,
-                        "lng": 128.60
-                    },
-                    {
-                        "name": "광주",
-                        "mordernName": "광주광역시",
-                        "lat": 35.16,
-                        "lng": 126.85
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "year": 2007,
-        "events": [
-            {
-                "id": "modern-2007-second-inter-korean-summit",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "정치",
-                "title": "2차 남북정상회담",
-                "description": "평양에서 두 번째 남북정상회담이 열렸다.",
-                "location": {
-                    "name": "평양",
-                    "mordernName": "평양시",
-                    "lat": 39.03,
-                    "lng": 125.75
-                },
-                "route": [
-                    {
-                        "name": "서울",
-                        "mordernName": "서울특별시",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "평양",
-                        "mordernName": "평양시",
-                        "lat": 39.03,
-                        "lng": 125.75
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "year": 2016,
-        "events": [
-            {
-                "id": "modern-2016-candlelight-protests",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "사회",
-                "title": "촛불집회",
-                "description": "대규모 시민 집회가 이어지며 정치 개혁 요구가 전국적으로 확산되었다.",
-                "location": {
-                    "name": "광화문",
-                    "mordernName": "서울특별시 종로구 광화문광장 일대",
-                    "lat": 37.57,
-                    "lng": 126.98
-                },
-                "locations": [
-                    {
-                        "name": "광화문",
-                        "mordernName": "서울특별시 종로구 광화문광장 일대",
-                        "lat": 37.57,
-                        "lng": 126.98
-                    },
-                    {
-                        "name": "부산",
-                        "mordernName": "부산광역시",
-                        "lat": 35.18,
-                        "lng": 129.07
-                    },
-                    {
-                        "name": "광주",
-                        "mordernName": "광주광역시",
-                        "lat": 35.16,
-                        "lng": 126.85
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "year": 2018,
-        "events": [
-            {
-                "id": "modern-2018-panmunjeom-summit",
-                "period": "현대",
-                "state": "대한민국",
-                "theme": "정치",
-                "title": "판문점 남북정상회담",
-                "description": "판문점에서 남북 정상회담이 열려 한반도 평화 체제 논의가 진전되었다.",
-                "location": {
-                    "name": "판문점",
-                    "mordernName": "경기도 파주시 접경 권역",
-                    "lat": 37.95,
-                    "lng": 126.67
-                },
-                "locations": [
-                    {
-                        "name": "판문점",
-                        "mordernName": "경기도 파주시 접경 권역",
-                        "lat": 37.95,
-                        "lng": 126.67
-                    }
-                ]
-            }
-        ]
-    }
+      }
+    ]
+  }
 ]
