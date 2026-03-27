@@ -106,28 +106,28 @@
         "description": "한반도 각지에서 빗살무늬토기와 정착 생활의 흔적이 나타나며 신석기 문화가 확산되었다.",
         "location": {
           "name": "한반도",
-          "mordernName": "대한민국·북한 전역",
+          "modernName": "대한민국·북한 전역",
           "lat": 36.5,
           "lng": 127.8
         },
         "locations": [
           {
             "name": "암사동",
-            "mordernName": "서울특별시 강동구 암사동",
+            "modernName": "서울특별시 강동구 암사동",
             "lat": 37.55,
             "lng": 127.13,
             "modernName": "서울 강동구 암사동"
           },
           {
             "name": "동삼동",
-            "mordernName": "부산광역시 영도구 동삼동",
+            "modernName": "부산광역시 영도구 동삼동",
             "lat": 35.07,
             "lng": 129.07,
             "modernName": "부산 영도구 동삼동"
           },
           {
             "name": "서포항",
-            "mordernName": "함경북도 일대 유적권",
+            "modernName": "함경북도 일대 유적권",
             "lat": 41.8,
             "lng": 129.8,
             "modernName": "함경북도 경성군 (북한)"
@@ -148,28 +148,28 @@
         "description": "청동기 사용과 함께 농경 사회가 확대되고, 고인돌 문화가 한반도와 만주 일대에 널리 퍼졌다.",
         "location": {
           "name": "한반도와 만주 남부",
-          "mordernName": "대한민국 전역 및 중국 동북부 일부",
+          "modernName": "대한민국 전역 및 중국 동북부 일부",
           "lat": 37.8,
           "lng": 126.8
         },
         "locations": [
           {
             "name": "강화 고인돌 권역",
-            "mordernName": "인천광역시 강화군",
+            "modernName": "인천광역시 강화군",
             "lat": 37.72,
             "lng": 126.44,
             "modernName": "인천 강화도"
           },
           {
             "name": "고창 고인돌 권역",
-            "mordernName": "전라북도 고창군",
+            "modernName": "전라북도 고창군",
             "lat": 35.43,
             "lng": 126.7,
             "modernName": "전북 고창군"
           },
           {
             "name": "화순 고인돌 권역",
-            "mordernName": "전라남도 화순군",
+            "modernName": "전라남도 화순군",
             "lat": 35.06,
             "lng": 126.99,
             "modernName": "전남 화순군"
@@ -190,21 +190,21 @@
         "description": "청동기 시대에 벼농사를 포함한 농경이 확대되며 정착 사회와 계층 분화가 심화되었다.",
         "location": {
           "name": "남부 농경지대",
-          "mordernName": "충청·전라·경상 지역",
+          "modernName": "충청·전라·경상 지역",
           "lat": 35.9,
           "lng": 127.5
         },
         "locations": [
           {
             "name": "송국리",
-            "mordernName": "충청남도 부여군 초촌면 송국리",
+            "modernName": "충청남도 부여군 초촌면 송국리",
             "lat": 36.24,
             "lng": 126.91,
             "modernName": "충남 부여군 송국리"
           },
           {
             "name": "미사리 선사 유적권",
-            "mordernName": "경기도 하남시 미사동 일대",
+            "modernName": "경기도 하남시 미사동 일대",
             "lat": 37.57,
             "lng": 127.19,
             "modernName": "경기 하남시 미사동"
@@ -226,21 +226,21 @@
         "description": "단군왕검이 아사달에 도읍을 정하고 고조선을 건국하였다고 전해진다.",
         "location": {
           "name": "아사달",
-          "mordernName": "평양 또는 요동·만주 일대 추정",
+          "modernName": "평양 또는 요동·만주 일대 추정",
           "lat": 39.03,
           "lng": 125.75
         },
         "locations": [
           {
             "name": "아사달",
-            "mordernName": "평양 일대 추정",
+            "modernName": "평양 일대 추정",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "요동 일대 추정 (중국 랴오닝성)"
           },
           {
             "name": "요동 방면",
-            "mordernName": "중국 랴오닝성 일대",
+            "modernName": "중국 랴오닝성 일대",
             "lat": 41.8,
             "lng": 123.4,
             "modernName": "중국 랴오닝성 일대"
@@ -261,21 +261,21 @@
         "description": "비파형 동검과 고인돌을 중심으로 한 고조선 문화권이 요령과 한반도 북부를 중심으로 형성되었다.",
         "location": {
           "name": "요령·한반도 북부",
-          "mordernName": "중국 랴오닝성 및 북한 북부 일대",
+          "modernName": "중국 랴오닝성 및 북한 북부 일대",
           "lat": 40.8,
           "lng": 124.8
         },
         "locations": [
           {
             "name": "요령 지역",
-            "mordernName": "중국 랴오닝성",
+            "modernName": "중국 랴오닝성",
             "lat": 41.8,
             "lng": 123.4,
             "modernName": "중국 랴오닝성 일대"
           },
           {
             "name": "대동강 유역",
-            "mordernName": "평양시 및 인근 지역",
+            "modernName": "평양시 및 인근 지역",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "북한 평양 일대"
@@ -296,7 +296,7 @@
         "description": "청동기 문화와 권력 집중이 확대되며 고조선의 국가적 성격이 강화되었다.",
         "location": {
           "name": "대동강 유역",
-          "mordernName": "평양시 및 황해북도 북부 일대",
+          "modernName": "평양시 및 황해북도 북부 일대",
           "lat": 39.03,
           "lng": 125.75
         }
@@ -315,21 +315,21 @@
         "description": "철기의 보급으로 농업 생산력과 무기 체계가 변화하며 사회 구조가 더욱 복잡해졌다.",
         "location": {
           "name": "한반도 북부와 서북부",
-          "mordernName": "평양·황해도·요동 접경 권역",
+          "modernName": "평양·황해도·요동 접경 권역",
           "lat": 39.4,
           "lng": 125.2
         },
         "locations": [
           {
             "name": "평양",
-            "mordernName": "평양시",
+            "modernName": "평양시",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "북한 평양시"
           },
           {
             "name": "요동",
-            "mordernName": "중국 랴오닝성 동부",
+            "modernName": "중국 랴오닝성 동부",
             "lat": 40.8,
             "lng": 124.8,
             "modernName": "중국 랴오닝성 일대"
@@ -350,7 +350,7 @@
         "description": "고조선 사회의 법과 질서를 보여주는 범금 8조 전통이 전해진다.",
         "location": {
           "name": "왕검성",
-          "mordernName": "평양 일대 추정",
+          "modernName": "평양 일대 추정",
           "lat": 39.03,
           "lng": 125.75
         }
@@ -370,21 +370,21 @@
         "description": "위만이 준왕을 몰아내고 집권하여 위만조선이 성립하였다.",
         "location": {
           "name": "왕검성",
-          "mordernName": "평양 일대 추정",
+          "modernName": "평양 일대 추정",
           "lat": 39.03,
           "lng": 125.75
         },
         "route": [
           {
             "name": "연나라 방면",
-            "mordernName": "중국 허베이성·랴오닝성 서부 일대",
+            "modernName": "중국 허베이성·랴오닝성 서부 일대",
             "lat": 40.2,
             "lng": 118.2,
             "modernName": "중국 허베이성 일대"
           },
           {
             "name": "왕검성",
-            "mordernName": "평양 일대 추정",
+            "modernName": "평양 일대 추정",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "평양 일대 추정 (북한)"
@@ -405,21 +405,21 @@
         "description": "위만에게 밀려난 준왕이 남쪽으로 이동하였다는 전승이 전해진다.",
         "location": {
           "name": "남하 경로",
-          "mordernName": "평양에서 충청·전라 방면 추정",
+          "modernName": "평양에서 충청·전라 방면 추정",
           "lat": 36.5,
           "lng": 126.9
         },
         "route": [
           {
             "name": "왕검성",
-            "mordernName": "평양 일대 추정",
+            "modernName": "평양 일대 추정",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "평양 일대 추정 (북한)"
           },
           {
             "name": "한반도 중남부",
-            "mordernName": "충청·전라 지역 추정",
+            "modernName": "충청·전라 지역 추정",
             "lat": 36.5,
             "lng": 126.9,
             "modernName": "충청·전라 일대"
@@ -440,35 +440,35 @@
         "description": "한나라가 위만조선을 멸망시키고 낙랑군 등 한사군을 설치하였다.",
         "location": {
           "name": "왕검성",
-          "mordernName": "평양 일대 추정",
+          "modernName": "평양 일대 추정",
           "lat": 39.03,
           "lng": 125.75
         },
         "locations": [
           {
             "name": "낙랑군",
-            "mordernName": "평양 일대 추정",
+            "modernName": "평양 일대 추정",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "평양 일대 (북한)"
           },
           {
             "name": "현도군",
-            "mordernName": "중국 랴오닝성 동부 추정",
+            "modernName": "중국 랴오닝성 동부 추정",
             "lat": 41.8,
             "lng": 123.4,
             "modernName": "지린성 일대 추정 (중국)"
           },
           {
             "name": "진번군",
-            "mordernName": "한반도 서북부 추정",
+            "modernName": "한반도 서북부 추정",
             "lat": 38.9,
             "lng": 126.6,
             "modernName": "황해도 일대 추정 (북한)"
           },
           {
             "name": "임둔군",
-            "mordernName": "한반도 동북부 추정",
+            "modernName": "한반도 동북부 추정",
             "lat": 39.2,
             "lng": 127.4,
             "modernName": "함경남도 일대 추정 (북한)"
@@ -477,14 +477,14 @@
         "route": [
           {
             "name": "한나라 군현 방면",
-            "mordernName": "중국 랴오닝성 서부·허베이성 동북부",
+            "modernName": "중국 랴오닝성 서부·허베이성 동북부",
             "lat": 40.6,
             "lng": 120.5,
             "modernName": "중국 랴오닝성 일대"
           },
           {
             "name": "왕검성",
-            "mordernName": "평양 일대 추정",
+            "modernName": "평양 일대 추정",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "평양 일대 추정 (북한)"
@@ -506,21 +506,21 @@
         "description": "고구려가 동해안 방면의 옥저에 대한 영향력을 강화하였다.",
         "location": {
           "name": "옥저",
-          "mordernName": "함경남도·함경북도 동해안 일대 추정",
+          "modernName": "함경남도·함경북도 동해안 일대 추정",
           "lat": 40.67,
           "lng": 129.6
         },
         "route": [
           {
             "name": "졸본·국내성권",
-            "mordernName": "중국 랴오닝성 환런현·지린성 지안시 일대",
+            "modernName": "중국 랴오닝성 환런현·지린성 지안시 일대",
             "lat": 41.2,
             "lng": 126.2,
             "modernName": "중국 랴오닝성 환런·지린성 집안 일대"
           },
           {
             "name": "옥저",
-            "mordernName": "함경남도·함경북도 동해안 일대 추정",
+            "modernName": "함경남도·함경북도 동해안 일대 추정",
             "lat": 40.67,
             "lng": 129.6,
             "modernName": "함경도 일대 (북한)"
@@ -542,21 +542,21 @@
         "description": "고구려가 북방의 부여와 충돌하며 세력 확대를 시도하였다.",
         "location": {
           "name": "부여",
-          "mordernName": "중국 지린성 농안현 일대 추정",
+          "modernName": "중국 지린성 농안현 일대 추정",
           "lat": 44.55,
           "lng": 124.85
         },
         "route": [
           {
             "name": "고구려",
-            "mordernName": "중국 랴오닝성 환런현·지린성 지안시 일대",
+            "modernName": "중국 랴오닝성 환런현·지린성 지안시 일대",
             "lat": 41.3,
             "lng": 126.2,
             "modernName": "압록강 유역 (북한·중국 접경)"
           },
           {
             "name": "부여",
-            "mordernName": "중국 지린성 농안현 일대 추정",
+            "modernName": "중국 지린성 농안현 일대 추정",
             "lat": 44.55,
             "lng": 124.85,
             "modernName": "중국 지린성 농안현 일대 추정"
@@ -578,7 +578,7 @@
         "description": "초기 신라에서 박씨에 이어 석씨 세력이 왕위를 계승하며 지배 체제가 전개되었다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -597,28 +597,28 @@
         "description": "낙동강 유역의 철 생산과 해상 교역을 바탕으로 가야 세력이 성장하였다.",
         "location": {
           "name": "가야",
-          "mordernName": "경상남도 김해·함안·고령 일대",
+          "modernName": "경상남도 김해·함안·고령 일대",
           "lat": 35.4,
           "lng": 128.6
         },
         "locations": [
           {
             "name": "금관가야",
-            "mordernName": "경상남도 김해시",
+            "modernName": "경상남도 김해시",
             "lat": 35.23,
             "lng": 128.89,
             "modernName": "경남 김해시"
           },
           {
             "name": "아라가야",
-            "mordernName": "경상남도 함안군",
+            "modernName": "경상남도 함안군",
             "lat": 35.27,
             "lng": 128.41,
             "modernName": "경남 함안군"
           },
           {
             "name": "대가야",
-            "mordernName": "경상북도 고령군",
+            "modernName": "경상북도 고령군",
             "lat": 35.73,
             "lng": 128.26,
             "modernName": "경북 고령군"
@@ -639,21 +639,21 @@
         "description": "사로국이 진한의 여러 소국 가운데 중심 세력으로 성장하였다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "locations": [
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "진한",
-            "mordernName": "경상북도 남부·대구권 일대",
+            "modernName": "경상북도 남부·대구권 일대",
             "lat": 35.87,
             "lng": 128.6,
             "modernName": "경상도 일대"
@@ -674,7 +674,7 @@
         "description": "백제가 한강 유역을 중심으로 정치적 기반을 강화하며 성장하였다.",
         "location": {
           "name": "위례성",
-          "mordernName": "서울특별시 송파구·경기도 하남시 일대 추정",
+          "modernName": "서울특별시 송파구·경기도 하남시 일대 추정",
           "lat": 37.53,
           "lng": 127.12
         }
@@ -693,7 +693,7 @@
         "description": "삼한의 각 소국이 지역별 연맹 질서를 갖추며 정치 구조가 더욱 복잡해졌다.",
         "location": {
           "name": "삼한",
-          "mordernName": "한반도 남부 전역",
+          "modernName": "한반도 남부 전역",
           "lat": 35.8,
           "lng": 128.0
         }
@@ -712,7 +712,7 @@
         "description": "동예 지역에서는 책화, 족외혼 등의 관습이 유지되며 독자적인 사회 질서가 형성되었다.",
         "location": {
           "name": "동예",
-          "mordernName": "강원도 북부·함경남도 남부 일대 추정",
+          "modernName": "강원도 북부·함경남도 남부 일대 추정",
           "lat": 38.9,
           "lng": 128.8
         }
@@ -731,7 +731,7 @@
         "description": "옥저는 해안 생활권을 바탕으로 독자적 사회를 유지하였으나 주변 강국의 압박을 받았다.",
         "location": {
           "name": "옥저",
-          "mordernName": "함경남도·함경북도 동해안 일대 추정",
+          "modernName": "함경남도·함경북도 동해안 일대 추정",
           "lat": 40.67,
           "lng": 129.6
         }
@@ -750,7 +750,7 @@
         "description": "신라에서 김씨 계열의 왕위 계승 기반이 점차 강화되었다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -769,21 +769,21 @@
         "description": "백제가 마한의 중심 세력들과 관계를 맺고 점차 통합을 추진하였다.",
         "location": {
           "name": "목지국",
-          "mordernName": "충청남도 천안시·직산 일대 추정",
+          "modernName": "충청남도 천안시·직산 일대 추정",
           "lat": 36.87,
           "lng": 127.14
         },
         "locations": [
           {
             "name": "목지국",
-            "mordernName": "충청남도 천안시·직산 일대 추정",
+            "modernName": "충청남도 천안시·직산 일대 추정",
             "lat": 36.87,
             "lng": 127.14,
             "modernName": "충남 직산 또는 익산 일대 추정"
           },
           {
             "name": "위례성",
-            "mordernName": "서울특별시 송파구·경기도 하남시 일대 추정",
+            "modernName": "서울특별시 송파구·경기도 하남시 일대 추정",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "서울 송파구 일대"
@@ -804,7 +804,7 @@
         "description": "신라에서 박·석·김 세력 간 왕위 계승 질서가 점차 안정되어 갔다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -823,28 +823,28 @@
         "description": "가야가 철 생산과 해상 교역을 통해 왜와 백제·신라 사이에서 중요한 역할을 하였다.",
         "location": {
           "name": "가야",
-          "mordernName": "경상남도 김해·함안·고령 일대",
+          "modernName": "경상남도 김해·함안·고령 일대",
           "lat": 35.4,
           "lng": 128.6
         },
         "locations": [
           {
             "name": "김해",
-            "mordernName": "경상남도 김해시",
+            "modernName": "경상남도 김해시",
             "lat": 35.23,
             "lng": 128.89,
             "modernName": "경남 김해시"
           },
           {
             "name": "낙동강 하류",
-            "mordernName": "부산광역시·경상남도 서부 낙동강권",
+            "modernName": "부산광역시·경상남도 서부 낙동강권",
             "lat": 35.25,
             "lng": 128.9,
             "modernName": "경남 일대"
           },
           {
             "name": "왜",
-            "mordernName": "일본 규슈 지역",
+            "modernName": "일본 규슈 지역",
             "lat": 33.59,
             "lng": 130.4,
             "modernName": "일본"
@@ -866,7 +866,7 @@
         "description": "고이왕 대에 관등과 관복 체계가 정비되며 중앙 집권적 국가 체제가 강화되었다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시 송파구·광진구 일대 추정",
+          "modernName": "서울특별시 송파구·광진구 일대 추정",
           "lat": 37.53,
           "lng": 127.12
         }
@@ -885,21 +885,21 @@
         "description": "고구려가 압록강 중류와 만주 남부의 여러 세력을 통합하며 팽창을 가속하였다.",
         "location": {
           "name": "국내성권",
-          "mordernName": "중국 지린성 지안시 일대",
+          "modernName": "중국 지린성 지안시 일대",
           "lat": 41.16,
           "lng": 126.19
         },
         "locations": [
           {
             "name": "국내성",
-            "mordernName": "중국 지린성 지안시",
+            "modernName": "중국 지린성 지안시",
             "lat": 41.16,
             "lng": 126.19,
             "modernName": "중국 지린성 집안시"
           },
           {
             "name": "압록강 중류",
-            "mordernName": "중국 지린성 동남부·북한 자강도 접경",
+            "modernName": "중국 지린성 동남부·북한 자강도 접경",
             "lat": 40.8,
             "lng": 125.8,
             "modernName": "북한·중국 접경 일대"
@@ -921,21 +921,21 @@
         "description": "낙랑군 축출을 계기로 고구려가 대동강 유역 지배를 본격화하였다.",
         "location": {
           "name": "대동강 유역",
-          "mordernName": "평양시 및 인근 지역",
+          "modernName": "평양시 및 인근 지역",
           "lat": 39.03,
           "lng": 125.75
         },
         "route": [
           {
             "name": "국내성",
-            "mordernName": "중국 지린성 지안시",
+            "modernName": "중국 지린성 지안시",
             "lat": 41.16,
             "lng": 126.19,
             "modernName": "중국 지린성 집안시"
           },
           {
             "name": "대동강 유역",
-            "mordernName": "평양시 및 인근 지역",
+            "modernName": "평양시 및 인근 지역",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "북한 평양 일대"
@@ -956,7 +956,7 @@
         "description": "신라가 부족 연맹 단계를 넘어 보다 체계적인 왕권 중심 정치 질서를 형성해 갔다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -976,21 +976,21 @@
         "description": "전연이 고구려를 침입하여 국내성이 큰 피해를 입었다.",
         "location": {
           "name": "국내성",
-          "mordernName": "중국 지린성 지안시",
+          "modernName": "중국 지린성 지안시",
           "lat": 41.16,
           "lng": 126.19
         },
         "route": [
           {
             "name": "전연 방면",
-            "mordernName": "중국 랴오닝성 서부",
+            "modernName": "중국 랴오닝성 서부",
             "lat": 41.8,
             "lng": 123.4,
             "modernName": "중국 랴오닝성 일대"
           },
           {
             "name": "국내성",
-            "mordernName": "중국 지린성 지안시",
+            "modernName": "중국 지린성 지안시",
             "lat": 41.16,
             "lng": 126.19,
             "modernName": "중국 지린성 집안시"
@@ -1012,21 +1012,21 @@
         "description": "근초고왕 대에 백제가 마한 세력 통합을 바탕으로 강력한 왕권과 대외 팽창 기반을 마련하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시 송파구·광진구 일대 추정",
+          "modernName": "서울특별시 송파구·광진구 일대 추정",
           "lat": 37.53,
           "lng": 127.12
         },
         "locations": [
           {
             "name": "한성",
-            "mordernName": "서울특별시 송파구·광진구 일대 추정",
+            "modernName": "서울특별시 송파구·광진구 일대 추정",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "서울 송파구 일대 (풍납토성·몽촌토성)"
           },
           {
             "name": "마한 남부권",
-            "mordernName": "전라남도 서남부 일대",
+            "modernName": "전라남도 서남부 일대",
             "lat": 34.8,
             "lng": 126.4,
             "modernName": "충남·전라 일대"
@@ -1048,7 +1048,7 @@
         "description": "내물 마립간 대에 김씨 왕위 세습 체제가 강화되며 신라 왕권이 안정되었다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -1068,21 +1068,21 @@
         "description": "백제가 한강 유역을 기반으로 북진 정책을 전개하며 고구려와 본격 충돌하였다.",
         "location": {
           "name": "한강 북부 접경",
-          "mordernName": "경기도 북부·황해도 남부 접경 추정",
+          "modernName": "경기도 북부·황해도 남부 접경 추정",
           "lat": 38.2,
           "lng": 126.9
         },
         "route": [
           {
             "name": "한성",
-            "mordernName": "서울특별시 송파구·광진구 일대 추정",
+            "modernName": "서울특별시 송파구·광진구 일대 추정",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "서울 송파구 일대 (풍납토성·몽촌토성)"
           },
           {
             "name": "한강 북부 접경",
-            "mordernName": "경기도 북부·황해도 남부 접경 추정",
+            "modernName": "경기도 북부·황해도 남부 접경 추정",
             "lat": 38.2,
             "lng": 126.9,
             "modernName": "경기 북부 일대"
@@ -1104,21 +1104,21 @@
         "description": "백제가 평양성 전투에서 고구려 고국원왕을 전사하게 하며 대외 위상을 높였다.",
         "location": {
           "name": "평양성",
-          "mordernName": "평양시",
+          "modernName": "평양시",
           "lat": 39.03,
           "lng": 125.75
         },
         "route": [
           {
             "name": "한성",
-            "mordernName": "서울특별시 송파구·광진구 일대 추정",
+            "modernName": "서울특별시 송파구·광진구 일대 추정",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "서울 송파구 일대 (풍납토성·몽촌토성)"
           },
           {
             "name": "평양성",
-            "mordernName": "평양시",
+            "modernName": "평양시",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "북한 평양시"
@@ -1140,21 +1140,21 @@
         "description": "소수림왕 대에 불교 수용, 태학 설립, 율령 반포를 통해 국가 체제가 정비되었다.",
         "location": {
           "name": "평양·국내성권",
-          "mordernName": "평양시 및 중국 지린성 지안시를 잇는 고구려 핵심 권역",
+          "modernName": "평양시 및 중국 지린성 지안시를 잇는 고구려 핵심 권역",
           "lat": 40.0,
           "lng": 125.4
         },
         "locations": [
           {
             "name": "국내성",
-            "mordernName": "중국 지린성 지안시",
+            "modernName": "중국 지린성 지안시",
             "lat": 41.16,
             "lng": 126.19,
             "modernName": "중국 지린성 집안시"
           },
           {
             "name": "평양권",
-            "mordernName": "평양시",
+            "modernName": "평양시",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "평양권 (위치 추정)"
@@ -1176,21 +1176,21 @@
         "description": "백제가 동진과 교류하며 불교를 수용하고 문화적 기반을 넓혔다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시 송파구·광진구 일대 추정",
+          "modernName": "서울특별시 송파구·광진구 일대 추정",
           "lat": 37.53,
           "lng": 127.12
         },
         "route": [
           {
             "name": "동진",
-            "mordernName": "중국 장쑤성 난징시 일대",
+            "modernName": "중국 장쑤성 난징시 일대",
             "lat": 32.06,
             "lng": 118.79,
             "modernName": "동진 (위치 추정)"
           },
           {
             "name": "한성",
-            "mordernName": "서울특별시 송파구·광진구 일대 추정",
+            "modernName": "서울특별시 송파구·광진구 일대 추정",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "서울 송파구 일대 (풍납토성·몽촌토성)"
@@ -1212,21 +1212,21 @@
         "description": "고구려가 왜와 백제의 압박을 받던 신라를 군사적으로 지원하며 남부 영향력을 확대하였다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "route": [
           {
             "name": "국내성권",
-            "mordernName": "중국 지린성 지안시 일대",
+            "modernName": "중국 지린성 지안시 일대",
             "lat": 41.16,
             "lng": 126.19,
             "modernName": "국내성권 (위치 추정)"
           },
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
@@ -1235,14 +1235,14 @@
         "locations": [
           {
             "name": "백제",
-            "mordernName": "서울특별시 송파구·광진구 일대 중심의 백제권",
+            "modernName": "서울특별시 송파구·광진구 일대 중심의 백제권",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "백제 (위치 추정)"
           },
           {
             "name": "왜",
-            "mordernName": "일본 규슈 지역",
+            "modernName": "일본 규슈 지역",
             "lat": 33.59,
             "lng": 130.4,
             "modernName": "일본"
@@ -1263,7 +1263,7 @@
         "description": "신라가 마립간 체제를 바탕으로 왕권 중심 질서를 더욱 강화하였다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }

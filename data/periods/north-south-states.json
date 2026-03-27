@@ -492,7 +492,7 @@
         "description": "신문왕이 즉위하여 통일신라의 중앙 집권 체제를 본격적으로 정비하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -512,7 +512,7 @@
         "description": "신문왕이 국학을 설치하여 유교 교육과 관료 양성 체제를 정비하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -532,49 +532,49 @@
         "description": "통일신라가 지방 통치 강화를 위해 9주 5소경 체제를 정비하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "locations": [
           {
             "name": "서라벌",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "중원경",
-            "mordernName": "충청북도 충주시",
+            "modernName": "충청북도 충주시",
             "lat": 36.99,
             "lng": 127.93,
             "modernName": "중원경 (위치 추정)"
           },
           {
             "name": "북원경",
-            "mordernName": "강원도 원주시",
+            "modernName": "강원도 원주시",
             "lat": 37.34,
             "lng": 127.92,
             "modernName": "북원경 (위치 추정)"
           },
           {
             "name": "금관경",
-            "mordernName": "경상남도 김해시",
+            "modernName": "경상남도 김해시",
             "lat": 35.23,
             "lng": 128.89,
             "modernName": "금관경 (위치 추정)"
           },
           {
             "name": "남원경",
-            "mordernName": "전라북도 남원시",
+            "modernName": "전라북도 남원시",
             "lat": 35.42,
             "lng": 127.39,
             "modernName": "남원경 (위치 추정)"
           },
           {
             "name": "서원경",
-            "mordernName": "충청북도 청주시",
+            "modernName": "충청북도 청주시",
             "lat": 36.64,
             "lng": 127.49,
             "modernName": "서원경 (위치 추정)"
@@ -591,7 +591,7 @@
         "description": "통일신라가 중앙군과 지방군 조직을 정비하여 통일 체제를 안정시켰다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -611,7 +611,7 @@
         "description": "신문왕이 관료전을 지급하고 녹읍을 폐지하여 귀족 세력을 억제하고자 하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -631,7 +631,7 @@
         "description": "대조영이 동모산에서 발해를 건국하였다.",
         "location": {
           "name": "동모산",
-          "mordernName": "중국 지린성 둔화시 인근 추정",
+          "modernName": "중국 지린성 둔화시 인근 추정",
           "lat": 43.8,
           "lng": 128.2
         }
@@ -651,7 +651,7 @@
         "description": "발해가 중앙 집권 체제를 정비하며 동북아의 강국으로 성장해 갔다.",
         "location": {
           "name": "동모산권",
-          "mordernName": "중국 지린성 둔화시 인근 추정",
+          "modernName": "중국 지린성 둔화시 인근 추정",
           "lat": 43.8,
           "lng": 128.2
         }
@@ -671,21 +671,21 @@
         "description": "장문휴가 이끄는 발해 수군이 당의 등주를 공격하였다.",
         "location": {
           "name": "등주",
-          "mordernName": "중국 산둥성 옌타이시 펑라이구 일대",
+          "modernName": "중국 산둥성 옌타이시 펑라이구 일대",
           "lat": 37.8,
           "lng": 120.75
         },
         "route": [
           {
             "name": "발해",
-            "mordernName": "중국 지린성 동부·헤이룽장성 남부 일대",
+            "modernName": "중국 지린성 동부·헤이룽장성 남부 일대",
             "lat": 43.8,
             "lng": 128.2,
             "modernName": "중국 헤이룽장성·지린성 일대"
           },
           {
             "name": "등주",
-            "mordernName": "중국 산둥성 옌타이시 펑라이구 일대",
+            "modernName": "중국 산둥성 옌타이시 펑라이구 일대",
             "lat": 37.8,
             "lng": 120.75,
             "modernName": "등주 (위치 추정)"
@@ -706,21 +706,21 @@
         "description": "왕실과 귀족의 후원을 받아 통일신라 불교 문화가 크게 융성하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "locations": [
           {
             "name": "황룡사",
-            "mordernName": "경상북도 경주시 황룡동 일대",
+            "modernName": "경상북도 경주시 황룡동 일대",
             "lat": 35.84,
             "lng": 129.23,
             "modernName": "황룡사 (위치 추정)"
           },
           {
             "name": "분황사",
-            "mordernName": "경상북도 경주시 구황동",
+            "modernName": "경상북도 경주시 구황동",
             "lat": 35.84,
             "lng": 129.23,
             "modernName": "분황사 (위치 추정)"
@@ -742,21 +742,21 @@
         "description": "김대성이 경주에 불국사와 석굴암을 창건하였다.",
         "location": {
           "name": "불국사",
-          "mordernName": "경상북도 경주시 진현동",
+          "modernName": "경상북도 경주시 진현동",
           "lat": 35.79,
           "lng": 129.33
         },
         "locations": [
           {
             "name": "불국사",
-            "mordernName": "경상북도 경주시 진현동",
+            "modernName": "경상북도 경주시 진현동",
             "lat": 35.79,
             "lng": 129.33,
             "modernName": "불국사 (위치 추정)"
           },
           {
             "name": "석굴암",
-            "mordernName": "경상북도 경주시 진현동 토함산 일대",
+            "modernName": "경상북도 경주시 진현동 토함산 일대",
             "lat": 35.79,
             "lng": 129.35,
             "modernName": "석굴암 (위치 추정)"
@@ -777,7 +777,7 @@
         "description": "발해가 상경 용천부를 중심으로 수도 체제를 발달시켰다.",
         "location": {
           "name": "상경 용천부",
-          "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+          "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
           "lat": 44.1,
           "lng": 129.0
         }
@@ -796,7 +796,7 @@
         "description": "통일신라가 유교 경전 이해 수준을 기준으로 인재를 선발하는 독서삼품과를 시행하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -816,21 +816,21 @@
         "description": "발해가 상경 용천부를 중심으로 한 수도 체제를 정비하였다.",
         "location": {
           "name": "상경 용천부",
-          "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+          "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
           "lat": 44.1,
           "lng": 129.0
         },
         "route": [
           {
             "name": "구도권",
-            "mordernName": "중국 지린성 둔화시 인근 추정",
+            "modernName": "중국 지린성 둔화시 인근 추정",
             "lat": 43.8,
             "lng": 128.2,
             "modernName": "구도권 (위치 추정)"
           },
           {
             "name": "상경 용천부",
-            "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+            "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
             "lat": 44.1,
             "lng": 129.0,
             "modernName": "상경 용천부 (위치 추정)"
@@ -851,28 +851,28 @@
         "description": "통일신라가 동아시아 해상 교역망 속에서 무역과 해상 활동을 확대해 갔다.",
         "location": {
           "name": "청해진권 해상 교통망",
-          "mordernName": "전라남도 완도군 및 동중국해·산둥·규슈를 잇는 해상권",
+          "modernName": "전라남도 완도군 및 동중국해·산둥·규슈를 잇는 해상권",
           "lat": 34.31,
           "lng": 126.76
         },
         "locations": [
           {
             "name": "청해진",
-            "mordernName": "전라남도 완도군",
+            "modernName": "전라남도 완도군",
             "lat": 34.31,
             "lng": 126.76,
             "modernName": "전남 완도군"
           },
           {
             "name": "산둥 반도",
-            "mordernName": "중국 산둥성 일대",
+            "modernName": "중국 산둥성 일대",
             "lat": 36.67,
             "lng": 117.0,
             "modernName": "산둥 반도 (위치 추정)"
           },
           {
             "name": "규슈",
-            "mordernName": "일본 규슈 지역",
+            "modernName": "일본 규슈 지역",
             "lat": 33.59,
             "lng": 130.4,
             "modernName": "규슈 (위치 추정)"
@@ -893,7 +893,7 @@
         "description": "장보고가 완도에 청해진을 설치하여 해상 무역과 해적 방어의 거점으로 삼았다.",
         "location": {
           "name": "청해진",
-          "mordernName": "전라남도 완도군",
+          "modernName": "전라남도 완도군",
           "lat": 34.31,
           "lng": 126.76
         }
@@ -912,28 +912,28 @@
         "description": "발해는 당과 일본 등 주변 국가와 활발한 외교 및 교역 관계를 유지하였다.",
         "location": {
           "name": "상경 용천부",
-          "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+          "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
           "lat": 44.1,
           "lng": 129.0
         },
         "locations": [
           {
             "name": "상경 용천부",
-            "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+            "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
             "lat": 44.1,
             "lng": 129.0,
             "modernName": "상경 용천부 (위치 추정)"
           },
           {
             "name": "장안",
-            "mordernName": "중국 산시성 시안시",
+            "modernName": "중국 산시성 시안시",
             "lat": 34.34,
             "lng": 108.94,
             "modernName": "장안 (위치 추정)"
           },
           {
             "name": "일본",
-            "mordernName": "일본 열도",
+            "modernName": "일본 열도",
             "lat": 35.68,
             "lng": 139.69,
             "modernName": "일본"
@@ -954,7 +954,7 @@
         "description": "통일신라 후기에 선종이 확산되며 지방 호족과 결합한 새로운 불교 문화가 성장하였다.",
         "location": {
           "name": "지방 산문 사찰권",
-          "mordernName": "전라·경상·충청 내륙 산지 사찰권",
+          "modernName": "전라·경상·충청 내륙 산지 사찰권",
           "lat": 36.5,
           "lng": 127.8
         }
@@ -973,7 +973,7 @@
         "description": "지방에서 원종·애노의 난이 일어나며 통일신라 말 사회 불안이 본격화되었다.",
         "location": {
           "name": "상주·대구 방면",
-          "mordernName": "경상북도 상주시·대구광역시 인근 일대 추정",
+          "modernName": "경상북도 상주시·대구광역시 인근 일대 추정",
           "lat": 35.87,
           "lng": 128.6
         }
@@ -993,7 +993,7 @@
         "description": "견훤이 완산주를 중심으로 후백제를 세웠다.",
         "location": {
           "name": "완산주",
-          "mordernName": "전라북도 전주시",
+          "modernName": "전라북도 전주시",
           "lat": 35.82,
           "lng": 127.11
         }
@@ -1013,21 +1013,21 @@
         "description": "궁예가 송악과 철원 일대를 기반으로 후고구려를 세웠다.",
         "location": {
           "name": "철원",
-          "mordernName": "강원도 철원군",
+          "modernName": "강원도 철원군",
           "lat": 38.15,
           "lng": 127.31
         },
         "locations": [
           {
             "name": "철원",
-            "mordernName": "강원도 철원군",
+            "modernName": "강원도 철원군",
             "lat": 38.15,
             "lng": 127.31,
             "modernName": "강원 철원군"
           },
           {
             "name": "송악",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "송악 (위치 추정)"
@@ -1048,21 +1048,21 @@
         "description": "거란의 침입으로 발해가 멸망하였다.",
         "location": {
           "name": "상경 용천부",
-          "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+          "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
           "lat": 44.1,
           "lng": 129.0
         },
         "route": [
           {
             "name": "거란",
-            "mordernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
+            "modernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
             "lat": 43.9,
             "lng": 122.7,
             "modernName": "중국 내몽골·랴오닝 일대"
           },
           {
             "name": "상경 용천부",
-            "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+            "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
             "lat": 44.1,
             "lng": 129.0,
             "modernName": "상경 용천부 (위치 추정)"
@@ -1084,7 +1084,7 @@
         "description": "신문왕이 즉위하여 통일신라의 중앙 집권 체제를 본격적으로 정비하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -1104,7 +1104,7 @@
         "description": "신문왕이 국학을 설치하여 유교 교육과 관료 양성 체제를 정비하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -1124,49 +1124,49 @@
         "description": "통일신라가 지방 통치 강화를 위해 9주 5소경 체제를 정비하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "locations": [
           {
             "name": "서라벌",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "중원경",
-            "mordernName": "충청북도 충주시",
+            "modernName": "충청북도 충주시",
             "lat": 36.99,
             "lng": 127.93,
             "modernName": "중원경 (위치 추정)"
           },
           {
             "name": "북원경",
-            "mordernName": "강원도 원주시",
+            "modernName": "강원도 원주시",
             "lat": 37.34,
             "lng": 127.92,
             "modernName": "북원경 (위치 추정)"
           },
           {
             "name": "금관경",
-            "mordernName": "경상남도 김해시",
+            "modernName": "경상남도 김해시",
             "lat": 35.23,
             "lng": 128.89,
             "modernName": "금관경 (위치 추정)"
           },
           {
             "name": "남원경",
-            "mordernName": "전라북도 남원시",
+            "modernName": "전라북도 남원시",
             "lat": 35.42,
             "lng": 127.39,
             "modernName": "남원경 (위치 추정)"
           },
           {
             "name": "서원경",
-            "mordernName": "충청북도 청주시",
+            "modernName": "충청북도 청주시",
             "lat": 36.64,
             "lng": 127.49,
             "modernName": "서원경 (위치 추정)"
@@ -1183,7 +1183,7 @@
         "description": "통일신라가 중앙군과 지방군 조직을 정비하여 통일 체제를 안정시켰다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -1203,7 +1203,7 @@
         "description": "신문왕이 관료전을 지급하고 녹읍을 폐지하여 귀족 세력을 억제하고자 하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -1223,7 +1223,7 @@
         "description": "대조영이 동모산에서 발해를 건국하였다.",
         "location": {
           "name": "동모산",
-          "mordernName": "중국 지린성 둔화시 인근 추정",
+          "modernName": "중국 지린성 둔화시 인근 추정",
           "lat": 43.8,
           "lng": 128.2
         }
@@ -1243,7 +1243,7 @@
         "description": "발해가 중앙 집권 체제를 정비하며 동북아의 강국으로 성장해 갔다.",
         "location": {
           "name": "동모산권",
-          "mordernName": "중국 지린성 둔화시 인근 추정",
+          "modernName": "중국 지린성 둔화시 인근 추정",
           "lat": 43.8,
           "lng": 128.2
         }
@@ -1263,21 +1263,21 @@
         "description": "장문휴가 이끄는 발해 수군이 당의 등주를 공격하였다.",
         "location": {
           "name": "등주",
-          "mordernName": "중국 산둥성 옌타이시 펑라이구 일대",
+          "modernName": "중국 산둥성 옌타이시 펑라이구 일대",
           "lat": 37.8,
           "lng": 120.75
         },
         "route": [
           {
             "name": "발해",
-            "mordernName": "중국 지린성 동부·헤이룽장성 남부 일대",
+            "modernName": "중국 지린성 동부·헤이룽장성 남부 일대",
             "lat": 43.8,
             "lng": 128.2,
             "modernName": "중국 헤이룽장성·지린성 일대"
           },
           {
             "name": "등주",
-            "mordernName": "중국 산둥성 옌타이시 펑라이구 일대",
+            "modernName": "중국 산둥성 옌타이시 펑라이구 일대",
             "lat": 37.8,
             "lng": 120.75,
             "modernName": "등주 (위치 추정)"
@@ -1298,21 +1298,21 @@
         "description": "왕실과 귀족의 후원을 받아 통일신라 불교 문화가 크게 융성하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "locations": [
           {
             "name": "황룡사",
-            "mordernName": "경상북도 경주시 황룡동 일대",
+            "modernName": "경상북도 경주시 황룡동 일대",
             "lat": 35.84,
             "lng": 129.23,
             "modernName": "황룡사 (위치 추정)"
           },
           {
             "name": "분황사",
-            "mordernName": "경상북도 경주시 구황동",
+            "modernName": "경상북도 경주시 구황동",
             "lat": 35.84,
             "lng": 129.23,
             "modernName": "분황사 (위치 추정)"
@@ -1334,21 +1334,21 @@
         "description": "김대성이 경주에 불국사와 석굴암을 창건하였다.",
         "location": {
           "name": "불국사",
-          "mordernName": "경상북도 경주시 진현동",
+          "modernName": "경상북도 경주시 진현동",
           "lat": 35.79,
           "lng": 129.33
         },
         "locations": [
           {
             "name": "불국사",
-            "mordernName": "경상북도 경주시 진현동",
+            "modernName": "경상북도 경주시 진현동",
             "lat": 35.79,
             "lng": 129.33,
             "modernName": "불국사 (위치 추정)"
           },
           {
             "name": "석굴암",
-            "mordernName": "경상북도 경주시 진현동 토함산 일대",
+            "modernName": "경상북도 경주시 진현동 토함산 일대",
             "lat": 35.79,
             "lng": 129.35,
             "modernName": "석굴암 (위치 추정)"
@@ -1369,7 +1369,7 @@
         "description": "발해가 상경 용천부를 중심으로 수도 체제를 발달시켰다.",
         "location": {
           "name": "상경 용천부",
-          "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+          "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
           "lat": 44.1,
           "lng": 129.0
         }
@@ -1388,7 +1388,7 @@
         "description": "통일신라가 유교 경전 이해 수준을 기준으로 인재를 선발하는 독서삼품과를 시행하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -1408,21 +1408,21 @@
         "description": "발해가 상경 용천부를 중심으로 한 수도 체제를 정비하였다.",
         "location": {
           "name": "상경 용천부",
-          "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+          "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
           "lat": 44.1,
           "lng": 129.0
         },
         "route": [
           {
             "name": "구도권",
-            "mordernName": "중국 지린성 둔화시 인근 추정",
+            "modernName": "중국 지린성 둔화시 인근 추정",
             "lat": 43.8,
             "lng": 128.2,
             "modernName": "구도권 (위치 추정)"
           },
           {
             "name": "상경 용천부",
-            "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+            "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
             "lat": 44.1,
             "lng": 129.0,
             "modernName": "상경 용천부 (위치 추정)"
@@ -1443,28 +1443,28 @@
         "description": "통일신라가 동아시아 해상 교역망 속에서 무역과 해상 활동을 확대해 갔다.",
         "location": {
           "name": "청해진권 해상 교통망",
-          "mordernName": "전라남도 완도군 및 동중국해·산둥·규슈를 잇는 해상권",
+          "modernName": "전라남도 완도군 및 동중국해·산둥·규슈를 잇는 해상권",
           "lat": 34.31,
           "lng": 126.76
         },
         "locations": [
           {
             "name": "청해진",
-            "mordernName": "전라남도 완도군",
+            "modernName": "전라남도 완도군",
             "lat": 34.31,
             "lng": 126.76,
             "modernName": "전남 완도군"
           },
           {
             "name": "산둥 반도",
-            "mordernName": "중국 산둥성 일대",
+            "modernName": "중국 산둥성 일대",
             "lat": 36.67,
             "lng": 117.0,
             "modernName": "산둥 반도 (위치 추정)"
           },
           {
             "name": "규슈",
-            "mordernName": "일본 규슈 지역",
+            "modernName": "일본 규슈 지역",
             "lat": 33.59,
             "lng": 130.4,
             "modernName": "규슈 (위치 추정)"
@@ -1485,7 +1485,7 @@
         "description": "장보고가 완도에 청해진을 설치하여 해상 무역과 해적 방어의 거점으로 삼았다.",
         "location": {
           "name": "청해진",
-          "mordernName": "전라남도 완도군",
+          "modernName": "전라남도 완도군",
           "lat": 34.31,
           "lng": 126.76
         }
@@ -1504,28 +1504,28 @@
         "description": "발해는 당과 일본 등 주변 국가와 활발한 외교 및 교역 관계를 유지하였다.",
         "location": {
           "name": "상경 용천부",
-          "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+          "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
           "lat": 44.1,
           "lng": 129.0
         },
         "locations": [
           {
             "name": "상경 용천부",
-            "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+            "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
             "lat": 44.1,
             "lng": 129.0,
             "modernName": "상경 용천부 (위치 추정)"
           },
           {
             "name": "장안",
-            "mordernName": "중국 산시성 시안시",
+            "modernName": "중국 산시성 시안시",
             "lat": 34.34,
             "lng": 108.94,
             "modernName": "장안 (위치 추정)"
           },
           {
             "name": "일본",
-            "mordernName": "일본 열도",
+            "modernName": "일본 열도",
             "lat": 35.68,
             "lng": 139.69,
             "modernName": "일본"
@@ -1546,7 +1546,7 @@
         "description": "통일신라 후기에 선종이 확산되며 지방 호족과 결합한 새로운 불교 문화가 성장하였다.",
         "location": {
           "name": "지방 산문 사찰권",
-          "mordernName": "전라·경상·충청 내륙 산지 사찰권",
+          "modernName": "전라·경상·충청 내륙 산지 사찰권",
           "lat": 36.5,
           "lng": 127.8
         }
@@ -1565,7 +1565,7 @@
         "description": "지방에서 원종·애노의 난이 일어나며 통일신라 말 사회 불안이 본격화되었다.",
         "location": {
           "name": "상주·대구 방면",
-          "mordernName": "경상북도 상주시·대구광역시 인근 일대 추정",
+          "modernName": "경상북도 상주시·대구광역시 인근 일대 추정",
           "lat": 35.87,
           "lng": 128.6
         }
@@ -1585,7 +1585,7 @@
         "description": "견훤이 완산주를 중심으로 후백제를 세웠다.",
         "location": {
           "name": "완산주",
-          "mordernName": "전라북도 전주시",
+          "modernName": "전라북도 전주시",
           "lat": 35.82,
           "lng": 127.11
         }
@@ -1605,21 +1605,21 @@
         "description": "궁예가 송악과 철원 일대를 기반으로 후고구려를 세웠다.",
         "location": {
           "name": "철원",
-          "mordernName": "강원도 철원군",
+          "modernName": "강원도 철원군",
           "lat": 38.15,
           "lng": 127.31
         },
         "locations": [
           {
             "name": "철원",
-            "mordernName": "강원도 철원군",
+            "modernName": "강원도 철원군",
             "lat": 38.15,
             "lng": 127.31,
             "modernName": "강원 철원군"
           },
           {
             "name": "송악",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "송악 (위치 추정)"
@@ -1640,21 +1640,21 @@
         "description": "거란의 침입으로 발해가 멸망하였다.",
         "location": {
           "name": "상경 용천부",
-          "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+          "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
           "lat": 44.1,
           "lng": 129.0
         },
         "route": [
           {
             "name": "거란",
-            "mordernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
+            "modernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
             "lat": 43.9,
             "lng": 122.7,
             "modernName": "중국 내몽골·랴오닝 일대"
           },
           {
             "name": "상경 용천부",
-            "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+            "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
             "lat": 44.1,
             "lng": 129.0,
             "modernName": "상경 용천부 (위치 추정)"
@@ -1676,21 +1676,21 @@
         "description": "궁예가 국호를 후고구려에서 마진으로 바꾸고 독자적인 국가 체제를 강화하였다.",
         "location": {
           "name": "철원",
-          "mordernName": "강원도 철원군",
+          "modernName": "강원도 철원군",
           "lat": 38.15,
           "lng": 127.31
         },
         "locations": [
           {
             "name": "철원",
-            "mordernName": "강원도 철원군",
+            "modernName": "강원도 철원군",
             "lat": 38.15,
             "lng": 127.31,
             "modernName": "강원 철원군"
           },
           {
             "name": "송악",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "송악 (위치 추정)"
@@ -1712,7 +1712,7 @@
         "description": "궁예가 다시 국호를 태봉으로 바꾸며 왕권과 종교적 권위를 강화하려 하였다.",
         "location": {
           "name": "철원",
-          "mordernName": "강원도 철원군",
+          "modernName": "강원도 철원군",
           "lat": 38.15,
           "lng": 127.31
         }
@@ -1732,7 +1732,7 @@
         "description": "왕건이 송악에서 고려를 건국하고 후삼국 통일 경쟁의 중심 세력으로 떠올랐다.",
         "location": {
           "name": "송악",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -1751,21 +1751,21 @@
         "description": "왕건이 신라와의 관계를 강화하며 후백제와의 대립에서 외교적 우위를 확보하였다.",
         "location": {
           "name": "송악",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         },
         "route": [
           {
             "name": "송악",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "송악 (위치 추정)"
           },
           {
             "name": "서라벌",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
@@ -1787,21 +1787,21 @@
         "description": "견훤이 경주를 공격하여 신라 왕실에 큰 타격을 입혔다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "route": [
           {
             "name": "완산주",
-            "mordernName": "전라북도 전주시",
+            "modernName": "전라북도 전주시",
             "lat": 35.82,
             "lng": 127.11,
             "modernName": "전북 전주시"
           },
           {
             "name": "서라벌",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
@@ -1818,21 +1818,21 @@
         "description": "왕건이 공산 전투에서 견훤에게 패배하며 큰 위기를 맞았다.",
         "location": {
           "name": "공산",
-          "mordernName": "대구광역시 동구 팔공산 일대",
+          "modernName": "대구광역시 동구 팔공산 일대",
           "lat": 35.99,
           "lng": 128.69
         },
         "route": [
           {
             "name": "송악",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "송악 (위치 추정)"
           },
           {
             "name": "공산",
-            "mordernName": "대구광역시 동구 팔공산 일대",
+            "modernName": "대구광역시 동구 팔공산 일대",
             "lat": 35.99,
             "lng": 128.69,
             "modernName": "공산 (위치 추정)"
@@ -1854,21 +1854,21 @@
         "description": "왕건이 고창 전투에서 후백제군을 크게 격파하며 전세를 뒤집었다.",
         "location": {
           "name": "고창",
-          "mordernName": "경상북도 안동시 일대",
+          "modernName": "경상북도 안동시 일대",
           "lat": 36.57,
           "lng": 128.73
         },
         "route": [
           {
             "name": "송악",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "송악 (위치 추정)"
           },
           {
             "name": "고창",
-            "mordernName": "경상북도 안동시 일대",
+            "modernName": "경상북도 안동시 일대",
             "lat": 36.57,
             "lng": 128.73,
             "modernName": "고창 (위치 추정)"
@@ -1889,7 +1889,7 @@
         "description": "고려가 후백제와의 전투에서 우위를 이어가며 통일의 기반을 넓혔다.",
         "location": {
           "name": "운주권",
-          "mordernName": "충청남도 홍성군·예산군 일대 추정",
+          "modernName": "충청남도 홍성군·예산군 일대 추정",
           "lat": 36.6,
           "lng": 126.8
         }
@@ -1908,21 +1908,21 @@
         "description": "경순왕이 고려에 항복하여 신라가 멸망하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "route": [
           {
             "name": "서라벌",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "송악",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "송악 (위치 추정)"
@@ -1943,21 +1943,21 @@
         "description": "견훤이 후백제 내부 갈등 끝에 고려로 귀부하였다.",
         "location": {
           "name": "금산 방면",
-          "mordernName": "충청남도 금산군 인근 추정",
+          "modernName": "충청남도 금산군 인근 추정",
           "lat": 36.11,
           "lng": 127.49
         },
         "route": [
           {
             "name": "후백제권",
-            "mordernName": "전라북도 전주시 중심 후백제 영역",
+            "modernName": "전라북도 전주시 중심 후백제 영역",
             "lat": 35.82,
             "lng": 127.11,
             "modernName": "후백제권 (위치 추정)"
           },
           {
             "name": "송악",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "송악 (위치 추정)"
@@ -1974,28 +1974,28 @@
         "description": "고려가 후백제를 멸망시키고 후삼국을 통일하였다.",
         "location": {
           "name": "일리천",
-          "mordernName": "경상북도 구미시·선산 일대 추정",
+          "modernName": "경상북도 구미시·선산 일대 추정",
           "lat": 36.24,
           "lng": 128.3
         },
         "locations": [
           {
             "name": "송악",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "송악 (위치 추정)"
           },
           {
             "name": "일리천",
-            "mordernName": "경상북도 구미시·선산 일대 추정",
+            "modernName": "경상북도 구미시·선산 일대 추정",
             "lat": 36.24,
             "lng": 128.3,
             "modernName": "일리천 (위치 추정)"
           },
           {
             "name": "완산주",
-            "mordernName": "전라북도 전주시",
+            "modernName": "전라북도 전주시",
             "lat": 35.82,
             "lng": 127.11,
             "modernName": "전북 전주시"
@@ -2017,7 +2017,7 @@
         "description": "왕건이 송악을 중심으로 고려의 정치·군사 기반을 정비하였다.",
         "location": {
           "name": "송악",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -2036,7 +2036,7 @@
         "description": "송악이 개경으로 발전하며 고려 왕조의 수도 기반이 본격적으로 자리 잡기 시작하였다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -2055,21 +2055,21 @@
         "description": "왕건이 신라와의 외교 관계를 강화하여 후백제에 맞설 정치적 명분을 확보하였다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         },
         "route": [
           {
             "name": "개경",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "경기 개성시 (북한)"
           },
           {
             "name": "서라벌",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
@@ -2091,28 +2091,28 @@
         "description": "견훤이 충청·전라 일대를 더욱 장악하며 후백제의 세력을 확대하였다.",
         "location": {
           "name": "완산주",
-          "mordernName": "전라북도 전주시",
+          "modernName": "전라북도 전주시",
           "lat": 35.82,
           "lng": 127.11
         },
         "locations": [
           {
             "name": "완산주",
-            "mordernName": "전라북도 전주시",
+            "modernName": "전라북도 전주시",
             "lat": 35.82,
             "lng": 127.11,
             "modernName": "전북 전주시"
           },
           {
             "name": "공주 방면",
-            "mordernName": "충청남도 공주시 일대",
+            "modernName": "충청남도 공주시 일대",
             "lat": 36.46,
             "lng": 127.12,
             "modernName": "공주 방면 (위치 추정)"
           },
           {
             "name": "나주 방면",
-            "mordernName": "전라남도 나주시 일대",
+            "modernName": "전라남도 나주시 일대",
             "lat": 35.02,
             "lng": 126.72,
             "modernName": "나주 방면 (위치 추정)"
@@ -2133,21 +2133,21 @@
         "description": "왕건이 나주 지역 세력과 결합하여 서남해 해상 네트워크와 후방 기반을 강화하였다.",
         "location": {
           "name": "나주",
-          "mordernName": "전라남도 나주시",
+          "modernName": "전라남도 나주시",
           "lat": 35.02,
           "lng": 126.72
         },
         "route": [
           {
             "name": "개경",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "경기 개성시 (북한)"
           },
           {
             "name": "나주",
-            "mordernName": "전라남도 나주시",
+            "modernName": "전라남도 나주시",
             "lat": 35.02,
             "lng": 126.72,
             "modernName": "전남 나주시"
@@ -2168,7 +2168,7 @@
         "description": "견훤의 경주 침입 이후 신라 왕실의 권위와 지배 체제가 더욱 약화되었다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -2187,35 +2187,35 @@
         "description": "왕건이 혼인과 포섭 정책을 통해 지방 호족의 지지를 넓혀 갔다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         },
         "locations": [
           {
             "name": "개경",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "경기 개성시 (북한)"
           },
           {
             "name": "나주",
-            "mordernName": "전라남도 나주시",
+            "modernName": "전라남도 나주시",
             "lat": 35.02,
             "lng": 126.72,
             "modernName": "전남 나주시"
           },
           {
             "name": "충주",
-            "mordernName": "충청북도 충주시",
+            "modernName": "충청북도 충주시",
             "lat": 36.99,
             "lng": 127.93,
             "modernName": "충북 충주시"
           },
           {
             "name": "안동",
-            "mordernName": "경상북도 안동시",
+            "modernName": "경상북도 안동시",
             "lat": 36.57,
             "lng": 128.73,
             "modernName": "경북 안동시"
@@ -2236,7 +2236,7 @@
         "description": "고창 전투 승리 이후 고려가 후삼국 경쟁에서 결정적 우위를 점하게 되었다.",
         "location": {
           "name": "고창",
-          "mordernName": "경상북도 안동시 일대",
+          "modernName": "경상북도 안동시 일대",
           "lat": 36.57,
           "lng": 128.73
         }
@@ -2255,7 +2255,7 @@
         "description": "왕건이 혼인과 회유 정책을 통해 신라 및 지방 세력과의 연결망을 확대하였다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -2274,7 +2274,7 @@
         "description": "왕위 계승을 둘러싼 후백제 내부 갈등이 심화되어 국력이 약화되었다.",
         "location": {
           "name": "완산주",
-          "mordernName": "전라북도 전주시",
+          "modernName": "전라북도 전주시",
           "lat": 35.82,
           "lng": 127.11
         }
@@ -2293,21 +2293,21 @@
         "description": "신라 귀부 이후 고려는 동남부 지역까지 영향력을 넓히며 통합 질서를 확장하였다.",
         "location": {
           "name": "서라벌",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "route": [
           {
             "name": "서라벌",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "개경",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "경기 개성시 (북한)"
@@ -2329,35 +2329,35 @@
         "description": "후삼국 통일 이후 고려는 각 지역 세력을 통합하며 새로운 통치 질서를 정비하였다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         },
         "locations": [
           {
             "name": "개경",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "경기 개성시 (북한)"
           },
           {
             "name": "서라벌",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "완산주",
-            "mordernName": "전라북도 전주시",
+            "modernName": "전라북도 전주시",
             "lat": 35.82,
             "lng": 127.11,
             "modernName": "전북 전주시"
           },
           {
             "name": "철원",
-            "mordernName": "강원도 철원군",
+            "modernName": "강원도 철원군",
             "lat": 38.15,
             "lng": 127.31,
             "modernName": "강원 철원군"
@@ -2378,7 +2378,7 @@
         "description": "고려가 후삼국 지역을 통합하기 위해 지방 질서와 세력 재편을 추진하였다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -2397,7 +2397,7 @@
         "description": "태조 왕건이 후대 왕들에게 남겼다고 전해지는 통치 원칙이 고려 정치 전통의 상징이 되었다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }

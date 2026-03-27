@@ -1986,7 +1986,7 @@
         "description": "대한제국이 황제권 강화와 근대 국가 체제 정비를 목표로 광무개혁을 추진하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         }
@@ -2005,21 +2005,21 @@
         "description": "대한제국이 전차, 통신, 도시 기반 시설 등 근대적 시설 정비를 확대하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         },
         "locations": [
           {
             "name": "한성",
-            "mordernName": "서울특별시",
+            "modernName": "서울특별시",
             "lat": 37.57,
             "lng": 126.98,
             "modernName": "서울특별시"
           },
           {
             "name": "인천",
-            "mordernName": "인천광역시",
+            "modernName": "인천광역시",
             "lat": 37.45,
             "lng": 126.7,
             "modernName": "인천광역시"
@@ -2040,28 +2040,28 @@
         "description": "러일전쟁이 한반도에서 전개되며 대한제국에 대한 일본의 간섭이 급격히 강화되었다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         },
         "locations": [
           {
             "name": "한성",
-            "mordernName": "서울특별시",
+            "modernName": "서울특별시",
             "lat": 37.57,
             "lng": 126.98,
             "modernName": "서울특별시"
           },
           {
             "name": "인천",
-            "mordernName": "인천광역시",
+            "modernName": "인천광역시",
             "lat": 37.45,
             "lng": 126.7,
             "modernName": "인천광역시"
           },
           {
             "name": "평양",
-            "mordernName": "평양시",
+            "modernName": "평양시",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "평양시"
@@ -2077,7 +2077,7 @@
         "description": "일본이 대한제국 내 군사상 요지를 사용할 수 있도록 한 한일의정서가 체결되었다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         }
@@ -2096,7 +2096,7 @@
         "description": "일본이 대한제국의 외교권을 박탈하고 통감부 설치의 기반을 마련하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         }
@@ -2110,35 +2110,35 @@
         "description": "을사늑약에 반발하여 전국 각지에서 의병이 다시 봉기하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         },
         "locations": [
           {
             "name": "관동 지역",
-            "mordernName": "강원도 일대",
+            "modernName": "강원도 일대",
             "lat": 37.8,
             "lng": 128.2,
             "modernName": "강원도 일대"
           },
           {
             "name": "호서 지역",
-            "mordernName": "충청도 일대",
+            "modernName": "충청도 일대",
             "lat": 36.6,
             "lng": 127.4,
             "modernName": "충청도 일대"
           },
           {
             "name": "호남 지역",
-            "mordernName": "전라도 일대",
+            "modernName": "전라도 일대",
             "lat": 35.1,
             "lng": 126.9,
             "modernName": "전라도 일대"
           },
           {
             "name": "영남 지역",
-            "mordernName": "경상도 일대",
+            "modernName": "경상도 일대",
             "lat": 35.8,
             "lng": 128.6,
             "modernName": "경상도 일대"
@@ -2159,7 +2159,7 @@
         "description": "일본이 한성에 통감부를 설치하여 대한제국 내정 간섭을 본격화하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         }
@@ -2179,21 +2179,21 @@
         "description": "고종이 을사늑약의 부당함을 국제사회에 알리기 위해 헤이그 특사를 파견하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         },
         "route": [
           {
             "name": "한성",
-            "mordernName": "서울특별시",
+            "modernName": "서울특별시",
             "lat": 37.57,
             "lng": 126.98,
             "modernName": "서울특별시"
           },
           {
             "name": "헤이그",
-            "mordernName": "네덜란드 헤이그",
+            "modernName": "네덜란드 헤이그",
             "lat": 52.08,
             "lng": 4.31,
             "modernName": "네덜란드 헤이그"
@@ -2209,7 +2209,7 @@
         "description": "헤이그 특사 사건 이후 일본의 압박으로 고종이 강제로 퇴위하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         }
@@ -2223,7 +2223,7 @@
         "description": "일본이 대한제국 군대를 강제로 해산시켰고, 이에 반발한 시위대와 군인들이 저항하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         }
@@ -2237,35 +2237,35 @@
         "description": "군대 해산 이후 해산 군인과 의병 세력이 결합하여 정미의병이 전국적으로 확산되었다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         },
         "locations": [
           {
             "name": "경기·강원 지역",
-            "mordernName": "경기도·강원도 일대",
+            "modernName": "경기도·강원도 일대",
             "lat": 37.6,
             "lng": 127.8,
             "modernName": "경기도·강원도 일대"
           },
           {
             "name": "충청 지역",
-            "mordernName": "충청도 일대",
+            "modernName": "충청도 일대",
             "lat": 36.6,
             "lng": 127.4,
             "modernName": "충청도 일대"
           },
           {
             "name": "호남 지역",
-            "mordernName": "전라도 일대",
+            "modernName": "전라도 일대",
             "lat": 35.1,
             "lng": 126.9,
             "modernName": "전라도 일대"
           },
           {
             "name": "영남 지역",
-            "mordernName": "경상도 일대",
+            "modernName": "경상도 일대",
             "lat": 35.8,
             "lng": 128.6,
             "modernName": "경상도 일대"
@@ -2286,21 +2286,21 @@
         "description": "전국 의병 세력이 연합한 13도 창의군이 서울 진공 작전을 시도하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         },
         "route": [
           {
             "name": "경기 북부 집결지",
-            "mordernName": "경기도 양주·포천 일대",
+            "modernName": "경기도 양주·포천 일대",
             "lat": 37.8,
             "lng": 127.1,
             "modernName": "경기도 양주·포천 일대"
           },
           {
             "name": "한성",
-            "mordernName": "서울특별시",
+            "modernName": "서울특별시",
             "lat": 37.57,
             "lng": 126.98,
             "modernName": "서울특별시"
@@ -2321,21 +2321,21 @@
         "description": "안중근이 하얼빈에서 이토 히로부미를 사살하였다.",
         "location": {
           "name": "하얼빈",
-          "mordernName": "중국 헤이룽장성 하얼빈시",
+          "modernName": "중국 헤이룽장성 하얼빈시",
           "lat": 45.75,
           "lng": 126.63
         },
         "route": [
           {
             "name": "연해주·만주 독립운동권",
-            "mordernName": "러시아 연해주 및 중국 동북부 일대",
+            "modernName": "러시아 연해주 및 중국 동북부 일대",
             "lat": 43.1,
             "lng": 131.9,
             "modernName": "러시아 연해주 및 중국 동북부 일대"
           },
           {
             "name": "하얼빈",
-            "mordernName": "중국 헤이룽장성 하얼빈시",
+            "modernName": "중국 헤이룽장성 하얼빈시",
             "lat": 45.75,
             "lng": 126.63,
             "modernName": "중국 헤이룽장성 하얼빈시"
@@ -2356,7 +2356,7 @@
         "description": "한일병합조약으로 대한제국이 일본에 강제 병합되었다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시",
+          "modernName": "서울특별시",
           "lat": 37.57,
           "lng": 126.98
         }

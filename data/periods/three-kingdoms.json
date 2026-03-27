@@ -705,7 +705,7 @@
         "description": "소수림왕이 율령을 반포하여 중앙 집권 국가 체제를 정비하였다.",
         "location": {
           "name": "국내성",
-          "mordernName": "중국 지린성 지안시",
+          "modernName": "중국 지린성 지안시",
           "lat": 41.16,
           "lng": 126.19
         }
@@ -720,7 +720,7 @@
         "description": "고구려가 태학을 세워 유교 교육 체계를 정비하였다.",
         "location": {
           "name": "국내성",
-          "mordernName": "중국 지린성 지안시",
+          "modernName": "중국 지린성 지안시",
           "lat": 41.16,
           "lng": 126.19
         }
@@ -735,21 +735,21 @@
         "description": "전진의 승려 순도가 들어와 고구려에 불교가 전래되었다.",
         "location": {
           "name": "국내성",
-          "mordernName": "중국 지린성 지안시",
+          "modernName": "중국 지린성 지안시",
           "lat": 41.16,
           "lng": 126.19
         },
         "route": [
           {
             "name": "전진",
-            "mordernName": "중국 산시성 시안시 일대",
+            "modernName": "중국 산시성 시안시 일대",
             "lat": 34.34,
             "lng": 108.94,
             "modernName": "전진 (위치 추정)"
           },
           {
             "name": "국내성",
-            "mordernName": "중국 지린성 지안시",
+            "modernName": "중국 지린성 지안시",
             "lat": 41.16,
             "lng": 126.19,
             "modernName": "중국 지린성 집안시"
@@ -771,21 +771,21 @@
         "description": "동진의 승려 마라난타가 들어와 백제에서 불교가 수용되었다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시 송파구·광진구 일대 추정",
+          "modernName": "서울특별시 송파구·광진구 일대 추정",
           "lat": 37.53,
           "lng": 127.12
         },
         "route": [
           {
             "name": "동진",
-            "mordernName": "중국 장쑤성 난징시 일대",
+            "modernName": "중국 장쑤성 난징시 일대",
             "lat": 32.06,
             "lng": 118.79,
             "modernName": "동진 (위치 추정)"
           },
           {
             "name": "한성",
-            "mordernName": "서울특별시 송파구·광진구 일대 추정",
+            "modernName": "서울특별시 송파구·광진구 일대 추정",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "서울 송파구 일대 (풍납토성·몽촌토성)"
@@ -807,7 +807,7 @@
         "description": "광개토대왕이 즉위하여 고구려의 전성기를 이끌 기반을 마련하였다.",
         "location": {
           "name": "국내성",
-          "mordernName": "중국 지린성 지안시",
+          "modernName": "중국 지린성 지안시",
           "lat": 41.16,
           "lng": 126.19
         }
@@ -827,21 +827,21 @@
         "description": "고구려가 왜와 백제의 압박을 받던 신라를 군사적으로 지원하였다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "route": [
           {
             "name": "국내성",
-            "mordernName": "중국 지린성 지안시",
+            "modernName": "중국 지린성 지안시",
             "lat": 41.16,
             "lng": 126.19,
             "modernName": "중국 지린성 집안시"
           },
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
@@ -850,14 +850,14 @@
         "locations": [
           {
             "name": "백제",
-            "mordernName": "서울특별시 송파구·광진구 일대 중심의 백제권",
+            "modernName": "서울특별시 송파구·광진구 일대 중심의 백제권",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "백제 (위치 추정)"
           },
           {
             "name": "왜",
-            "mordernName": "일본 규슈 지역",
+            "modernName": "일본 규슈 지역",
             "lat": 33.59,
             "lng": 130.4,
             "modernName": "일본"
@@ -879,21 +879,21 @@
         "description": "장수왕이 수도를 국내성에서 평양으로 옮겨 남진 정책을 강화하였다.",
         "location": {
           "name": "평양",
-          "mordernName": "평양시",
+          "modernName": "평양시",
           "lat": 39.03,
           "lng": 125.75
         },
         "route": [
           {
             "name": "국내성",
-            "mordernName": "중국 지린성 지안시",
+            "modernName": "중국 지린성 지안시",
             "lat": 41.16,
             "lng": 126.19,
             "modernName": "중국 지린성 집안시"
           },
           {
             "name": "평양",
-            "mordernName": "평양시",
+            "modernName": "평양시",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "북한 평양시"
@@ -915,21 +915,21 @@
         "description": "장수왕의 공격으로 백제 한성이 함락되고 개로왕이 전사하였다.",
         "location": {
           "name": "한성",
-          "mordernName": "서울특별시 송파구·광진구 일대 추정",
+          "modernName": "서울특별시 송파구·광진구 일대 추정",
           "lat": 37.53,
           "lng": 127.12
         },
         "route": [
           {
             "name": "평양",
-            "mordernName": "평양시",
+            "modernName": "평양시",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "북한 평양시"
           },
           {
             "name": "한성",
-            "mordernName": "서울특별시 송파구·광진구 일대 추정",
+            "modernName": "서울특별시 송파구·광진구 일대 추정",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "서울 송파구 일대 (풍납토성·몽촌토성)"
@@ -946,21 +946,21 @@
         "description": "한성 함락 이후 백제가 웅진으로 천도하였다.",
         "location": {
           "name": "웅진",
-          "mordernName": "충청남도 공주시",
+          "modernName": "충청남도 공주시",
           "lat": 36.46,
           "lng": 127.12
         },
         "route": [
           {
             "name": "한성",
-            "mordernName": "서울특별시 송파구·광진구 일대 추정",
+            "modernName": "서울특별시 송파구·광진구 일대 추정",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "서울 송파구 일대 (풍납토성·몽촌토성)"
           },
           {
             "name": "웅진",
-            "mordernName": "충청남도 공주시",
+            "modernName": "충청남도 공주시",
             "lat": 36.46,
             "lng": 127.12,
             "modernName": "충남 공주시"
@@ -981,7 +981,7 @@
         "description": "부여가 북방 세력의 압박 속에서 쇠퇴하여 역사 무대에서 사라졌다.",
         "location": {
           "name": "부여",
-          "mordernName": "중국 지린성 농안현 일대 추정",
+          "modernName": "중국 지린성 농안현 일대 추정",
           "lat": 44.55,
           "lng": 124.85
         }
@@ -1001,21 +1001,21 @@
         "description": "이사부가 우산국을 복속시켜 신라의 해상 지배력을 넓혔다.",
         "location": {
           "name": "우산국",
-          "mordernName": "경상북도 울릉군",
+          "modernName": "경상북도 울릉군",
           "lat": 37.5,
           "lng": 130.9
         },
         "route": [
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "우산국",
-            "mordernName": "경상북도 울릉군",
+            "modernName": "경상북도 울릉군",
             "lat": 37.5,
             "lng": 130.9,
             "modernName": "경북 울릉군 (울릉도)"
@@ -1037,7 +1037,7 @@
         "description": "법흥왕이 율령을 반포하여 중앙 집권 국가 체제를 강화하였다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -1057,7 +1057,7 @@
         "description": "이차돈의 순교를 계기로 신라에서 불교가 공인되었다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -1077,21 +1077,21 @@
         "description": "성왕이 수도를 웅진에서 사비로 옮기고 국호를 남부여로 선포하였다.",
         "location": {
           "name": "사비",
-          "mordernName": "충청남도 부여군",
+          "modernName": "충청남도 부여군",
           "lat": 36.27,
           "lng": 126.91
         },
         "route": [
           {
             "name": "웅진",
-            "mordernName": "충청남도 공주시",
+            "modernName": "충청남도 공주시",
             "lat": 36.46,
             "lng": 127.12,
             "modernName": "충남 공주시"
           },
           {
             "name": "사비",
-            "mordernName": "충청남도 부여군",
+            "modernName": "충청남도 부여군",
             "lat": 36.27,
             "lng": 126.91,
             "modernName": "충남 부여군"
@@ -1113,28 +1113,28 @@
         "description": "신라와 백제가 연합하여 고구려로부터 한강 유역을 되찾았다.",
         "location": {
           "name": "한강 유역",
-          "mordernName": "서울특별시·경기도 하남시·남양주시 일대",
+          "modernName": "서울특별시·경기도 하남시·남양주시 일대",
           "lat": 37.53,
           "lng": 127.12
         },
         "locations": [
           {
             "name": "한강 유역",
-            "mordernName": "서울특별시·경기도 하남시·남양주시 일대",
+            "modernName": "서울특별시·경기도 하남시·남양주시 일대",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "한강 유역 (위치 추정)"
           },
           {
             "name": "사비",
-            "mordernName": "충청남도 부여군",
+            "modernName": "충청남도 부여군",
             "lat": 36.27,
             "lng": 126.91,
             "modernName": "충남 부여군"
           },
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
@@ -1156,21 +1156,21 @@
         "description": "신라가 백제를 배신하고 한강 유역을 차지하여 대외 교통의 주도권을 확보하였다.",
         "location": {
           "name": "한강 유역",
-          "mordernName": "서울특별시·경기도 하남시·남양주시 일대",
+          "modernName": "서울특별시·경기도 하남시·남양주시 일대",
           "lat": 37.53,
           "lng": 127.12
         },
         "route": [
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "한강 유역",
-            "mordernName": "서울특별시·경기도 하남시·남양주시 일대",
+            "modernName": "서울특별시·경기도 하남시·남양주시 일대",
             "lat": 37.53,
             "lng": 127.12,
             "modernName": "한강 유역 (위치 추정)"
@@ -1192,21 +1192,21 @@
         "description": "신라가 대가야를 병합하여 가야 세력을 완전히 흡수하였다.",
         "location": {
           "name": "대가야",
-          "mordernName": "경상북도 고령군",
+          "modernName": "경상북도 고령군",
           "lat": 35.73,
           "lng": 128.26
         },
         "route": [
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "대가야",
-            "mordernName": "경상북도 고령군",
+            "modernName": "경상북도 고령군",
             "lat": 35.73,
             "lng": 128.26,
             "modernName": "경북 고령군"
@@ -1228,21 +1228,21 @@
         "description": "신라가 당과의 외교 관계를 강화하며 백제·고구려에 대응할 기반을 마련하였다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "route": [
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "장안",
-            "mordernName": "중국 산시성 시안시",
+            "modernName": "중국 산시성 시안시",
             "lat": 34.34,
             "lng": 108.94,
             "modernName": "장안 (위치 추정)"
@@ -1264,7 +1264,7 @@
         "description": "무열왕이 즉위하며 김춘추 중심의 강력한 왕권과 대당 연합 외교가 본격화되었다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         }
@@ -1283,21 +1283,21 @@
         "description": "계백이 이끄는 백제군이 황산벌에서 신라군과 맞서 싸웠다.",
         "location": {
           "name": "황산벌",
-          "mordernName": "충청남도 논산시 연산면 일대 추정",
+          "modernName": "충청남도 논산시 연산면 일대 추정",
           "lat": 36.19,
           "lng": 127.1
         },
         "route": [
           {
             "name": "사비",
-            "mordernName": "충청남도 부여군",
+            "modernName": "충청남도 부여군",
             "lat": 36.27,
             "lng": 126.91,
             "modernName": "충남 부여군"
           },
           {
             "name": "황산벌",
-            "mordernName": "충청남도 논산시 연산면 일대 추정",
+            "modernName": "충청남도 논산시 연산면 일대 추정",
             "lat": 36.19,
             "lng": 127.1,
             "modernName": "황산벌 (위치 추정)"
@@ -1313,21 +1313,21 @@
         "description": "나당 연합군의 공격으로 사비성이 함락되며 백제가 멸망하였다.",
         "location": {
           "name": "사비",
-          "mordernName": "충청남도 부여군",
+          "modernName": "충청남도 부여군",
           "lat": 36.27,
           "lng": 126.91
         },
         "locations": [
           {
             "name": "사비",
-            "mordernName": "충청남도 부여군",
+            "modernName": "충청남도 부여군",
             "lat": 36.27,
             "lng": 126.91,
             "modernName": "충남 부여군"
           },
           {
             "name": "웅진",
-            "mordernName": "충청남도 공주시",
+            "modernName": "충청남도 공주시",
             "lat": 36.46,
             "lng": 127.12,
             "modernName": "충남 공주시"
@@ -1336,21 +1336,21 @@
         "route": [
           {
             "name": "장안",
-            "mordernName": "중국 산시성 시안시",
+            "modernName": "중국 산시성 시안시",
             "lat": 34.34,
             "lng": 108.94,
             "modernName": "장안 (위치 추정)"
           },
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "사비",
-            "mordernName": "충청남도 부여군",
+            "modernName": "충청남도 부여군",
             "lat": 36.27,
             "lng": 126.91,
             "modernName": "충남 부여군"
@@ -1372,21 +1372,21 @@
         "description": "신라와 당이 고구려를 압박하며 평양 방면 공격을 본격화하였다.",
         "location": {
           "name": "평양",
-          "mordernName": "평양시",
+          "modernName": "평양시",
           "lat": 39.03,
           "lng": 125.75
         },
         "route": [
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "평양",
-            "mordernName": "평양시",
+            "modernName": "평양시",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "북한 평양시"
@@ -1407,21 +1407,21 @@
         "description": "백제 부흥군과 왜 연합 세력이 백강에서 나당 연합군에 패하였다.",
         "location": {
           "name": "백강",
-          "mordernName": "전라북도 군산시 금강 하구 또는 충청남도 서천군 일대 추정",
+          "modernName": "전라북도 군산시 금강 하구 또는 충청남도 서천군 일대 추정",
           "lat": 36.0,
           "lng": 126.75
         },
         "locations": [
           {
             "name": "백강",
-            "mordernName": "전라북도 군산시 금강 하구 또는 충청남도 서천군 일대 추정",
+            "modernName": "전라북도 군산시 금강 하구 또는 충청남도 서천군 일대 추정",
             "lat": 36.0,
             "lng": 126.75,
             "modernName": "백강 (위치 추정)"
           },
           {
             "name": "왜",
-            "mordernName": "일본 규슈 지역",
+            "modernName": "일본 규슈 지역",
             "lat": 33.59,
             "lng": 130.4,
             "modernName": "일본"
@@ -1430,14 +1430,14 @@
         "route": [
           {
             "name": "왜",
-            "mordernName": "일본 규슈 지역",
+            "modernName": "일본 규슈 지역",
             "lat": 33.59,
             "lng": 130.4,
             "modernName": "일본"
           },
           {
             "name": "백강",
-            "mordernName": "전라북도 군산시 금강 하구 또는 충청남도 서천군 일대 추정",
+            "modernName": "전라북도 군산시 금강 하구 또는 충청남도 서천군 일대 추정",
             "lat": 36.0,
             "lng": 126.75,
             "modernName": "백강 (위치 추정)"
@@ -1458,14 +1458,14 @@
         "description": "나당 연합군의 공격으로 평양성이 함락되며 고구려가 멸망하였다.",
         "location": {
           "name": "평양성",
-          "mordernName": "평양시",
+          "modernName": "평양시",
           "lat": 39.03,
           "lng": 125.75
         },
         "locations": [
           {
             "name": "평양성",
-            "mordernName": "평양시",
+            "modernName": "평양시",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "북한 평양시"
@@ -1474,21 +1474,21 @@
         "route": [
           {
             "name": "장안",
-            "mordernName": "중국 산시성 시안시",
+            "modernName": "중국 산시성 시안시",
             "lat": 34.34,
             "lng": 108.94,
             "modernName": "장안 (위치 추정)"
           },
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "평양성",
-            "mordernName": "평양시",
+            "modernName": "평양시",
             "lat": 39.03,
             "lng": 125.75,
             "modernName": "북한 평양시"
@@ -1510,21 +1510,21 @@
         "description": "고구려·백제 멸망 이후 당이 한반도 지배를 시도하자 신라가 당과 전쟁을 벌이기 시작하였다.",
         "location": {
           "name": "한반도 중서부",
-          "mordernName": "경기도·충청도 북부 및 황해도 남부 권역",
+          "modernName": "경기도·충청도 북부 및 황해도 남부 권역",
           "lat": 37.8,
           "lng": 126.9
         },
         "locations": [
           {
             "name": "매소성 권역",
-            "mordernName": "경기도 연천군 또는 포천시 인근 추정",
+            "modernName": "경기도 연천군 또는 포천시 인근 추정",
             "lat": 38.0,
             "lng": 127.08,
             "modernName": "매소성 권역 (위치 추정)"
           },
           {
             "name": "기벌포 권역",
-            "mordernName": "충청남도 서천군 장항읍 인근 추정",
+            "modernName": "충청남도 서천군 장항읍 인근 추정",
             "lat": 36.01,
             "lng": 126.71,
             "modernName": "기벌포 권역 (위치 추정)"
@@ -1546,7 +1546,7 @@
         "description": "신라가 매소성 전투에서 당군을 크게 물리쳤다.",
         "location": {
           "name": "매소성",
-          "mordernName": "경기도 연천군 또는 포천시 인근 추정",
+          "modernName": "경기도 연천군 또는 포천시 인근 추정",
           "lat": 38.0,
           "lng": 127.08
         }
@@ -1566,7 +1566,7 @@
         "description": "신라가 기벌포 전투에서 당 수군을 물리치며 한반도 남부 지배를 확정지었다.",
         "location": {
           "name": "기벌포",
-          "mordernName": "충청남도 서천군 장항읍 인근 추정",
+          "modernName": "충청남도 서천군 장항읍 인근 추정",
           "lat": 36.01,
           "lng": 126.71
         }
@@ -1580,28 +1580,28 @@
         "description": "신라가 당 세력을 몰아내고 한반도 남부의 통일 질서를 확립하였다.",
         "location": {
           "name": "사로",
-          "mordernName": "경상북도 경주시",
+          "modernName": "경상북도 경주시",
           "lat": 35.84,
           "lng": 129.21
         },
         "locations": [
           {
             "name": "사로",
-            "mordernName": "경상북도 경주시",
+            "modernName": "경상북도 경주시",
             "lat": 35.84,
             "lng": 129.21,
             "modernName": "경북 경주시"
           },
           {
             "name": "매소성",
-            "mordernName": "경기도 연천군 또는 포천시 인근 추정",
+            "modernName": "경기도 연천군 또는 포천시 인근 추정",
             "lat": 38.0,
             "lng": 127.08,
             "modernName": "매소성 (위치 추정)"
           },
           {
             "name": "기벌포",
-            "mordernName": "충청남도 서천군 장항읍 인근 추정",
+            "modernName": "충청남도 서천군 장항읍 인근 추정",
             "lat": 36.01,
             "lng": 126.71,
             "modernName": "기벌포 (위치 추정)"
@@ -1623,7 +1623,7 @@
         "description": "광종이 공복을 제정하여 관료 질서와 중앙 정치의 위계를 강화하였다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -1642,21 +1642,21 @@
         "description": "고려가 송과의 외교 관계를 확대하며 동아시아 국제 질서 속 입지를 넓혀 갔다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         },
         "route": [
           {
             "name": "개경",
-            "mordernName": "개성시",
+            "modernName": "개성시",
             "lat": 37.97,
             "lng": 126.55,
             "modernName": "경기 개성시 (북한)"
           },
           {
             "name": "송",
-            "mordernName": "중국 허난성 카이펑시 및 저장성 항저우시 계통 송 중심지",
+            "modernName": "중국 허난성 카이펑시 및 저장성 항저우시 계통 송 중심지",
             "lat": 34.8,
             "lng": 114.3,
             "modernName": "송 (위치 추정)"
@@ -1678,7 +1678,7 @@
         "description": "전시과 제도를 통해 고려 관료 체제와 토지 수조 질서가 제도적으로 자리 잡기 시작하였다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -1698,7 +1698,7 @@
         "description": "성종이 즉위하며 유교 정치 이념을 바탕으로 중앙과 지방 질서 개편을 추진하였다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -1718,35 +1718,35 @@
         "description": "성종이 지방관 파견을 확대하며 향리 체제를 통한 지방 통치 질서를 정비하였다.",
         "location": {
           "name": "12목",
-          "mordernName": "중부·남부 주요 도시권",
+          "modernName": "중부·남부 주요 도시권",
           "lat": 36.5,
           "lng": 127.8
         },
         "locations": [
           {
             "name": "충주",
-            "mordernName": "충청북도 충주시",
+            "modernName": "충청북도 충주시",
             "lat": 36.99,
             "lng": 127.93,
             "modernName": "충북 충주시"
           },
           {
             "name": "청주",
-            "mordernName": "충청북도 청주시",
+            "modernName": "충청북도 청주시",
             "lat": 36.64,
             "lng": 127.49,
             "modernName": "청주 (위치 추정)"
           },
           {
             "name": "전주",
-            "mordernName": "전라북도 전주시",
+            "modernName": "전라북도 전주시",
             "lat": 35.82,
             "lng": 127.11,
             "modernName": "전북 전주시"
           },
           {
             "name": "상주",
-            "mordernName": "경상북도 상주시",
+            "modernName": "경상북도 상주시",
             "lat": 36.41,
             "lng": 128.16,
             "modernName": "경북 상주시"
@@ -1767,7 +1767,7 @@
         "description": "고려가 12목을 중심으로 지방 행정·군사·조세 통제를 강화하였다.",
         "location": {
           "name": "12목",
-          "mordernName": "한반도 중남부 주요 지방 거점",
+          "modernName": "한반도 중남부 주요 지방 거점",
           "lat": 36.5,
           "lng": 127.8
         }
@@ -1786,7 +1786,7 @@
         "description": "최승로의 시무 28조를 바탕으로 성종이 유교 정치 이념에 입각한 국가 운영 방향을 정비하였다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -1805,7 +1805,7 @@
         "description": "고려가 불교 국가의 틀 위에 유교적 행정 질서를 더욱 분명히 구축해 갔다.",
         "location": {
           "name": "국자감권",
-          "mordernName": "개성시 중심 교육·관료 양성권",
+          "modernName": "개성시 중심 교육·관료 양성권",
           "lat": 37.97,
           "lng": 126.55
         }
@@ -1824,7 +1824,7 @@
         "description": "거란 세력의 성장으로 고려 북서 국경의 군사적 긴장이 높아졌다.",
         "location": {
           "name": "압록강 동쪽 변경",
-          "mordernName": "평안북도 북부 및 압록강 접경 지역",
+          "modernName": "평안북도 북부 및 압록강 접경 지역",
           "lat": 40.1,
           "lng": 124.4
         }
@@ -1844,21 +1844,21 @@
         "description": "소손녕이 이끄는 거란군이 고려를 침입하였다.",
         "location": {
           "name": "압록강 방면",
-          "mordernName": "평안북도 북부 및 중국-북한 접경 지역",
+          "modernName": "평안북도 북부 및 중국-북한 접경 지역",
           "lat": 40.1,
           "lng": 124.4
         },
         "route": [
           {
             "name": "거란",
-            "mordernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
+            "modernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
             "lat": 43.9,
             "lng": 122.7,
             "modernName": "중국 내몽골·랴오닝 일대"
           },
           {
             "name": "압록강 방면",
-            "mordernName": "평안북도 북부 및 중국-북한 접경 지역",
+            "modernName": "평안북도 북부 및 중국-북한 접경 지역",
             "lat": 40.1,
             "lng": 124.4,
             "modernName": "압록강 방면 (위치 추정)"
@@ -1875,7 +1875,7 @@
         "description": "서희가 소손녕과 외교 담판을 벌여 고려의 고구려 계승성을 주장하고 철군을 이끌어냈다.",
         "location": {
           "name": "북서 국경 교섭권",
-          "mordernName": "평안북도 북부 접경 지역 추정",
+          "modernName": "평안북도 북부 접경 지역 추정",
           "lat": 39.8,
           "lng": 124.6
         }
@@ -1895,21 +1895,21 @@
         "description": "서희 담판 이후 고려가 압록강 동쪽 지역에 강동 6주를 두어 북서 국경을 확장하였다.",
         "location": {
           "name": "강동 6주",
-          "mordernName": "평안북도 압록강 동쪽 일대 추정",
+          "modernName": "평안북도 압록강 동쪽 일대 추정",
           "lat": 39.9,
           "lng": 124.8
         },
         "locations": [
           {
             "name": "강동 6주",
-            "mordernName": "평안북도 압록강 동쪽 일대 추정",
+            "modernName": "평안북도 압록강 동쪽 일대 추정",
             "lat": 39.9,
             "lng": 124.8,
             "modernName": "강동 6주 (위치 추정)"
           },
           {
             "name": "압록강",
-            "mordernName": "북한 평안북도-중국 단둥 접경",
+            "modernName": "북한 평안북도-중국 단둥 접경",
             "lat": 40.1,
             "lng": 124.4,
             "modernName": "북한·중국 접경"
@@ -1930,7 +1930,7 @@
         "description": "성종 대에 지방 제도와 중앙 행정이 맞물리며 고려의 중앙 집권 국가 체제가 본격화되었다.",
         "location": {
           "name": "개경",
-          "mordernName": "개성시",
+          "modernName": "개성시",
           "lat": 37.97,
           "lng": 126.55
         }

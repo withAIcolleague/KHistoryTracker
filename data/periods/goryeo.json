@@ -2878,7 +2878,7 @@
                 "description": "왕건이 송악·개경을 중심으로 고려 왕조의 통치 기반을 정비하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -2898,21 +2898,21 @@
                 "description": "발해 멸망 이후 고려가 발해 유민을 받아들이며 계승 의식을 강화하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 },
                 "route": [
                     {
                         "name": "상경 용천부",
-                        "mordernName": "중국 헤이룽장성 닝안시 발해진 일대",
+                        "modernName": "중국 헤이룽장성 닝안시 발해진 일대",
                         "lat": 44.1,
                         "lng": 129.0,
                         "modernName": "상경 용천부 (위치 추정)"
                     },
                     {
                         "name": "개경",
-                        "mordernName": "개성시",
+                        "modernName": "개성시",
                         "lat": 37.97,
                         "lng": 126.55,
                         "modernName": "경기 개성시 (북한)"
@@ -2934,21 +2934,21 @@
                 "description": "경순왕이 고려에 귀부하여 신라의 왕통과 지방 세력이 고려 질서에 편입되었다.",
                 "location": {
                     "name": "서라벌",
-                    "mordernName": "경상북도 경주시",
+                    "modernName": "경상북도 경주시",
                     "lat": 35.84,
                     "lng": 129.21
                 },
                 "route": [
                     {
                         "name": "서라벌",
-                        "mordernName": "경상북도 경주시",
+                        "modernName": "경상북도 경주시",
                         "lat": 35.84,
                         "lng": 129.21,
                         "modernName": "경북 경주시"
                     },
                     {
                         "name": "개경",
-                        "mordernName": "개성시",
+                        "modernName": "개성시",
                         "lat": 37.97,
                         "lng": 126.55,
                         "modernName": "경기 개성시 (북한)"
@@ -2970,28 +2970,28 @@
                 "description": "고려가 후백제를 멸망시키고 후삼국을 통일하였다.",
                 "location": {
                     "name": "일리천",
-                    "mordernName": "경상북도 구미시·선산 일대 추정",
+                    "modernName": "경상북도 구미시·선산 일대 추정",
                     "lat": 36.24,
                     "lng": 128.3
                 },
                 "locations": [
                     {
                         "name": "일리천",
-                        "mordernName": "경상북도 구미시·선산 일대 추정",
+                        "modernName": "경상북도 구미시·선산 일대 추정",
                         "lat": 36.24,
                         "lng": 128.3,
                         "modernName": "일리천 (위치 추정)"
                     },
                     {
                         "name": "개경",
-                        "mordernName": "개성시",
+                        "modernName": "개성시",
                         "lat": 37.97,
                         "lng": 126.55,
                         "modernName": "경기 개성시 (북한)"
                     },
                     {
                         "name": "완산주",
-                        "mordernName": "전라북도 전주시",
+                        "modernName": "전라북도 전주시",
                         "lat": 35.82,
                         "lng": 127.11,
                         "modernName": "전북 전주시"
@@ -3012,28 +3012,28 @@
                 "description": "고려가 후삼국 지역을 통합하기 위해 지방 세력과 호족 질서를 재편하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 },
                 "locations": [
                     {
                         "name": "개경",
-                        "mordernName": "개성시",
+                        "modernName": "개성시",
                         "lat": 37.97,
                         "lng": 126.55,
                         "modernName": "경기 개성시 (북한)"
                     },
                     {
                         "name": "서라벌",
-                        "mordernName": "경상북도 경주시",
+                        "modernName": "경상북도 경주시",
                         "lat": 35.84,
                         "lng": 129.21,
                         "modernName": "경북 경주시"
                     },
                     {
                         "name": "완산주",
-                        "mordernName": "전라북도 전주시",
+                        "modernName": "전라북도 전주시",
                         "lat": 35.82,
                         "lng": 127.11,
                         "modernName": "전북 전주시"
@@ -3054,7 +3054,7 @@
                 "description": "태조 왕건이 후대 왕들에게 남겼다고 전해지는 통치 원칙이 고려 정치 전통의 상징이 되었다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3073,7 +3073,7 @@
                 "description": "고려가 통일 이후 북방과 동북 지역의 질서를 정비하며 국경 안정화를 추진하였다.",
                 "location": {
                     "name": "북방 변경",
-                    "mordernName": "평안북도·자강도·함경도 접경 권역",
+                    "modernName": "평안북도·자강도·함경도 접경 권역",
                     "lat": 40.2,
                     "lng": 126.2
                 }
@@ -3093,7 +3093,7 @@
                 "description": "광종이 즉위하여 강력한 왕권 강화 정책과 중앙 집권 체제 정비를 추진할 기반을 마련하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3113,7 +3113,7 @@
                 "description": "광종이 노비안검법을 시행하여 호족의 경제·군사 기반을 약화시키고 왕권을 강화하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3133,21 +3133,21 @@
                 "description": "광종이 쌍기의 건의를 받아 과거제를 시행해 유교적 관료 선발 체제를 마련하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 },
                 "route": [
                     {
                         "name": "후주권",
-                        "mordernName": "중국 허난성 카이펑시 일대",
+                        "modernName": "중국 허난성 카이펑시 일대",
                         "lat": 34.8,
                         "lng": 114.3,
                         "modernName": "후주권 (위치 추정)"
                     },
                     {
                         "name": "개경",
-                        "mordernName": "개성시",
+                        "modernName": "개성시",
                         "lat": 37.97,
                         "lng": 126.55,
                         "modernName": "경기 개성시 (북한)"
@@ -3169,7 +3169,7 @@
                 "description": "광종이 공복 제정과 숙청 정치를 통해 중앙 집권적 왕권을 한층 강화하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3189,7 +3189,7 @@
                 "description": "경종이 전시과 제도를 실시하여 관료에게 수조권을 지급하는 토지 제도 기반을 마련하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3209,7 +3209,7 @@
                 "description": "성종이 즉위하여 유교 정치 이념을 바탕으로 중앙 집권 체제 정비를 본격화하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3229,42 +3229,42 @@
                 "description": "성종이 지방에 12목을 설치하고 지방관을 파견하여 중앙의 지방 지배력을 강화하였다.",
                 "location": {
                     "name": "12목",
-                    "mordernName": "중부·남부·서북 지방 주요 거점 도시권",
+                    "modernName": "중부·남부·서북 지방 주요 거점 도시권",
                     "lat": 36.5,
                     "lng": 127.8
                 },
                 "locations": [
                     {
                         "name": "개경",
-                        "mordernName": "개성시",
+                        "modernName": "개성시",
                         "lat": 37.97,
                         "lng": 126.55,
                         "modernName": "경기 개성시 (북한)"
                     },
                     {
                         "name": "충주",
-                        "mordernName": "충청북도 충주시",
+                        "modernName": "충청북도 충주시",
                         "lat": 36.99,
                         "lng": 127.93,
                         "modernName": "충북 충주시"
                     },
                     {
                         "name": "청주",
-                        "mordernName": "충청북도 청주시",
+                        "modernName": "충청북도 청주시",
                         "lat": 36.64,
                         "lng": 127.49,
                         "modernName": "청주 (위치 추정)"
                     },
                     {
                         "name": "상주",
-                        "mordernName": "경상북도 상주시",
+                        "modernName": "경상북도 상주시",
                         "lat": 36.41,
                         "lng": 128.16,
                         "modernName": "경북 상주시"
                     },
                     {
                         "name": "전주",
-                        "mordernName": "전라북도 전주시",
+                        "modernName": "전라북도 전주시",
                         "lat": 35.82,
                         "lng": 127.11,
                         "modernName": "전북 전주시"
@@ -3286,7 +3286,7 @@
                 "description": "성종이 전국을 10도로 나누어 보다 체계적인 지방 행정 구역 운영의 기반을 마련하였다.",
                 "location": {
                     "name": "10도",
-                    "mordernName": "한반도 중·남부 및 서북 권역 전반",
+                    "modernName": "한반도 중·남부 및 서북 권역 전반",
                     "lat": 36.5,
                     "lng": 127.8
                 }
@@ -3305,21 +3305,21 @@
                 "description": "거란 1차 침입 이후 고려는 북서 지역의 군사 방어망 정비를 본격화하였다.",
                 "location": {
                     "name": "북서 변경",
-                    "mordernName": "평안북도 북부·압록강 동쪽 권역",
+                    "modernName": "평안북도 북부·압록강 동쪽 권역",
                     "lat": 39.8,
                     "lng": 124.8
                 },
                 "locations": [
                     {
                         "name": "강동 6주",
-                        "mordernName": "평안북도 압록강 동쪽 일대 추정",
+                        "modernName": "평안북도 압록강 동쪽 일대 추정",
                         "lat": 39.9,
                         "lng": 124.8,
                         "modernName": "강동 6주 (위치 추정)"
                     },
                     {
                         "name": "청천강 유역",
-                        "mordernName": "평안북도 중부 하천권",
+                        "modernName": "평안북도 중부 하천권",
                         "lat": 39.5,
                         "lng": 125.6,
                         "modernName": "청천강 유역 (위치 추정)"
@@ -3340,7 +3340,7 @@
                 "description": "고려가 거란의 재침 가능성에 대비해 북서 국경 요충지의 성곽과 병력을 보강하였다.",
                 "location": {
                     "name": "북서 국경 요충지",
-                    "mordernName": "평안북도 북부 및 청천강 이북 일대",
+                    "modernName": "평안북도 북부 및 청천강 이북 일대",
                     "lat": 39.7,
                     "lng": 125.2
                 }
@@ -3359,7 +3359,7 @@
                 "description": "강조가 정변을 일으켜 목종을 폐위하고 현종을 옹립하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3373,7 +3373,7 @@
                 "description": "강조의 정변으로 거란이 고려 내정 개입과 재침의 명분을 확보하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3393,28 +3393,28 @@
                 "description": "거란군이 대규모로 남하하여 개경을 공격하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 },
                 "route": [
                     {
                         "name": "거란",
-                        "mordernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
+                        "modernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
                         "lat": 43.9,
                         "lng": 122.7,
                         "modernName": "중국 내몽골·랴오닝 일대"
                     },
                     {
                         "name": "압록강 방면",
-                        "mordernName": "평안북도 북부 및 중국-북한 접경 지역",
+                        "modernName": "평안북도 북부 및 중국-북한 접경 지역",
                         "lat": 40.1,
                         "lng": 124.4,
                         "modernName": "압록강 방면 (위치 추정)"
                     },
                     {
                         "name": "개경",
-                        "mordernName": "개성시",
+                        "modernName": "개성시",
                         "lat": 37.97,
                         "lng": 126.55,
                         "modernName": "경기 개성시 (북한)"
@@ -3431,21 +3431,21 @@
                 "description": "거란군의 침입으로 현종이 개경을 떠나 남쪽으로 피난하였다.",
                 "location": {
                     "name": "나주",
-                    "mordernName": "전라남도 나주시",
+                    "modernName": "전라남도 나주시",
                     "lat": 35.02,
                     "lng": 126.72
                 },
                 "route": [
                     {
                         "name": "개경",
-                        "mordernName": "개성시",
+                        "modernName": "개성시",
                         "lat": 37.97,
                         "lng": 126.55,
                         "modernName": "경기 개성시 (북한)"
                     },
                     {
                         "name": "나주",
-                        "mordernName": "전라남도 나주시",
+                        "modernName": "전라남도 나주시",
                         "lat": 35.02,
                         "lng": 126.72,
                         "modernName": "전남 나주시"
@@ -3466,7 +3466,7 @@
                 "description": "거란군이 물러난 뒤 고려가 개경을 복구하고 국가 체제를 재정비하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3480,7 +3480,7 @@
                 "description": "거란의 침입을 극복하고자 고려가 초조대장경 조판을 추진하였다.",
                 "location": {
                     "name": "개경 불교 문화권",
-                    "mordernName": "개성시 중심 사찰·왕실 불교권",
+                    "modernName": "개성시 중심 사찰·왕실 불교권",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3499,7 +3499,7 @@
                 "description": "고려가 북방 요충지의 성곽과 병력을 보강하여 거란의 추가 침입에 대비하였다.",
                 "location": {
                     "name": "청천강 이북 방어선",
-                    "mordernName": "평안북도 중북부 권역",
+                    "modernName": "평안북도 중북부 권역",
                     "lat": 39.5,
                     "lng": 125.6
                 }
@@ -3519,35 +3519,35 @@
                 "description": "소배압이 이끄는 거란군이 다시 고려를 침입하였다.",
                 "location": {
                     "name": "청천강 방면",
-                    "mordernName": "평안북도 청천강 유역",
+                    "modernName": "평안북도 청천강 유역",
                     "lat": 39.4,
                     "lng": 125.6
                 },
                 "route": [
                     {
                         "name": "거란",
-                        "mordernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
+                        "modernName": "중국 네이멍구 동부·랴오닝성 서북부 일대",
                         "lat": 43.9,
                         "lng": 122.7,
                         "modernName": "중국 내몽골·랴오닝 일대"
                     },
                     {
                         "name": "압록강 방면",
-                        "mordernName": "평안북도 북부 및 중국-북한 접경 지역",
+                        "modernName": "평안북도 북부 및 중국-북한 접경 지역",
                         "lat": 40.1,
                         "lng": 124.4,
                         "modernName": "압록강 방면 (위치 추정)"
                     },
                     {
                         "name": "청천강 방면",
-                        "mordernName": "평안북도 청천강 유역",
+                        "modernName": "평안북도 청천강 유역",
                         "lat": 39.4,
                         "lng": 125.6,
                         "modernName": "청천강 방면 (위치 추정)"
                     },
                     {
                         "name": "귀주",
-                        "mordernName": "평안북도 구성시 인근 추정",
+                        "modernName": "평안북도 구성시 인근 추정",
                         "lat": 39.19,
                         "lng": 125.66,
                         "modernName": "평안북도 귀성 일대 (북한)"
@@ -3569,21 +3569,21 @@
                 "description": "강감찬이 귀주에서 거란군을 크게 격파하여 거란의 침입을 종결지었다.",
                 "location": {
                     "name": "귀주",
-                    "mordernName": "평안북도 구성시 인근 추정",
+                    "modernName": "평안북도 구성시 인근 추정",
                     "lat": 39.19,
                     "lng": 125.66
                 },
                 "route": [
                     {
                         "name": "청천강 유역",
-                        "mordernName": "평안북도 청천강 유역",
+                        "modernName": "평안북도 청천강 유역",
                         "lat": 39.4,
                         "lng": 125.6,
                         "modernName": "청천강 유역 (위치 추정)"
                     },
                     {
                         "name": "귀주",
-                        "mordernName": "평안북도 구성시 인근 추정",
+                        "modernName": "평안북도 구성시 인근 추정",
                         "lat": 39.19,
                         "lng": 125.66,
                         "modernName": "평안북도 귀성 일대 (북한)"
@@ -3604,7 +3604,7 @@
                 "description": "귀주대첩 이후 고려는 북방 정세를 안정시키고 중앙 체제를 다시 정비하였다.",
                 "location": {
                     "name": "개경",
-                    "mordernName": "개성시",
+                    "modernName": "개성시",
                     "lat": 37.97,
                     "lng": 126.55
                 }
@@ -3623,28 +3623,28 @@
                 "description": "예성강 하구의 벽란도가 국제 무역항으로 성장하며 송과 아라비아 상인과의 교역이 활발해졌다.",
                 "location": {
                     "name": "벽란도",
-                    "mordernName": "개성시 예성강 하구 인근 추정",
+                    "modernName": "개성시 예성강 하구 인근 추정",
                     "lat": 37.95,
                     "lng": 126.6
                 },
                 "locations": [
                     {
                         "name": "벽란도",
-                        "mordernName": "개성시 예성강 하구 인근 추정",
+                        "modernName": "개성시 예성강 하구 인근 추정",
                         "lat": 37.95,
                         "lng": 126.6,
                         "modernName": "벽란도 (위치 추정)"
                     },
                     {
                         "name": "개경",
-                        "mordernName": "개성시",
+                        "modernName": "개성시",
                         "lat": 37.97,
                         "lng": 126.55,
                         "modernName": "경기 개성시 (북한)"
                     },
                     {
                         "name": "송",
-                        "mordernName": "중국 저장성 항저우시 또는 허난성 카이펑시 계통",
+                        "modernName": "중국 저장성 항저우시 또는 허난성 카이펑시 계통",
                         "lat": 30.27,
                         "lng": 120.15,
                         "modernName": "송 (위치 추정)"
@@ -3666,33 +3666,813 @@
                 "description": "고려가 북방의 거란과 여진 세력에 대비하여 천리장성 축조를 시작하였다.",
                 "location": {
                     "name": "천리장성",
-                    "mordernName": "압록강에서 도련포 방면으로 이어지는 북한 북서부 방어선 추정",
+                    "modernName": "압록강에서 도련포 방면으로 이어지는 북한 북서부 방어선 추정",
                     "lat": 39.8,
                     "lng": 124.7
                 },
                 "route": [
                     {
                         "name": "압록강 방면",
-                        "mordernName": "평안북도 압록강 접경",
+                        "modernName": "평안북도 압록강 접경",
                         "lat": 40.1,
                         "lng": 124.4,
                         "modernName": "압록강 방면 (위치 추정)"
                     },
                     {
                         "name": "천리장성 중부",
-                        "mordernName": "평안북도 중북부 방어선 추정",
+                        "modernName": "평안북도 중북부 방어선 추정",
                         "lat": 39.8,
                         "lng": 124.7,
                         "modernName": "천리장성 중부 (위치 추정)"
                     },
                     {
                         "name": "도련포 방면",
-                        "mordernName": "평안남도 서북 연안 추정",
+                        "modernName": "평안남도 서북 연안 추정",
                         "lat": 39.5,
                         "lng": 126.2,
                         "modernName": "도련포 방면 (위치 추정)"
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "year": 1019,
+        "events": [
+            {
+                "id": "goryeo-1019-post-guiju-northern-order",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "귀주대첩 이후 북방 질서 안정",
+                "description": "귀주대첩 이후 고려는 거란의 위협을 억제하고 북방 국경 질서를 안정시켰다.",
+                "location": {
+                    "name": "귀주",
+                    "modernName": "평안북도 구성시 인근 추정",
+                    "lat": 39.19,
+                    "lng": 125.66
+                },
+                "locations": [
+                    {
+                        "name": "귀주",
+                        "modernName": "평안북도 구성시 인근 추정",
+                        "lat": 39.19,
+                        "lng": 125.66
+                    },
+                    {
+                        "name": "개경",
+                        "modernName": "개성시",
+                        "lat": 37.97,
+                        "lng": 126.55
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1027,
+        "events": [
+            {
+                "id": "goryeo-1027-buddhist-state-culture-growth",
+                "period": "고려",
+                "state": "고려",
+                "theme": "문화",
+                "title": "왕실 불교 문화 성장",
+                "description": "고려 전기 왕실과 귀족의 후원 아래 불교 문화와 사찰 네트워크가 확대되었다.",
+                "location": {
+                    "name": "개경 불교권",
+                    "modernName": "개성시 중심 사찰 문화권",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1033,
+        "events": [
+            {
+                "id": "goryeo-1033-cheolli-jangseong-context-expanded",
+                "period": "고려",
+                "state": "고려",
+                "ruler": "덕종",
+                "theme": "전쟁",
+                "title": "천리장성 축조 개시",
+                "description": "고려가 거란과 여진에 대비해 북서 방어선 구축 사업을 대대적으로 시작하였다.",
+                "location": {
+                    "name": "천리장성",
+                    "modernName": "압록강에서 평안남도 서북 연안으로 이어지는 북한 북서부 방어선 추정",
+                    "lat": 39.80,
+                    "lng": 124.70
+                },
+                "route": [
+                    {
+                        "name": "압록강 방면",
+                        "modernName": "평안북도 압록강 접경",
+                        "lat": 40.10,
+                        "lng": 124.40
+                    },
+                    {
+                        "name": "천리장성 중부",
+                        "modernName": "평안북도 중북부 방어선 추정",
+                        "lat": 39.80,
+                        "lng": 124.70
+                    },
+                    {
+                        "name": "도련포 방면",
+                        "modernName": "평안남도 서북 연안 추정",
+                        "lat": 39.50,
+                        "lng": 126.20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1044,
+        "events": [
+            {
+                "id": "goryeo-1044-cheolli-jangseong-completion-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "전쟁",
+                "title": "천리장성 완성",
+                "description": "고려가 천리장성을 완성하여 북방 방어선을 크게 강화하였다.",
+                "location": {
+                    "name": "천리장성",
+                    "modernName": "압록강에서 평안남도 서북 연안으로 이어지는 북한 북서부 방어선 추정",
+                    "lat": 39.70,
+                    "lng": 125.30
+                },
+                "locations": [
+                    {
+                        "name": "압록강 방면",
+                        "modernName": "평안북도 압록강 접경",
+                        "lat": 40.10,
+                        "lng": 124.40
+                    },
+                    {
+                        "name": "천리장성 중부",
+                        "modernName": "평안북도 중북부 방어선 추정",
+                        "lat": 39.70,
+                        "lng": 125.30
+                    },
+                    {
+                        "name": "도련포 방면",
+                        "modernName": "평안남도 서북 연안 추정",
+                        "lat": 39.50,
+                        "lng": 126.20
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1055,
+        "events": [
+            {
+                "id": "goryeo-1055-munbeol-nobility-growth-revised",
+                "period": "고려",
+                "state": "고려",
+                "theme": "사회",
+                "title": "문벌 귀족 사회 성장",
+                "description": "음서와 공음전 등을 바탕으로 한 문벌 귀족 사회가 성장하며 정치 권력이 특정 가문에 집중되었다.",
+                "location": {
+                    "name": "개경 귀족 사회권",
+                    "modernName": "개성시 중심 귀족 거주·관료 활동권",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1076,
+        "events": [
+            {
+                "id": "goryeo-1076-gukjagam-education-strengthened-revised",
+                "period": "고려",
+                "state": "고려",
+                "theme": "문화",
+                "title": "국자감 교육 기능 강화",
+                "description": "고려가 유학 교육과 관료 양성을 위해 국자감 중심 교육 기능을 더욱 강화하였다.",
+                "location": {
+                    "name": "국자감",
+                    "modernName": "개성시 중심 교육 기관권",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1080,
+        "events": [
+            {
+                "id": "goryeo-1080-jurchen-pressure-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "전쟁",
+                "title": "여진의 동북 국경 압박 심화",
+                "description": "여진 세력이 성장하며 고려 동북 국경에 대한 군사적 압박이 점차 심화되었다.",
+                "location": {
+                    "name": "동북 변경",
+                    "modernName": "함경북도 북부·두만강 인근 추정",
+                    "lat": 41.00,
+                    "lng": 129.00
+                },
+                "locations": [
+                    {
+                        "name": "동북 변경",
+                        "modernName": "함경북도 북부·두만강 인근 추정",
+                        "lat": 41.00,
+                        "lng": 129.00
+                    },
+                    {
+                        "name": "여진 활동권",
+                        "modernName": "중국 지린성 동부·러시아 연해주 남서부 일대",
+                        "lat": 42.50,
+                        "lng": 129.50
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1087,
+        "events": [
+            {
+                "id": "goryeo-1087-uicheon-return-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "ruler": "선종",
+                "theme": "인물",
+                "title": "의천의 교장 간행 활동",
+                "description": "의천이 송에서 귀국한 뒤 교장도감을 설치하고 불교 교학 정리를 추진하였다.",
+                "location": {
+                    "name": "개경",
+                    "modernName": "개성시",
+                    "lat": 37.97,
+                    "lng": 126.55
+                },
+                "route": [
+                    {
+                        "name": "송",
+                        "modernName": "중국 저장성 항저우시 또는 송 중심지 계통",
+                        "lat": 30.27,
+                        "lng": 120.15
+                    },
+                    {
+                        "name": "개경",
+                        "modernName": "개성시",
+                        "lat": 37.97,
+                        "lng": 126.55
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1090,
+        "events": [
+            {
+                "id": "goryeo-1090-north-defense-and-jurchen-balance",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "여진 대응과 북방 질서 조정",
+                "description": "고려가 북방 방어 체계를 유지하면서 여진 세력과의 긴장 속에서 균형을 모색하였다.",
+                "location": {
+                    "name": "북방 변경",
+                    "modernName": "함경북도 북부 및 두만강 연안 추정",
+                    "lat": 41.20,
+                    "lng": 129.20
+                }
+            }
+        ]
+    },
+    {
+        "year": 1097,
+        "events": [
+            {
+                "id": "goryeo-1097-heungwangsa-royal-buddhism-revised",
+                "period": "고려",
+                "state": "고려",
+                "theme": "문화",
+                "title": "흥왕사 중심 왕실 불교 발전",
+                "description": "개경의 대사찰을 중심으로 왕실 불교와 국가 의례가 더욱 체계화되었다.",
+                "location": {
+                    "name": "흥왕사권",
+                    "modernName": "개성시 인근 대사찰권 추정",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1101,
+        "events": [
+            {
+                "id": "goryeo-1101-jinul-reform-movement-revised",
+                "period": "고려",
+                "state": "고려",
+                "theme": "인물",
+                "title": "지눌의 불교 개혁 운동 전개",
+                "description": "지눌이 수선사 결사를 중심으로 불교 개혁 운동을 전개하였다.",
+                "location": {
+                    "name": "수선사권",
+                    "modernName": "전라남도 순천시 송광사 권역",
+                    "lat": 35.00,
+                    "lng": 127.27
+                }
+            }
+        ]
+    },
+    {
+        "year": 1104,
+        "events": [
+            {
+                "id": "goryeo-1104-byeolmuban-preparation-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "ruler": "숙종",
+                "theme": "전쟁",
+                "title": "별무반 편성 준비",
+                "description": "여진의 기병 전력에 대응하기 위해 고려가 특수 군사 조직 편성을 추진하였다.",
+                "location": {
+                    "name": "개경 군사 조직권",
+                    "modernName": "개성시 중심 중앙군 편성권",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1107,
+        "events": [
+            {
+                "id": "goryeo-1107-yun-gwan-campaign-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "ruler": "예종",
+                "theme": "전쟁",
+                "title": "윤관의 여진 정벌",
+                "description": "윤관이 별무반을 이끌고 여진을 정벌하며 동북 방면으로 진출하였다.",
+                "location": {
+                    "name": "동북 변경",
+                    "modernName": "함경북도 북부·두만강 인근 추정",
+                    "lat": 41.20,
+                    "lng": 129.10
+                },
+                "route": [
+                    {
+                        "name": "개경",
+                        "modernName": "개성시",
+                        "lat": 37.97,
+                        "lng": 126.55
+                    },
+                    {
+                        "name": "동북 변경",
+                        "modernName": "함경북도 북부·두만강 인근 추정",
+                        "lat": 41.20,
+                        "lng": 129.10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1108,
+        "events": [
+            {
+                "id": "goryeo-1108-nine-fortresses-installed-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "ruler": "예종",
+                "theme": "정치",
+                "title": "동북 9성 설치",
+                "description": "고려가 여진 정벌 이후 동북 9성을 설치하여 북방 영토 지배를 시도하였다.",
+                "location": {
+                    "name": "동북 9성",
+                    "modernName": "함경북도 북부·중국 지린성 동부 접경 추정",
+                    "lat": 41.20,
+                    "lng": 129.10
+                }
+            }
+        ]
+    },
+    {
+        "year": 1109,
+        "events": [
+            {
+                "id": "goryeo-1109-nine-fortresses-returned-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "동북 9성 반환",
+                "description": "보급과 방어의 어려움 속에서 고려가 동북 9성을 여진에 반환하였다.",
+                "location": {
+                    "name": "동북 9성",
+                    "modernName": "함경북도 북부·중국 지린성 동부 접경 추정",
+                    "lat": 41.20,
+                    "lng": 129.10
+                },
+                "route": [
+                    {
+                        "name": "동북 9성",
+                        "modernName": "함경북도 북부·중국 지린성 동부 접경 추정",
+                        "lat": 41.20,
+                        "lng": 129.10
+                    },
+                    {
+                        "name": "고려 동북 경계선",
+                        "modernName": "함경북도 남부 추정",
+                        "lat": 40.60,
+                        "lng": 128.80
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1115,
+        "events": [
+            {
+                "id": "goryeo-1115-jin-founding-impact-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "금 건국과 북방 정세 변화",
+                "description": "여진이 금을 건국하면서 고려의 대외 관계와 북방 질서가 크게 변화하였다.",
+                "location": {
+                    "name": "금",
+                    "modernName": "중국 지린성 중부·동북부 일대",
+                    "lat": 43.50,
+                    "lng": 126.50
+                },
+                "locations": [
+                    {
+                        "name": "금",
+                        "modernName": "중국 지린성 중부·동북부 일대",
+                        "lat": 43.50,
+                        "lng": 126.50
+                    },
+                    {
+                        "name": "개경",
+                        "modernName": "개성시",
+                        "lat": 37.97,
+                        "lng": 126.55
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1115,
+        "events": [
+            {
+                "id": "goryeo-1115-jin-diplomatic-shift",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "금과의 외교 관계 조정",
+                "description": "금의 건국 이후 고려는 송·금 사이에서 외교 노선을 조정하며 북방 질서 변화에 대응하였다.",
+                "location": {
+                    "name": "개경",
+                    "modernName": "개성시",
+                    "lat": 37.97,
+                    "lng": 126.55
+                },
+                "locations": [
+                    {
+                        "name": "개경",
+                        "modernName": "개성시",
+                        "lat": 37.97,
+                        "lng": 126.55
+                    },
+                    {
+                        "name": "금",
+                        "modernName": "중국 지린성 중부·동북부 일대",
+                        "lat": 43.50,
+                        "lng": 126.50
+                    },
+                    {
+                        "name": "송",
+                        "modernName": "중국 저장성 항저우시 또는 송 중심지 계통",
+                        "lat": 30.27,
+                        "lng": 120.15
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1122,
+        "events": [
+            {
+                "id": "goryeo-1122-bureaucracy-and-aristocracy-balance",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "문벌 귀족 정치 구조 심화",
+                "description": "왕실과 혼인 관계를 맺은 유력 가문들이 관직과 토지를 기반으로 정치 권력을 강화하였다.",
+                "location": {
+                    "name": "개경 귀족 사회권",
+                    "modernName": "개성시 중심 귀족·관료 활동권",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1126,
+        "events": [
+            {
+                "id": "goryeo-1126-lee-jagyeom-rebellion-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "이자겸의 난",
+                "description": "문벌 귀족 세력의 갈등 속에서 이자겸이 반란을 일으켜 왕권을 위협하였다.",
+                "location": {
+                    "name": "개경",
+                    "modernName": "개성시",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1127,
+        "events": [
+            {
+                "id": "goryeo-1127-post-lee-jagyeom-royal-recovery",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "난 이후 왕권 회복 시도",
+                "description": "이자겸의 난 이후 고려 조정은 문벌 귀족의 영향력을 조정하며 왕권 회복을 시도하였다.",
+                "location": {
+                    "name": "개경",
+                    "modernName": "개성시",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1130,
+        "events": [
+            {
+                "id": "goryeo-1130-seogyeong-growth-context",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "서경 세력의 성장",
+                "description": "평양을 중심으로 한 서경 세력이 정치·군사적 중요성을 높이며 개경 중심 질서에 도전할 기반을 넓혔다.",
+                "location": {
+                    "name": "서경",
+                    "modernName": "평양시",
+                    "lat": 39.03,
+                    "lng": 125.75
+                },
+                "locations": [
+                    {
+                        "name": "서경",
+                        "modernName": "평양시",
+                        "lat": 39.03,
+                        "lng": 125.75
+                    },
+                    {
+                        "name": "개경",
+                        "modernName": "개성시",
+                        "lat": 37.97,
+                        "lng": 126.55
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1135,
+        "events": [
+            {
+                "id": "goryeo-1135-myo-cheong-rebellion-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "묘청의 서경 천도 운동과 난",
+                "description": "묘청이 서경 천도와 북진 정책을 주장하며 반란을 일으켰다.",
+                "location": {
+                    "name": "서경",
+                    "modernName": "평양시",
+                    "lat": 39.03,
+                    "lng": 125.75
+                },
+                "route": [
+                    {
+                        "name": "개경",
+                        "modernName": "개성시",
+                        "lat": 37.97,
+                        "lng": 126.55
+                    },
+                    {
+                        "name": "서경",
+                        "modernName": "평양시",
+                        "lat": 39.03,
+                        "lng": 125.75
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1136,
+        "events": [
+            {
+                "id": "goryeo-1136-seogyeong-rebellion-suppressed",
+                "period": "고려",
+                "state": "고려",
+                "theme": "전쟁",
+                "title": "서경 반란 진압",
+                "description": "김부식 등이 중심이 되어 묘청의 난을 진압하고 개경 중심 질서를 재확인하였다.",
+                "location": {
+                    "name": "서경",
+                    "modernName": "평양시",
+                    "lat": 39.03,
+                    "lng": 125.75
+                }
+            }
+        ]
+    },
+    {
+        "year": 1145,
+        "events": [
+            {
+                "id": "goryeo-1145-samguk-sagi",
+                "period": "고려",
+                "state": "고려",
+                "theme": "문화",
+                "title": "삼국사기 편찬",
+                "description": "김부식이 중심이 되어 삼국사기를 편찬하였다.",
+                "location": {
+                    "name": "개경",
+                    "modernName": "개성시",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1150,
+        "events": [
+            {
+                "id": "goryeo-1150-aristocratic-order-matured",
+                "period": "고려",
+                "state": "고려",
+                "theme": "사회",
+                "title": "문벌 귀족 질서의 성숙",
+                "description": "고려 중기에 문벌 귀족 중심의 정치·사회 질서가 성숙하며 중앙 권력 구조가 안정되었다.",
+                "location": {
+                    "name": "개경 귀족 사회권",
+                    "modernName": "개성시 중심 귀족·관료 활동권",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1160,
+        "events": [
+            {
+                "id": "goryeo-1160-military-discontent-growth",
+                "period": "고려",
+                "state": "고려",
+                "theme": "사회",
+                "title": "무신 불만 누적",
+                "description": "문신 우대 구조와 차별 속에서 무신 계층의 불만이 누적되었다.",
+                "location": {
+                    "name": "개경 군사권",
+                    "modernName": "개성시 중심 중앙군 주둔권",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1170,
+        "events": [
+            {
+                "id": "goryeo-1170-military-coup-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "무신정변",
+                "description": "정중부 등 무신 세력이 정변을 일으켜 무신 정권이 시작되었다.",
+                "location": {
+                    "name": "개경",
+                    "modernName": "개성시",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1173,
+        "events": [
+            {
+                "id": "goryeo-1173-gim-bo-dang-rebellion-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "김보당의 난",
+                "description": "무신 정권에 반발한 김보당이 의종 복위를 도모하며 반란을 일으켰다.",
+                "location": {
+                    "name": "개경",
+                    "modernName": "개성시",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1174,
+        "events": [
+            {
+                "id": "goryeo-1174-jo-wi-chong-rebellion-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "사회",
+                "title": "조위총의 난",
+                "description": "서경에서 조위총이 무신 정권에 반발하여 반란을 일으켰다.",
+                "location": {
+                    "name": "서경",
+                    "modernName": "평양시",
+                    "lat": 39.03,
+                    "lng": 125.75
+                },
+                "route": [
+                    {
+                        "name": "개경",
+                        "modernName": "개성시",
+                        "lat": 37.97,
+                        "lng": 126.55
+                    },
+                    {
+                        "name": "서경",
+                        "modernName": "평양시",
+                        "lat": 39.03,
+                        "lng": 125.75
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "year": 1196,
+        "events": [
+            {
+                "id": "goryeo-1196-choi-chung-heon-rule-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "정치",
+                "title": "최충헌 집권",
+                "description": "최충헌이 집권하여 최씨 무신 정권이 성립하였다.",
+                "location": {
+                    "name": "개경",
+                    "modernName": "개성시",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
+            }
+        ]
+    },
+    {
+        "year": 1198,
+        "events": [
+            {
+                "id": "goryeo-1198-manjuk-rebellion-revised-v2",
+                "period": "고려",
+                "state": "고려",
+                "theme": "사회",
+                "title": "만적의 난",
+                "description": "최충헌 집권기 노비 만적이 신분 해방을 주장하며 봉기하였다.",
+                "location": {
+                    "name": "개경",
+                    "modernName": "개성시",
+                    "lat": 37.97,
+                    "lng": 126.55
+                }
             }
         ]
     }
