@@ -292,18 +292,20 @@ function updateMarkers(year, theme) {
                      : null;
 
         if (places && places.length >= 2) {
-            // ── 멀티 지점: 폴리라인 + 핀 마커 ──
+            // ── 멀티 지점: 핀 마커 (+ 선은 route 또는 showLine:true 일 때만) ──
             const latLngs = places.map(p => [p.lat, p.lng]);
+            const drawLine = !!event.route || event.showLine === true;
 
-            // 연결선
-            const line = L.polyline(latLngs, {
-                color,
-                weight: 2.5,
-                opacity: 0.75,
-                dashArray: event.route ? '7, 5' : null
-            }).addTo(map);
-            line.bindPopup(popupHTML, { maxWidth: 280 });
-            markers.push(line);
+            if (drawLine) {
+                const line = L.polyline(latLngs, {
+                    color,
+                    weight: 2.5,
+                    opacity: 0.75,
+                    dashArray: event.route ? '7, 5' : null
+                }).addTo(map);
+                line.bindPopup(popupHTML, { maxWidth: 280 });
+                markers.push(line);
+            }
 
             // 각 지점에 핀 마커 (endpoint: 큰 핀, 중간 지점: 작은 핀)
             places.forEach((place, idx) => {
